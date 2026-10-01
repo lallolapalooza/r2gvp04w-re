@@ -1,0 +1,20 @@
+Name: moviAsm64.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviAsm64.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 18068a7ff (size=6854656, init=true, exec=true, r=true, w=false)
+  .rdata: 18068b000 - 1806fdbff (size=470016, init=true, exec=false, r=true, w=false)
+  .data: 1806fe000 - 180717b13 (size=105236, init=true, exec=false, r=true, w=true)
+  .pdata: 180718000 - 1807323ff (size=107520, init=true, exec=false, r=true, w=false)
+  _RDATA: 180733000 - 1807331ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 180734000 - 1807345ff (size=1536, init=true, exec=false, r=true, w=false)
+  .reloc: 180735000 - 1807371ff (size=8704, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

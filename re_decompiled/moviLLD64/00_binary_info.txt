@@ -1,0 +1,20 @@
+Name: moviLLD64.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviLLD64.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 1816ad5ff (size=23774720, init=true, exec=true, r=true, w=false)
+  .rdata: 1816ae000 - 18197fdff (size=2956800, init=true, exec=false, r=true, w=false)
+  .data: 181980000 - 1819e4073 (size=409716, init=true, exec=false, r=true, w=true)
+  .pdata: 1819e5000 - 181ad03ff (size=963584, init=true, exec=false, r=true, w=false)
+  _RDATA: 181ad1000 - 181ad11ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 181ad2000 - 181ad25ff (size=1536, init=true, exec=false, r=true, w=false)
+  .reloc: 181ad3000 - 181aec5ff (size=103936, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

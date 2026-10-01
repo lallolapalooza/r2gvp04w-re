@@ -1,0 +1,263 @@
+WINDOWS\SYSTEM32\DRIVERSTORE\FILEREPOSITORY
+Dbghelp.dll
+DumpFolder
+DumpType
+CustomDumpFlags
+USERPROFILE
+ntdll.dll
+()*+,-./01
+23453678
+JJ)JJL
+MNOMNNOOP
+QK																			K																									
+RLJJJJ
+VVVVVVVVV
+WXYXXXYXXXYXXXYXX	
+;;;;;;;;
+;;;;;;;;
+M((R((((NOPM((R(
+;;;;;;;;
+;;;;;;;;;;;
+								Z
+^__`aabaaaaaaaaaaccdd]]]^^^^^^eefeef^^^^^^ff^g^^hij`j_k__lmllllnn`ioppqrstu^v^^vkkkk^^^^^^^kkkkkw^up`xyyz{zzzxyyz{zzzyzz{|{{{xyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzzxyyz{zzz}~
+o^^^^^^^^
+^gaabaaaaaaaaaaaaa
+cd^^``^^^^
+vvv`^^
+bbbbbbbbbbbbb
+^^^^^^^
+>>>>>>
+<<<<<<<<
+<<<<<<<<
+<<<<<<<<
+<<<<<<<<
+<<<<<<<<
+<<<<<<<<<<<
+<<<<<<
+^p^\\^^^^^^^^^^^^^^^^^\\
+hhhh^^^^^
+^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^
+^^^^^^^
+IIIIIIIIIIII
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<
+II<<<<<<
+I<<<II
+IIIIII
+<<<<<<<<IIIIII
+!x-sys-default-locale
+\\?\GLOBALROOT
+kernel32.dll
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+:AM:am:PM:pm
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+mscoree.dll
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+_is_double
+__crt_strtox::floating_point_value::as_float
+!_is_double
+IND)ind)
+.Visual C++ CRT: Not enough memory to complete call to strerror.
+         (((((                  H
+         (((((                  H
+      (                          
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-file-l2-1-4
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernelbase
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+UTF-16LEUNICODE
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+040904b0
+FileDescription
+VPU DML Compiler
+ProductVersion
+31.0.100.1688
+FileVersion
+31.0.100.1688
+InternalName
+npu_dml_compiler.dll
+ProductName
+Intel(R) NPU Driver
+LegalCopyright
+Copyright 2023 Intel(R) Corporation.  All rights reserved.
+CompanyName
+Intel(R) Corporation
+"Intel Corporatio

@@ -1,0 +1,7 @@
+program: shavedxilvecz64.dll
+total_functions: 59042
+decompiled_ok: 59036
+decompile_failed: 6
+exports: 3
+imports: 264
+elapsed_sec: 2341

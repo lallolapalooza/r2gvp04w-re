@@ -1,0 +1,7 @@
+program: moviCompile64.dll
+total_functions: 82549
+decompiled_ok: 82517
+decompile_failed: 32
+exports: 3
+imports: 165
+elapsed_sec: 6034

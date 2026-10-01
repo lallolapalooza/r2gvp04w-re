@@ -1,0 +1,7 @@
+program: npu_blob_parser.dll
+total_functions: 4096
+decompiled_ok: 4096
+decompile_failed: 0
+exports: 12
+imports: 128
+elapsed_sec: 169

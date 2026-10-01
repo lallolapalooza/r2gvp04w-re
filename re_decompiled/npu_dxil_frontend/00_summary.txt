@@ -1,0 +1,7 @@
+program: npu_dxil_frontend.dll
+total_functions: 12728
+decompiled_ok: 12720
+decompile_failed: 8
+exports: 2
+imports: 149
+elapsed_sec: 1246

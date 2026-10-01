@@ -1,0 +1,20 @@
+Name: npu_dml_compiler.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/npu_dml_compiler.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 1858e89ff (size=93223424, init=true, exec=true, r=true, w=false)
+  .rdata: 1858e9000 - 1864dabff (size=12524544, init=true, exec=false, r=true, w=false)
+  .data: 1864db000 - 1865a3ed3 (size=822996, init=true, exec=false, r=true, w=true)
+  .pdata: 1865a4000 - 1867e65ff (size=2369024, init=true, exec=false, r=true, w=false)
+  _RDATA: 1867e7000 - 1867e73ff (size=1024, init=true, exec=false, r=true, w=false)
+  .rsrc: 1867e8000 - 1867e85ff (size=1536, init=true, exec=false, r=true, w=false)
+  .reloc: 1867e9000 - 186811bff (size=166912, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

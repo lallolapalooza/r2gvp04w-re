@@ -1,0 +1,33 @@
+O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@O@
+USERPROFILE
+ntdll.dll
+Dbghelp.dll
+DumpFolder
+DumpType
+CustomDumpFlags
+KERNEL32.DLL
+!x-sys-default-locale
+api-ms-win-core-synch-l1-2-0.dll
+kernel32.dll
+:AM:am:PM:pm
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+040904b0
+CompanyName
+Intel(R) Corporation
+FileDescription
+Intel(R) SHAVE Vectorizer
+FileVersion
+11.1.3
+InternalName
+LegalCopyright
+Copyright 2023 Intel(R) Corporation.  All rights reserved.
+OriginalFilename
+shavedxilvecz64.dll
+ProductName
+Intel(R) Movidius(TM) VPU Driver
+ProductVersion
+11.1.3
+"Intel Corporatio

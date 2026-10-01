@@ -1,0 +1,20 @@
+Name: npu_d3d12_umd.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/npu_d3d12_umd.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 180193dff (size=1650176, init=true, exec=true, r=true, w=false)
+  .rdata: 180194000 - 180206dff (size=470528, init=true, exec=false, r=true, w=false)
+  .data: 180207000 - 18020f883 (size=34948, init=true, exec=false, r=true, w=true)
+  .pdata: 180210000 - 180218dff (size=36352, init=true, exec=false, r=true, w=false)
+  _RDATA: 180219000 - 1802191ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 18021a000 - 180224dff (size=44544, init=true, exec=false, r=true, w=false)
+  .reloc: 180225000 - 180225dff (size=3584, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

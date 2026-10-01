@@ -1,0 +1,1742 @@
+!This program cannot be run in DOS mode.
+h.rdata
+H.data
+.pdata
+b.rsrc
+B.reloc
+l$ AVH
+D$ @MP 
+t(HcT$@
+ HcL$@H
+@SWAVAWH
+t(HcT$$
+ HcL$$H
+t(HcT$$
+ HcL$$H
+t(HcT$$
+ HcL$$H
+8A_A^_[
+WAVAWH
+@A_A^_
+R$fE;J*
+UVWAVAWH
+D$ @MP 
+D$ @MP 
+D$HH9o t
+A_A^_^]
+D$ @MP H
+@USVWATAUAVAWH
+D$ @MP 
+D$ @MP 
+A_A^A]A\_^[]
+|$0 u-
+m9l$8ubD9t$<u[;
+|$0 uND
+f9L$&u
+@SUVAUAWH
+capsule
+D$X@KL
+A_A]^][
+@USVWATAUAVAWH
+capsule
+A_A^A]A\_^[]
+@UWAVH
+t$ UWAWH
+@USVATH
+|$ UATAUAVAWH
+A_A^A]A\]
+VWATAVAWH
+D$ @MP 
+D$ @MP 
+A_A^A\_^
+t$ WAVAWH
+D$ @MP 
+Hc\$@E3
+D$ @MP 
+t$ WAVAWH
+D$ @MP 
+Hc\$@E3
+D$ @MP 
+@SUVWH
+D$ @MP H
+D$ @MP D
+P8H+P@Hi
+D$@AeiC
+D$D_RSTH
+D$@AeiC
+D$D_RST
+D$@AeiC
+D$D_RSTH
+UVWAVAWH
+A_A^_^]
+@UWATAVH
+A^A\_]
+WAVAWH
+ A_A^_
+ATAVAWH
+0A_A^A\
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWAVH
+A^_^[]
+D$ @MP L
+@USVATH
+D$ @MP H
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+D$ @MP L
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+L$ SVH
+L$ SVH
+WAVAWH
+ A_A^_
+\$Pt-H
+tfH9X@t`A
+PPPCtd
+tWH91tRH
+l$H@8.u 
+\$@t>H
+EH9w(t
+H9w0t	
+VWATAVAWH
+A_A^A\_^
+WATAUAVAWH
+0A_A^A]A\_
+D$ @MP D
+UVATAWH
+D$ @MP 
+xA_A\^]
+@UVWATAVAWH
+D$ @MP 
+hA_A^A\_^]
+@8(t	H
+A IiBP
+\$ UVWH
+l$ VWATH
+\$ UVWH
+\$ UVWH
+@UVWAVH
+\$ UVWH
+@8|$Pt
+VAVAWH
+ A_A^^
+ A_A^^
+t$ AVH
+L$ VWAWH
+u=8\$xt
+|$ AVH
+|$ AVH
+UVAUAVAWH
+ A_A^A]^]
+ A_A^A]^]
+t$ ATAVAWH
+uM@8|$htFD
+ A_A^A\
+|$ AVH
+@8|$Xt
+|$ AVH
+@8|$Pt
+|$ AVH
+@8|$Pt
+t$ AVH
+\$ UVAUAVAWH
+D$ @MP H
+@A_A^A]^]
+D$ @MP D
+D$ @MP E
+|$Pfff
+WAVAWH
+ A_A^_
+|$ ATAVAWH
+ A_A^A\
+|$ AVH
+Q M9Q(t
+@SUVWATAVAWH
+`A_A^A\_^][
+SUVAUAWH
+PA_A]^][
+|$ ATAVAWH
+A9F$rLD
+0A_A^A\
+|$ AVH
+|$ ATAVAWH
+D$ @MP E
+@A_A^A\
+L$ VWH
+D$ @MP 
+l$ VWATH
+l$ VWATH
+|$ AVH
+D$ @MP D
+D$ @MP D
+@VATAUAVH
+A^A]A\^
+|$ ATAVAWH
+@A_A^A\
+@VWAVH
+UAVAWH
+0A_A^]
+0A_A^]
+0A_A^]
+tpM9>tk
+@SUVATAUAWH
+hA_A]A\^][
+D$ @MP D
+D$ @MP D
+C0H;C@t#H
+r@H;r8v(H
+C@H;C8v
+D$ @MP 
+C@H;C8v
+K@+K0H
+@SVWAWH
+HA__^[
+@SUVWH
+@SUVAUAVAWH
+D$ @MP H
+xA_A^A]^][
+|$ AVH
+@USWAVAWH
+D$ @MP I
+D$ @MP 
+A_A^_[]
+D$ @MP D
+D$ @MP D
+t$ AVH
+L$ht*H
+9G<t(H
+|$ ATAVAWH
+ A_A^A\
+@SATAUAWH
+XA_A]A\[
+@USVWATAVAWH
+A_A^A\_^[]
+D$ @MP 
+|$Ht#H
+D$ @MP 
+VATAUH
+|$0uPH
+@A]A\^
+VAUAWH
+@A_A]^
+@A_A]^
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+@SUVWAVH
+`A^_^][
+D$ @MP E3
+|CHcD$PHk
+D$<9D$(vB
+L$@H9A(t
+HcL$ Hk
+HcL$ Hk
+D$XH9D$8tdH
+D$HH9D$8tXH
+L$(H;A
+D$(9D$,t
+D$pH9D$xt
+D$09D$ 
+D$09D$ 
+H9D$(umH
+L$(H9A(t2
+H9D$8s
+H9D$0v
+D$0H9D$(ro
+D$@H9D$8s
+D$@H9D$0rf
+D$PH9D$(tgH
+D$8H9D$(t[H
+D$ @MP E3
+HcL$DH
+HcL$8H
+HcL$8H
+L$@H9H
+D$HH9D$Pu
+HcL$8H
+D$ @MP E3
+L$pH9H
+L$@H9H
+D$HH9D$Pu
+HcL$4H
+L$8H9H
+D$@H9D$Hu
+L$(H9A8
+}'HcD$ H
+HcL$ H
+t$ WATAUAVAWH
+I9FHsJ
+ A_A^A]A\_
+UVWATAUAVAWH
+I9FHsJ
+H9C@rHH
+ A_A^A]A\_^]
+\$ VWAVH
+@SUVWATAVAWH
+A_A^A\_^][
+|$ D9r
+@SWAWH
+H+~ E3
+D$ @MP 
+D$ @VMME
+UVWAVAWH
+C(H9;t
+PA_A^_^]
+UVATAWI
+A_A\^]
+(T$@E3
+@UVAVH
+D$@M)|$
+D$@M)|$
+D$@M)|$
+@SVWATAUH
+pA]A\_^[
+D$ @VMMH
+|$ AVH
+D$`L9pHtPH
+\$ UWAUAVAWH
+A_A^A]_]
+@VWAVH
+O0H+O 
+OHH+O@
+O(H+O H
+@UVWATAWH
+`A_A\_^]
+t$PuEH
+t$ WATAVH
+ A^A\_
+@VWATAVAWH
+ A_A^A\_^
+ A_A^A\_^
+ A_A^A\_^
+l$ WATAVH
+0A^A\_
+0A^A\_
+|$ AVH
+@SVAVH
+D$ @VMMA
+|$ AVH
+t<L9JHt6
+@VAVAWH
+0A_A^^
+0A_A^^
+0A_A^^
+0A_A^^
+D$ @VMM
+@SUVATAUAVAWH
+@A_A^A]A\^][
+@A_A^A]A\^][
+D$ @VMM
+t&D8\$0u
+D$0fff
+d$8tMH
+AltTE3
+SVWATH
+																																				
+																													
+												
+										
+						
+@SAVAWH
+ A_A^[
+ A_A^[
+@USATAUAWH
+D$ @MP I
+A_A]A\[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+D$ @MP 
+@SUVWAWH
+A__^][
+@SUVWH
+VWAUAVAWH
+@A_A^A]_^
+[ VWAVH
+UVWATAUAVAWH
+D#T$pA
+A_A^A]A\_^]
+@USVWATAUAVAWH
+T$<A9E(u
+G$9G(t
+K$A9K(
+LcT$8I
+LcT$0M
+LcT$<M
+LcT$8M
+LcD$0M
+LcT$<M
+Hc\$8L
+HcT$0I
+Hc\$<H
+LcT$8I
+HcL$0I
+t$pLcL$<M
+LcT$8M
+LcT$0M
+LcT$<M
+Hc\$8L
+Hc\$0I
+Hc\$<H
+LcT$8M
+Hc\$0I
+LcT$<I
+Hc\$8L
+HcT$0I
+Hc\$<H
+Hc\$8L
+HcT$0I
+Hc\$<H
+LcT$8M
+Hc\$0I
+LcT$<I
+Hc\$8L
+HcT$0I
+Hc\$<H
+Hc\$8L
+HcT$0I
+Hc\$<H
+LcT$8M
+LcT$0M
+LcT$<I
+Hc\$8L
+Hc\$0I
+Hc\$<H
+Hc\$8L
+Hc\$0I
+Hc\$<H
+Lc\$0M
+HcT$4L
+L$HHcL$PL
+uULcT$0IcK$M
+Lc\$4IcM
+Hc\$0IcK$I
+!IcM$L
+Lc\$0M
+HcT$4H
+L$@HcL$PL
+uaLcT$0IcK$M
+Hc\$0IcK$I
+!IcM$L
+IcK$Hc\$0I
+HcT$4H
+[Hc\$PF
+A_A^A]A\_^[]
+Lc\$0M
+HcL$4H
+LcD$0IcK$M
+!IcM$L
+IcK$Hc\$0I
++D$H#D$HHc
+>Hc|$4A
+Lc\$0M
+LcT$0IcK$M
+IcK$Hc\$0I
+HcT$4H
+[Hc\$PF
+Lc\$0M
+HcL$4H
+LcD$0IcK$M
+!IcM$L
+IcK$Hc\$0I
+HcT$4H
+L$@Ic]
+[Hc\$PF
+Lc\$0M
+HcL$4H
+LcD$0IcK$M
+!IcM$L
+LcD$0IcK$M
+HcL$4Hct$PL
+9IcM$L
+uYHc\$0IcK$I
+9IcM$L
+Hc\$0IcK$I
+LcD$0IcK$M
+HcL$4Lct$PL
+9IcM$L
+u[Hc\$0IcK$I
+LcD$4f
+9IcM$L
+Hc\$0IcK$I
+LcD$0IcK$M
+HcL$4LcL$PL
+9IcM$L
+uRHc\$0IcK$I
+LcD$4Hc
+9IcM$L
+Hc\$0IcK$I
+Lc\$0M
+HcL$4H
+HcL$PH
+9IcM$L
+uNLcD$0IcK$M
+9IcM$L
+LcD$0IcK$M
+Hc\$0IcK$I
+HcL$4D
+Hct$PL
+Lc\$0M
+Lct$4f
+LcD$0IcK$M
+Lc\$0M
+HcL$4L
+HcL$PH
+9IcM$L
+uTLcD$0IcK$M
+LcT$4f
+9IcM$L
+LcD$0IcK$M
+Lc\$0M
+HcL$4L
+HcL$PH
+9IcM$L
+uULcD$0IcK$M
+LcT$4f
+9IcM$L
+LcD$0IcK$M
+WAVAWH
+ A_A^_
+p WAVAWH
+@A_A^_
+UWATAVAWH
+A_A^A\_]
+ffffff
+fffffff
+fffffff
+fffffff
+fffffff
+uLffff
+fffffff
+ffffff
+D$$!D$$
+USVWAVH
+A^_^[]
+\$ UVWH
+AQAPRQPH
+0XYZAXAY
+-fffffff
+fffffff
+fffffff
+fffffff
+.fffffff
+fffffff
+fffffff
+__VpuIntrBlockIsrRoutine
+npu_kmd!%s: [ERROR] KMB d0i2 RefCount = %d 
+npu_kmd!%s: [ERROR] Interrupt received but no interruptible event identified!
+__VpuIntrBlockIdentifyEvent
+npu_kmd!%s: [ERROR] Interrupt pending MMIO read as 0xFFFFFFFF, KMB is in d0i2. skipping this interrupt !
+DxgkDdiResetEngine
+npu_kmd!%s: [ERROR] skipped VpuSetD0i3ComponentActiveIfSupported() as D0ixComponentIdlePending
+npu_kmd!%s: [ERROR] KmResetEngine failed!!, status =: 0x%x, skipped VpuSetD0i3ComponentIdleIfSupported()
+VpuFreePrivateContextBlock
+npu_kmd!%s: [ERROR] VpuFreePrivateContextBlock NULL parameters!
+VpuUnmapMemory
+npu_kmd!%s: [ERROR] VpuUnmapMemory: Unable to unmap MMIO BAR!
+npu_kmd!%s: [ERROR] VpuUnmapMemory: Unable to unmap Cmd BAR!
+VpuInitializeBugCheckCallBackRoutines
+npu_kmd!%s: [ERROR] Unable to allocate memory for bugcheck callback data
+npu_kmd
+npu_kmd!%s: [ERROR] Unable to register KmBugcheckSecondaryDumpDataCallback!
+VpuFwTraceControlCallback
+npu_kmd!%s: [ERROR] Invalid Control code -> %d
+VpuInitializeSWManagedATS
+npu_kmd!%s: [ERROR] Unsupported Platform!
+VpuStopDevice
+npu_kmd!%s: [ERROR] VPU device Reset failed
+npu_kmd!%s: [ERROR] Failed to Disable PLL
+npu_kmd!%s: [ERROR] DxgkddiStopDevice- Unable to destroy VMM!
+VPUAL-000000
+LoadFirmwareFromFile
+npu_kmd!%s: [ERROR] Failed to allocate memory for fwFilePath
+npu_kmd!%s: [ERROR] Failed to open FW file (%ws): %x
+npu_kmd!%s: [ERROR] Failed to get FW file size: %x
+npu_kmd!%s: [ERROR] Failed to allocate memory for fw
+npu_kmd!%s: [ERROR] Failed to read the FW file: %x
+npu_kmd!%s: [INFO] Read the FW from file: %ws (%d bytes)
+__VpuIsFirstTimeBoot
+npu_kmd!%s: [ERROR] Failed to create and update reg key, report it for debug purpose
+__VpuCheckSecureFota
+npu_kmd!%s: [ERROR] Error!! Unexpected FW size
+npu_kmd!%s: [ERROR] Boundary check Failed!! FipFileTocHeader.VersionOffset pointing beyond FwSize
+__ValidateVpuFwRuntimeSize
+npu_kmd!%s: [ERROR] Vpu FW runtime size is zero in FW headers, hardcode to 256M
+npu_kmd!%s: [ERROR] Invalid Vpu FW runtime size in FW headers, hardcode to 256M
+VPURECOV-001
+VPUSYSUP-001
+VpuGetFwUpdateBspecVersion
+npu_kmd!%s: [ERROR] Unexpected recovery mode Magic value
+__VpuFirmwareFlash_lowmem
+npu_kmd!%s: [ERROR] Failed to allocate 1M memory
+npu_kmd!%s: [ERROR] 1M: FW Flashing failed: 0x%x
+npu_kmd!%s: [ERROR] 1M: FW payload transfer failed: 0x%x
+npu_kmd!%s: [ERROR] 1M: FW authentication failed: 0x%x
+VpuFirmwareFlash
+npu_kmd!%s: [ERROR] Unable to allocate memory for FW binary, retry with 1M
+npu_kmd!%s: [ERROR] Unable to allocate MDL for FW memory, retry with 1M
+npu_kmd!%s: [ERROR] FW Flashing failed: 0x%x
+npu_kmd!%s: [ERROR] FW payload transfer failed: 0x%x
+npu_kmd!%s: [ERROR] FW authentication failed: 0x%x
+VpuFwVersionCheckAndFlash
+npu_kmd!%s: [ERROR] Failed to load FIP firmware file
+npu_kmd!%s: [ERROR] Failed to check SecureFota
+npu_kmd!%s: [ERROR] Failed to load Boot firmware file
+npu_kmd!%s: [ERROR] FIP SVN is invalid, less than BAR2 SVN
+npu_kmd!%s: [ERROR] VPU Failed to enter recovery mode
+npu_kmd!%s: [ERROR] Failed to flash FIP image
+npu_kmd!%s: [ERROR] Failed to flash Boot image
+npu_kmd!%s: [ERROR] Successfully updated KMB FIP and OS(Boot) packages
+npu_kmd!%s: [ERROR] Boot SVN is invalid, less than BAR2 SVN
+npu_kmd!%s: [INFO] Successfully updated KMB OS(Boot) package
+npu_kmd!%s: [INFO] KMB Firmware updates NOT required 
+VPUEMMC-0001
+VpuRequestReenumerate
+npu_kmd!%s: [ERROR] Critical error while waiting on IRP
+VpuOsRecoveryFlashing
+npu_kmd!%s: [INFO] OS Recovery - Successfully updated KMB FIP and OS(Boot) packages
+npu_kmd!%s: [INFO] Successfully booted to VPUAL
+npu_kmd!%s: [INFO] Reenumerate the device
+npu_kmd!%s: [ERROR] Failed to request device reenumeration using IRP
+VpuBlankEmmcFlashing
+npu_kmd!%s: [ERROR] VPU is not in ROM recovery mode
+npu_kmd!%s: [ERROR] VPU Failed to enter BL2 recovery mode
+npu_kmd!%s: [INFO] Successfully provisioned and flashed KMB FIP and Boot image
+VpuCheckAndPerformRecovery
+npu_kmd!%s: [INFO] Blank/Recovery eMMC flashing - ROM Magic detected
+npu_kmd!%s: [ERROR] Blank eMMC flashing failed
+npu_kmd!%s: [INFO] OS Recovery (VPURECOV) - Magic detected
+npu_kmd!%s: [ERROR] OS Recovery (VPURECOV) flashing failed
+VpuFwLoadAndAuthenticate
+npu_kmd!%s: [ERROR] Wait time for F/W load ready expired. Timeout: %d (in us), MagicBytes: %s
+npu_kmd!%s: [INFO] KMB Firmware update (FOTA) Enabled
+npu_kmd!%s: [ERROR] Firmware flashing failed
+VpuDisablePll_Mtl
+npu_kmd!%s: [ERROR] Timeout: Failed to send WP request
+npu_kmd!%s: [ERROR] Timeout: Failed to Disable Pll
+npu_kmd!%s: [ERROR] WP_REQ_CMD is in invalid state
+VpuPrepareBootParam_Lnl
+npu_kmd!%s: [INFO] Boot Profiling Clock Frequency: %d
+VpuPrepareBootParam
+npu_kmd!%s: [ERROR] VPU device Reset failed: Unsupported Device
+VpuHostSsConfiguration_Mtl
+npu_kmd!%s: [ERROR] Invalid HOST_SS_HW_VERSION
+npu_kmd!%s: [ERROR] Warming: HOST_SS_NOC_QREQN->TOP_SOCMMIO is not '0', invalid value
+VpuWpSubmission_Mtl
+npu_kmd!%s: [ERROR] Invalid VPU TILE Fuse config value ).
+npu_kmd!%s: [ERROR] Wait time for VPU Power-On expired. Timeout - 0x%x (in us).
+npu_kmd!%s: [ERROR] Wait time for clearing VPU IP gating override by PUNIT expired. Timeout - 0x%x (in us).
+npu_kmd!%s: [ERROR] WP_REQ_CMD is invalid state
+VpuWpSubmission_Lnl
+VpuPowerOn_Mtl
+npu_kmd!%s: [ERROR] Failed to Power-On VPU IP
+npu_kmd!%s: [ERROR] Failed to configure VPU AON registers
+VpuFwLoadAndAuthenticate_Mtl
+npu_kmd!%s: [ERROR] Failed to Initialize VPU MMU
+npu_kmd!%s: [ERROR] failed to allocate memory for vpu fw context!
+npu_kmd!%s: [ERROR] VPU Firmware bin file integrity check failed
+npu_kmd!%s: [ERROR] Failed to load VPU firmware bin file
+npu_kmd!%s: [ERROR] failed to allocate memory for vpu fw IMAGE!
+npu_kmd!%s: [INFO] VPU Firmware Header Version: %d.%d.%d
+npu_kmd!%s: [INFO] VPU API Version: %d.%d
+npu_kmd!%s: [INFO] VPU Firmware Version: %s
+npu_kmd!%s: [ERROR] Invalid VPU FW image format
+npu_kmd!%s: [ERROR] Failed to prepare Global GTT
+npu_kmd!%s: [ERROR] Invalid VPU FW Header contents
+npu_kmd!%s: [ERROR] Not able to allocate required memory for loading VPU FW
+npu_kmd!%s: [ERROR] Unable to Init IPC context
+npu_kmd!%s: [ERROR] VPU Boot failed...
+npu_kmd!%s: [ERROR] VPU MMU configuration failure...
+VpuDisablePll_Lnl
+VpuHostSsConfiguration_Lnl
+npu_kmd!%s: [ERROR] HOST_SS_NOC_QREQN->TOP_SOCMMIO is not '0', invalid value
+npu_kmd!%s: [ERROR] HOST_SS_NOC_QACCEPTN->TOP_SOCMMIO is not '0', invalid value
+npu_kmd!%s: [ERROR] HOST_SS_NOC_QDENY->TOP_SOCMMIO is not '0', invalid value
+npu_kmd!%s: [ERROR] LNL_VPU_AON_VPU_TOP_NOC_QREQN_OFFSET is not '0', invalid value
+npu_kmd!%s: [ERROR] LNL_VPU_CPU_NOC_QACCEPTN_OFFSET->TOP_MMIO is '0', invalid
+npu_kmd!%s: [ERROR] LNL_VPU_CPU_NOC_QDENY_OFFSET->TOP_MMIO is '1', invalid
+VpuPowerOn_Lnl
+VpuFwLoadAndAuthenticate_Lnl
+VpuHostSsConfiguration_Vpu5
+VpuPowerOn_Vpu5
+VpuFwLoadAndAuthenticate_Vpu5
+VpuFwLoad
+npu_kmd!%s: [ERROR] Failed to Load VPU FW
+npu_kmd!%s: [ERROR] Failed to Power On MTL VPU
+npu_kmd!%s: [ERROR] Failed to Load MTL VPU FW
+npu_kmd!%s: [ERROR] Failed to Power On LNL VPU
+npu_kmd!%s: [ERROR] Failed to Load LNL VPU FW
+npu_kmd!%s: [ERROR] Failed to Power On PTL Mobile VPU
+npu_kmd!%s: [ERROR] Failed to Load PTL Mobile VPU FW
+VpuResumeBoot
+npu_kmd!%s: [ERROR] ForcedD3 detected, perform cold boot (skip resume from restore address)
+npu_kmd!%s: [ERROR] Invalid SaveRestoreRetAddress ('0'), continue COLD BOOT
+npu_kmd!%s: [ERROR] SaveRestoreRetAddress [0x%llx], outside VPU FW address space. continue COLD BOOT
+VpuD0i3Exit_Mtl
+npu_kmd!%s: [ERROR] Timeout on transitioning VPU to D0 (D0i3==>D0) state
+npu_kmd!%s: [ERROR] Failed to transition VPU to D0 (D0i3==>D0) state
+VpuD0i3Entry_Mtl
+npu_kmd!%s: [ERROR] Timeout: Failed to transition VPU to D0i3 state
+npu_kmd!%s: [ERROR] Failed to transition VPU to D0i3 state
+__VpuNotifyFWOnD3Entry
+npu_kmd!%s: [ERROR] IPC Async failed to notify FW on D3/D0i3 entry. Status = 0x%x
+npu_kmd!%s: [ERROR] Timeout waiting for VPU FW ack for D3 entry notification
+__VpuFminFreqCheck
+npu_kmd!%s: [ERROR] Timeout(%d): freq to be FMIN after D0i2 idle
+npu_kmd!%s: [ERROR] Vpu CurrentFreq=0x%x and Fmin is 0x%x 
+VpuPrepareD0i3Entry
+npu_kmd!%s: [ERROR] VPU FW didnt acknowledge D0i3 entry notification. Not entering D0i3
+npu_kmd!%s: [ERROR] Timeout waiting for VPU to enter D0i2 idle state
+npu_kmd!%s: [ERROR] __VpuFminFreqCheck failed
+npu_kmd!%s: [ERROR] VPU Failed transition to D0i3 state
+VpuEnterD0i3
+npu_kmd!%s: [ERROR] VPU transitioning to D0i3 failed
+VpuPrepareD0i3Exit
+npu_kmd!%s: [ERROR] VPU Failed transition to D0 state
+npu_kmd!%s: [ERROR] F/W loading failed.
+VpuExitD0i3
+npu_kmd!%s: [ERROR] VPU transitioning to D0 failed
+VpuPrepareD3Entry
+npu_kmd!%s: [ERROR] VPU FW didnt acknowledge D3 entry notification. Initiate FLR
+npu_kmd!%s: [ERROR] Timeout: VPU is not in D0i2 idle state -- Initiate FLR
+npu_kmd!%s: [ERROR] D3: __VpuFminFreqCheck failed
+VpuEnterD3
+npu_kmd!%s: [ERROR] Unable to Prepare VMM for D3 Entry
+npu_kmd!%s: [ERROR] Unable to Prepare M VPU for D3 Entry
+VpuExitD3
+npu_kmd!%s: [ERROR] Unable to Prepare VPU for D3 Exit
+npu_kmd!%s: [ERROR] Unable to Prepare VMM for D3 Exit
+npu_kmd!%s: [ERROR] Unable to Prepare KM VPU for D3 Exit
+VpuSetPowerState
+npu_kmd!%s: [ERROR] Null MiniportDeviceContext!
+npu_kmd!%s: [ERROR] Invalid DeviceUid passed 0x%x!
+npu_kmd!%s: [ERROR] VpuExitD3() Failed for PowerDeviceD0, POWER_ACTION %d 
+VpuCreatePmContext
+npu_kmd!%s: [ERROR] Unsupported Platform
+VpuAcpiEvaluateDsm
+npu_kmd!%s: [ERROR] Invalid RetainPowerInD3Cold value 0x%x
+npu_kmd!%s: [ERROR] DxgkCbEvalAcpiMethod failed with status 0x%x
+VpuAcpiResetDevice_kmb
+npu_kmd!%s: [ERROR] Unable to reset VPU device using _RST ACPI method
+VpuResetDevice_KMB
+npu_kmd!%s: [ERROR] Failed to Reset with ACPI method, fallback to reset with Async
+npu_kmd!%s: [ERROR] Unable to reset VPU adapter on KMB
+VpuResetCheckAndClearD0i3
+npu_kmd!%s: [ERROR] Failed transition to D0 state (Clearing D0i3 bit)
+VpuResetDevice
+npu_kmd!%s: [ERROR] Previous VPU Reset request still pending. Not able to trigger reset again 
+npu_kmd!%s: [ERROR] Wait for VPU Reset request completion timed out
+VpuResetFromTimeout
+npu_kmd!%s: [INFO] TDR: Begin VPU reset
+npu_kmd!%s: [ERROR] Unable to reset VMM context
+npu_kmd!%s: [ERROR] Unable to issue device reset succesfully!
+npu_kmd!%s: [INFO] TDR: End VPU reset
+VpuRestartFromTimeout
+npu_kmd!%s: [INFO] TDR: Begin VPU restart
+npu_kmd!%s: [ERROR] ForceFailureAfterUnsuccessfulTDR
+npu_kmd!%s: [ERROR] Unable to load FW
+npu_kmd!%s: [ERROR] Unable to initialize VMM context
+npu_kmd!%s: [ERROR] Unable to initialize VPU adapter
+npu_kmd!%s: [ERROR] Unable to restore thermal control 
+npu_kmd!%s: [ERROR] VpuSetD0i3ComponentIdleIfSupported() called due to D0ixComponentIdlePending!
+npu_kmd!%s: [ERROR] Unable to restart device succesfully!
+npu_kmd!%s: [INFO] TDR: End VPU restart
+VpuBugcheckSecondaryDumpDataCallback
+npu_kmd!%s: [ERROR] Driver build: %d.0.%d.%d
+__VpuGetCmTranslatedResourceList_Kmb
+npu_kmd!%s: [ERROR] Unknown PCIe BAR being reported!
+__VpuGetCmTranslatedResourceList_Mtl
+__VpuGetCmTranslatedResourceList
+npu_kmd!%s: [ERROR] Mapping PCI BARs failed!
+VpuMapMmioSpace
+npu_kmd!%s: [ERROR] Mapping MMIO space failed!
+npu_kmd!%s: [ERROR] Mapping CMD MMIO space failed!
+VpuMapDdrSpace
+npu_kmd!%s: [ERROR] Mapping DDR space failed!
+VpuAcquireSystemInfo
+npu_kmd!%s: [ERROR] Platform not supported
+VpuWaitForConditionWithTimeout
+npu_kmd!%s: [ERROR] QPC values are not getting incremented consistenty to calculate elapsed time properly. Bail out 
+VpuGetDxgkInterface
+npu_kmd!%s: [ERROR] DxgkrnlInterface Size Truncation required
+npu_kmd!%s: [ERROR] DxgkrnlInterface Size Truncation: Failed to get pDxgkrnlInterface
+npu_kmd!%s: [ERROR] Failed to get pDxgkrnlInterface
+VpuEscape
+npu_kmd!%s: [ERROR] LockCounter max threshold reached. Failing VPU_ESCAPE_CODE_DDR_ACCESS_NOTIFY 
+npu_kmd!%s: [ERROR] LockCounter less than 0. Failing VPU_ESCAPE_CODE_DDR_ACCESS_NOTIFY 
+VpuCriticalTraceRead_KMB
+npu_kmd!%s: [ERROR] Critical trace header canary values corrupted for trace type %d. Not collecting critical traces
+VpuCriticalTraceRead_MTL
+npu_kmd!%s: [ERROR] No ARM Critical logs available on iVPU
+npu_kmd!%s: [ERROR] VPU critical trace size:%d is not valid
+npu_kmd!%s: [ERROR] VPU critical trace header canary values corrupted. Not collecting critical traces for %s
+npu_kmd!%s: [INFO] CriticalTraceReadAccumulateSize is not aligned, CriticalTraceReadAccumulateSize=0x%x alignment=0x%x
+npu_kmd!%s: [INFO] CriticalTraceReadAccumulateSize is not aligned; CriticalTraceReadAccumulateSize=0x%x alignment=0x%x
+VpuArmCrashLogDump
+npu_kmd!%s: [ERROR] Crash dump size %d exceeding max %d!!
+npu_kmd!%s: [ERROR] Crashlog dump buffer Memory allocation with OSAllocateMem() failed!!
+npu_kmd!%s: [ERROR] Could Not Create Folder %ws !!!
+npu_kmd!%s: [ERROR] Could Not Open File to Write Critical Trace in %ws !!!
+VpuVerboseLogRead_MTL
+npu_kmd!%s: [ERROR] VPU verbose trace header canary values corrupted. Not collecting verbose traces
+npu_kmd!%s: [ERROR] VPU verbose buffer name not supported. Not collecting verbose traces
+VpuHWSLogRead
+npu_kmd!%s: [INFO] Verbose trace request for HWS logs invalid. HWS is in disabled state
+npu_kmd!%s: [ERROR] Could not Open File to Write HWS Log for Node oridinal %d!
+VpuVerboseTraceRead
+npu_kmd!%s: [ERROR] Could Not Open File to Write VPUFW Verbose Trace!
+npu_kmd!%s: [ERROR] Could Not Open File to Write ARM Verbose Trace!
+__VpuPowerD0Active_KMB
+npu_kmd!%s: [ERROR] ActivityFactor incorrect. 
+__VpuPowerD0PartialActive_KMB
+npu_kmd!%s: [ERROR] __VpuPowerD0Active_KMB return status failed. 
+npu_kmd!%s: [ERROR] Active Duration T0 incorrect (higher than Power Sample Interval). 
+__VpuPowerD0_KMB
+npu_kmd!%s: [ERROR] __VpuPowerD0PartialActive_KMB return status failed. 
+npu_kmd!%s: [ERROR]  __VpuPowerD0PartialActive_KMB return status failed. 
+__VpuGetCurrentPower_KMB
+npu_kmd!%s: [ERROR] __VpuPowerD0_KMB return status failed. 
+__VpuGetPowerLevelCountAndLimits_MTL
+npu_kmd!%s: [ERROR] Error: Insufficient size of PowerLimits array: PowerLimitsSize = %d 
+npu_kmd!%s: [ERROR] Failed to get power level count, Status=0x%x
+__VpuGetCurrentPowerLevel_MTL
+npu_kmd!%s: [ERROR] Failed to get power level, Status=0x%x
+VpuThermalControlRestore
+npu_kmd!%s: [ERROR] VpuThermalControlRestore failed. 
+KmSetupThermalThrottlingEventInterruptHandlers
+npu_kmd!%s: [ERROR] Invalid platform
+VpuThermalPowerStateInfoUpdate
+npu_kmd!%s: [ERROR] VpuThermalPowerStateInfoUpdate D0->D3 but compute engine is not idle. 
+VpuThermalComputeSubmissionPowerStateInfoUpdate
+VpuThermalComputeCompletePowerStateInfoUpdate
+VpuSetAdapterPowerComponentFState_Kmb
+npu_kmd!%s: [ERROR] Wait for ARM's acknowledgement of D0i2 previous entry request expired. Status - 0x%x. Timeout - 0x%x (in us).
+npu_kmd!%s: [ERROR] Wait for KMB ARM's acknowledgement of D0i2 exit request expired. Status - 0x%x. Timeout - 0x%x (in us).
+npu_kmd!%s: [ERROR] Wait for D0i2 exit expired. Timeout - 0x%x (in us).
+__VpuInitRtpmCallbacks
+VpuAdapterPowerComponentFStateTimerDpc
+npu_kmd!%s: [ERROR]  VPU adapter not ready. Not transitioning KMD adapter component to F1 State
+__VpuD0i2IMRNotificationIsr_Kmb
+npu_kmd!%s: [ERROR] ddr_access_violation_target_id = 0x%x, ddr_access_violation_initiator_id = 0x%x, ddr_access_violation_length = 0x%x, ddr_access_violation_rw_type = 0x%x, ddr_access_violation_initiator_addr = 0x%I64x
+VpuSetAdapterPowerComponentIdle
+npu_kmd!%s: [ERROR] IRQL too high
+npu_kmd!%s: [ERROR] Unexpected, AdapterComponentRefCount is already 0
+__VpuIpfKpeCcbStrcpy
+npu_kmd!%s: [ERROR] Invalid poinster passed by IPF ESIF driver
+__VpuGetIpfEsifPnPInterface
+npu_kmd!%s: [ERROR] Not able to get IPF ESIF driver object pointer. Status = 0x%lx
+npu_kmd!%s: [ERROR] Not able to get IPF driver object pointer. Status = 0x%lx
+npu_kmd!%s: [ERROR] Not able to get IPF driver IRP stack location for. Status = 0x%lx
+npu_kmd!%s: [ERROR] Not able to get IPF ESIF driver IRP stack location for. Status = 0x%lx
+npu_kmd!%s: [ERROR] Not able to get IPF ESIF driver's KPE register/unregister function pointers
+__VpuRegisterForIpfEsifDeviceNotification
+npu_kmd!%s: [ERROR] IoRegisterPlugPlayNotification failed for IPF ESIF device PNP notifications. Status = 0x%lx
+__VpuIpfKpeSendEvent
+npu_kmd!%s: [ERROR] Not able to send event to IPF ESIF driver as VPU is not registered as KPE
+npu_kmd!%s: [ERROR] SendEvent for eventtype = %d and domain = %d to IPF ESIF driver failed. Error code = %d
+VpuIpfKpe_GetPPSS
+npu_kmd!%s: [ERROR] Invalid response poinster passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Invalid response buffer poinster passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Invalid response data type passed by IPF ESIF driver
+VpuIpfKpe_GetPPSS_MTL
+npu_kmd!%s: [ERROR] ERROR: pThermalServices is NULL
+npu_kmd!%s: [ERROR] ERROR: pThermalServices->pfnVpuGetPowerLevelCountAndLimits is NULL
+npu_kmd!%s: [ERROR] Error: Get power level count and limits failed.
+npu_kmd!%s: [ERROR] Error: Supported Power Level Count is Zero
+VpuIpfKpe_GetPPPC
+npu_kmd!%s: [ERROR] Invalid context passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Error: Get current power level failed.
+VpuIpfKpe_SetSPPC
+npu_kmd!%s: [ERROR] Invalid request poinster passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Invalid request buffer length -- too small: %u vs %zu.
+npu_kmd!%s: [ERROR] Invalid request data type passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Invalid request buffer poinster passed by IPF ESIF driver
+npu_kmd!%s: [ERROR] Error: State invalid; Request = %u, Max = %u
+npu_kmd!%s: [ERROR] Error: Set power level failed.
+VpuIpfKpe_GetHandler
+npu_kmd!%s: [ERROR] Error: GetPPSS not implemented!
+VpuIpfKpe_SetHandler
+VpuIpfKpe_RecvEvent
+Intel(R) NPU Drivers for Windows(R)
+Kernel Mode Driver for Intel Movidius VPU Technology
+npu_kmd.sys
+Intel(R) NPU
+__VpuRegisterWithEsifAsKpe
+npu_kmd!%s: [ERROR] KPE registration with IPF ESIF driver failed. Failure code = %d
+npu_kmd!%s: [ERROR] KPE registration with IPF ESIF driver success, but SendEvent interface is not populated
+__VpuUnRegisterWithEsifAsKpe
+npu_kmd!%s: [ERROR] KPE unregistration with IPF ESIF driver failed. Failure code = %d
+__VpuSetupIpfEsifCommunication
+npu_kmd!%s: [ERROR] Not able to get IPF ESIF driver's PNP interface
+npu_kmd!%s: [ERROR] Not able to register for IPF ESIF device PNP notifications
+npu_kmd!%s: [ERROR] Not able to register with IPF ESIF driver as KPE
+VpuInitIpfKpeContext
+npu_kmd!%s: [ERROR] IoRegisterPlugPlayNotification failed for IPF ESIF interface PNP notification. Status = 0x%lx
+VpuNotifyIpfKpeStateToEsif
+npu_kmd!%s: [ERROR] Not able to update VPU KPE driver state to IPF ESIF
+AllocateResources_TimerMetric_Mtl
+npu_kmd!%s: [ERROR] Failed to allocate Ping-pong buffer1
+npu_kmd!%s: [ERROR] Failed to allocate Ping-pong buffer2
+__CheckUmdRequestAndCopyData
+npu_kmd!%s: [ERROR] Exception during VpuTimerMetricRead_Mtl (Size). Exception code = 0x%x 
+npu_kmd!%s: [ERROR] Exception during VpuTimerMetricRead_Mtl. (Size/Data) Exception code = 0x%x 
+VpuTimerMetricsNotifyCallback
+npu_kmd!%s: [ERROR] UpdateMetric Async Cmd failure
+VpuTimerMetricOpen_Mtl
+npu_kmd!%s: [ERROR] Metric Streamer already opened, busy
+npu_kmd!%s: [ERROR] Invalid Metric Streamer Size
+npu_kmd!%s: [ERROR] Unable to Allocate Resources
+npu_kmd!%s: [ERROR] FAILED to allocate Work Item object!
+npu_kmd!%s: [ERROR] pfnTimerMetricStart Async Cmd failure
+VpuTimerMetricRead_Mtl
+npu_kmd!%s: [ERROR] 1.Invalid parameters received from UMD, exit
+npu_kmd!%s: [ERROR] 2.Invalid parameters received from UMD, exit
+npu_kmd!%s: [ERROR] Metric data not available, exit
+VpuTimerMetricClose_Mtl
+npu_kmd!%s: [ERROR] StopMetric Async Cmd failure
+VpuTimerMetricQueryInfo_Mtl
+npu_kmd!%s: [ERROR] Exception during VpuTimerMetricQueryInfo_Mtl. Exception code = 0x%x 
+npu_kmd!%s: [ERROR] QueryInfoMetric Async Cmd failed
+npu_kmd!%s: [ERROR] Invalid query info buffer address
+GetVerifiedQuery
+npu_kmd!%s: [ERROR] Sysman Query Escape: Invalid Query Code 0x%x
+VpuSysmanEscapeQuery
+npu_kmd!%s: [ERROR] Query code 0x%x not implemented.
+__VpuGetFWOriginalSha512Hash
+npu_kmd!%s: [ERROR] Not a supported platform for this functionality 
+VpuCalculateSha512Hash
+npu_kmd!%s: [ERROR] Not able to open SHA512 Algorithm  handle. Status = 0x%x
+npu_kmd!%s: [ERROR] Not able to get length of HASH. Status = 0x%x
+npu_kmd!%s: [ERROR] Not able to allocate memory to hold calculated HASH value.
+npu_kmd!%s: [ERROR] Not able to create handle for HASH. Status = 0x%x
+npu_kmd!%s: [ERROR] Not able to calculate SHA512 hash value for input data. Status = 0x%x
+npu_kmd!%s: [ERROR] Not able to extract calculated SHA512 hash value. Status = 0x%x
+VpuCheckFirmwareIntegrity
+npu_kmd!%s: [ERROR] Not able to calculate SHA512 on Fw image loaded from driver file. Status = 0x%x. Calculated Hash size = %d
+npu_kmd!%s: [ERROR] Not able to allocate memory to hold hash string
+npu_kmd!%s: [ERROR] Firmware integrity check is not supported on this platform. Failing the request
+npu_kmd!%s: [ERROR] SHA512 Hash value mismatch. Original value = %s, calculated value = %s
+__KmGetSupportedWDDMVersion
+npu_kmd!%s: [ERROR] Unsupported WDDM version %d.Falling back to report WDDM 2.9 capability
+KmQueryAdapterInfo
+npu_kmd!%s: [ERROR] Unsupported Query type %d
+__KmWaitForAsyncRequestCompletion_Ipc
+npu_kmd!%s: [ERROR] Async command type %d request not completed in time (wait time %d us)
+__KmLrtMessageHandler_ResetEngine_Ipc
+npu_kmd!%s: [INFO] Invalid Context 0x%llx reported as one of the impacted context 
+__KmAsyncServices_TraceControl_Ipc
+npu_kmd!%s: [ERROR] Invalid Trace destination = %d
+__KmAsyncServices_SetPowerLevel_Ipc
+npu_kmd!%s: [ERROR] Failed to set Desired Power Level: Desired=%d, Current(as returned in IPC payload)=%d 
+npu_kmd!%s: [ERROR] Failed to Set Power Level!!
+__KmAsyncServices_CollectDbgInfo_Ipc
+npu_kmd!%s: [INFO] Previous request's IPC completion status of Async type %d is %d
+npu_kmd!%s: [INFO] Current request's IPC completion status of Async type %d is %d
+__KmWaitForAsyncRequestCompletion_Mmio
+npu_kmd!%s: [ERROR] Async command type %d request not completed in time (max wait time: %u us)
+__KmWaitForAsyncRequestAck_Mmio
+npu_kmd!%s: [ERROR] Async command type %d request not acknowledged in time (max wait time: %u us)
+KmSetUpMmioAsyncInterface
+npu_kmd!%s: [ERROR] Unknown platform
+KmSetUpMmioAsyncServices
+KmCreateContext
+npu_kmd!%s: [ERROR] This VPU device is MEP only accelerator, Process name: %S createContext is not allowed.
+npu_kmd!%s: [ERROR] Unable to allocate memory for VPU context
+npu_kmd!%s: [INFO] Could not allocate primary preemption buffer. Continue with Context Creation
+npu_kmd!%s: [INFO] Could not allocate secondary preemption buffer. Continue with Context Creation
+npu_kmd!%s: [ERROR] RegisterHwContext failed with status=0x%x
+npu_kmd!%s: [ERROR] pfnRegisterHwContext is NULL 
+npu_kmd!%s: [ERROR] DB Acquire failed with status 0x%x. Failing Context creation
+KmCreateHwQueue
+npu_kmd!%s: [ERROR] Unable to allocate memory for HW queue
+KmSuspendContext
+npu_kmd!%s: [ERROR] Failed to suspend context 0x%p
+KmCreateDevice
+npu_kmd!%s: [ERROR] Unable to allocate memory for device context
+__KmDoorbellAcquire_Kmb
+npu_kmd!%s: [ERROR] No doorbell available
+__KmDoorbellRelease_Kmb
+npu_kmd!%s: [ERROR] Failed to wait for pending workload completion before releasing the doorbell
+__KmDoorbellRing_Kmb_WaitForJobRequestAck
+npu_kmd!%s: [ERROR] Job Queue ordinal %d request not completed in time (wait time 1 s)
+__KmDoorbellAcquire_Mtl
+npu_kmd!%s: [ERROR] Failed to Register Doorbell for DoorbellIndex: %u, VpuContext: %p, NodeOrdinal: %u, JQStartAddress: 0x%llx
+npu_kmd!%s: [ERROR] HWS;; Failed to Register Doorbell for DoorbellIndex: %u, VpuContext: %p, NodeOrdinal: %u, JQStartAddress: 0x%llx
+npu_kmd!%s: [ERROR] NULL pfnKmAsyncHWSRegisterDoorbell 
+npu_kmd!%s: [ERROR] No doorbell available, reassignment of idle doorbells will be handled at submission time 
+__KmDoorbellRelease_Mtl
+__KmDoorbellReAcquire_Mtl
+npu_kmd!%s: [INFO] Victimized doorbell %d. But acquire of this doorbell failed. Try to victimize different one
+npu_kmd!%s: [ERROR] Not able to reacquire doorbell
+__KmSetUpDoorbellFnTbl
+npu_kmd!%s: [ERROR] Unknown platform for Doorbell function table setup!
+KmCreateDoorbellContext
+npu_kmd!%s: [ERROR] Unknown platform for Doorbell context creation!
+KmInitDoorbellContext
+npu_kmd!%s: [ERROR] Failed to initialize the job queue (pfnKmJobQueueInitialize):0x%x
+npu_kmd!%s: [ERROR] Failed to initialize the reply job queue (pfnKmReplyQueueInitialize):0x%x
+npu_kmd!%s: [ERROR] Failed to pfnKmJobQueueInitialize, Status:0x%x
+__KmFenceIdRingHandleAdapterReset
+npu_kmd!%s: [INFO] IRQL: %d
+npu_kmd!%s: [INFO] 
+__KmFenceIdRingIpcMessageHandler_HWS
+npu_kmd!%s: [ERROR] Invalid CMD Queue ID 0x%llx reported in Job done IPC message 
+__KmFenceIdRingWaitForFenceCompletion
+npu_kmd!%s: [ERROR] Wait for OS Submission fence %d completion on Node ordinal %d not completed in time (wait time 1s)
+KmFenceIdRingDumpDetails
+npu_kmd!%s: [ERROR] -------Fence Details for Node: %S -------
+npu_kmd!%s: [ERROR] Job ID or FenceRing Index: LastSubmitted = 0x%lx, LastCompleted = 0x%lx, LastReported = 0x%lx, LastAborted = 0x%lx
+npu_kmd!%s: [ERROR] OS FenceID: LastSubmitted = 0x%lx, LastCompleted = 0x%lx, LastReported = 0x%lx
+npu_kmd!%s: [ERROR] OS Preemption Fence ID: LastSubmitted = 0x%lx, LastCompleted = 0x%lx, LastReported = 0x%lx
+npu_kmd!%s: [ERROR] 
+__KmFileIoSubmitDeferredProcessingItem
+npu_kmd!%s: [ERROR] Is Wait requested = %d, WaitStatus = 0x%lx
+__KmProcessReplyQueue
+npu_kmd!%s: [ERROR] Invalid job reply status 0x%x, of submitted work item for node ordinal %u
+__KmComputeEngineReplyQueueTailUpdateIsr_Kmb
+npu_kmd!%s: [ERROR] Compute Job Done Register not set before fetching reply
+npu_kmd!%s: [ERROR] Invalid doorbell index
+__KmCopyEngineReplyQueueTailUpdateIsr_Kmb
+npu_kmd!%s: [ERROR] Copy Job Done Register not set before fetching reply
+KmSetupInterruptHandlers
+KmDestroyThermalThrottlingEventInterruptHandlers
+KmDestroyTimerMetricEventInterruptHandlers
+KmIPCSendData
+npu_kmd!%s: [ERROR] Tx buffer status is still in use. TxBufferIndex = %d, TxHeaderEntryStatus = %d, TxPayloadEntryStatus = %d
+npu_kmd!%s: [ERROR] IPC FIFO overflow detected while sending IPC message of type:%d
+__KmIPCGetRxBufHeader
+npu_kmd!%s: [ERROR] FIFO entry is pointing to invalid Rx IPC buffer range
+__KmHandleFifoMsg
+npu_kmd!%s: [ERROR] IPC message received with invalid type.  IPC Msg Type = %d, Result code = %d
+npu_kmd!%s: [ERROR] IPC message received with failure result. IPC Msg Type = %d, Result code = %d
+npu_kmd!%s: [ERROR] Invalid Rx Buffer Header pointer
+KmIPCCreateContext
+npu_kmd!%s: [ERROR] Unknown platform for IPC interface!
+KmIPCInitContext
+npu_kmd!%s: [ERROR] Not able to allocate memory for IPC Rx header buffer
+npu_kmd!%s: [ERROR] Not able to allocate memory for IPC Tx header buffer for channel: %d
+npu_kmd!%s: [ERROR] Not able to allocate memory for IPC Tx payload buffer for channel: %d
+KmIPCIsD3NotifyAckReceived
+npu_kmd!%s: [INFO] In the middle of D3/D0i3 entry sequence. Not expecting IPC message of type: %d
+__KmJobQueueAllocate
+npu_kmd!%s: [ERROR] Memory Allocation failed
+__KmJobQueueInitialize_Kmb
+npu_kmd!%s: [ERROR] MMIO read of Job queue tail offset returned bad value
+npu_kmd!%s: [ERROR] MMIO read of Job queue head offset returned bad value
+npu_kmd!%s: [ERROR] Invalid JQ state during driver load
+__KmJobQueuePush_Kmb
+npu_kmd!%s: [ERROR] JobQ is in bad state. JQTail is already beyond JQEnd
+__KmJobQueueRollBack_Kmb
+__KmJobQueueAllocateResource_Mtl
+npu_kmd!%s: [ERROR] Not able to allocate memory for Job Queue Resource
+__KmJobQueueCreate_Mtl
+npu_kmd!%s: [ERROR] Failed in __KmJobQueueAllocateResource_Mtl; Status:0x%x
+KmSetUpJobQueueFnTbl
+npu_kmd!%s: [ERROR] Invalid platform for job queue function table initialization
+KmSetRootPageTable
+npu_kmd!%s: [ERROR] Failed to set root page table address in MMU
+__KmPagingFillVirtual
+npu_kmd!%s: [ERROR] Not able to support Fill operation on Prepopulated segment allocation. Pattern requested = %x0x. Aux buffer addr = %p
+__KmPagingFlushTlb
+npu_kmd!%s: [ERROR] Failed with NTSTATUS=0x%x to flush TLB, StartVA=0x%llx, EndVA=0x%llx, SubStreamId=%u
+npu_kmd!%s: [ERROR] MMU Update failed, NTSTATUS: 0x%08x
+__KmPagingMapApertureSegment
+npu_kmd!%s: [ERROR] Failed, NTSTATUS: 0x%08x
+__KmPagingUnMapApertureSegment
+__KmPagingUpdatePageTable
+KmBuildPagingBuffer
+npu_kmd!%s: [ERROR] Unsupported Operation %d for Build Paging Buffer!
+KmPreemptCommand
+npu_kmd!%s: [ERROR] Fault Engine Reset is pending on this node. Do not send preemption request to VPU 
+CheckUserGroups
+npu_kmd!%s: [ERROR] ChecckUserGroups: SeQueryInformationToken fail.
+npu_kmd!%s: [ERROR] ChecckUserGroups: ExAllocatePool2 fail.
+KmCreateProcess
+npu_kmd!%s: [ERROR] Unable to allocate memory for process context
+npu_kmd!%s: [ERROR] Unable to reserve substreamid!
+npu_kmd!%s: [ERROR] Unable to register process for HW Scheduler
+KmDestroyProcess
+npu_kmd!%s: [ERROR] Process %S getting destroyed with outstanding DDR access lock notifications 
+__KmReplyQueueAllocate
+__KmReplyQueueInitialize_Kmb
+npu_kmd!%s: [ERROR] Invalid RQ state during driver load
+KmSetUpReplyQueueFnTbl
+npu_kmd!%s: [ERROR] Invalid platform for reply queue function table initialization
+KmResetEngine
+npu_kmd!%s: [INFO] NodeOrdinal: %u
+npu_kmd!%s: [ERROR] pfnKmAsyncResetEngine failed!!, node ordinal %u, status =: 0x%x.
+npu_kmd!%s: [ERROR] pfnVmmMmuEventsIrq0Enable failed!!, node ordinal %u, status =: 0x%x.
+npu_kmd!%s: [ERROR] Unexpected call to the DDI for node ordinal %u
+KmQueryDependentEngineGroup
+KmSubmitCommandVirtual
+npu_kmd!%s: [ERROR] Unsupported submission flag
+npu_kmd!%s: [ERROR] Failed to prepare dma buffer for fill virtual paging operation
+npu_kmd!%s: [ERROR] Failed to prepare dma buffer for transfer virtual paging operation
+npu_kmd!%s: [ERROR] Illegal operation type 
+npu_kmd!%s: [ERROR] Failed to prepare dma buffer for umd submission
+__KmWaitForTimeout
+npu_kmd!%s: [ERROR] Query Performance Counter Frequency is zero
+__KmBusyPollRegWithTimeout
+npu_kmd!%s: [ERROR] Timeout when polling 0x[%ld] 
+KmAllocVPUResource
+npu_kmd!%s: [ERROR] Could not allocate memory
+KmAllocPreemptionBuffer
+npu_kmd!%s: [ERROR] Could not create VMM_BLOCKDESC for preemption buffer
+npu_kmd!%s: [ERROR] Not able to create context allocation. Failure Status = 0x%lx
+npu_kmd!%s: [ERROR] Not able to Map context allocation
+KmAllocVpuFirmware
+npu_kmd!%s: [ERROR] Not able to allocate memory for VPU FW
+KmAllocShaveNNFirmware
+npu_kmd!%s: [ERROR] Not able to allocate memory for ShaveNN FW
+KmAllocCriticalTraceBuffer
+npu_kmd!%s: [ERROR] Not able to allocate memory for Critical trace buffer
+KmAllocTimerMetricBuffer
+npu_kmd!%s: [ERROR] Not able to allocate memory
+KmAllocVerboseTraceBuffer
+npu_kmd!%s: [ERROR] Not able to allocate memory for Verbose trace buffer
+KmCreateJobCompletionGlobalEventObject
+npu_kmd!%s: [INFO] Trying to create global job completion event more than once. Bailing out 
+npu_kmd!%s: [ERROR] Memory allocation for ACL failed
+npu_kmd!%s: [ERROR] ObOpenObjectByPointer failed for getting SystemProcess handle
+npu_kmd!%s: [ERROR] RtlSetDaclSecurityDescriptor failed 
+npu_kmd!%s: [ERROR] Unable to Open Job Completion Event. Status = 0x%x
+npu_kmd!%s: [ERROR] Unable to Create Job Completion Event. Status = 0x%x
+npu_kmd!%s: [ERROR] Unable to create reference for global Job Complete Event. Status = 0x%x
+__KmVpuNocFirewall_Isr
+npu_kmd!%s: [ERROR] 
+__KmVpuLRTWatchdogTimeout_Isr
+__KmVpuS5WatchdogTimeout_Isr
+__KmVpuBtrsAtsErrorIsr_MTL
+npu_kmd!%s: [ERROR] Error Transaction Details: VA Addr low = 0x%x, Va Addr High = 0x%x, AXI ID = %d, AXI Write = %d, AXI Prefetch = %d, AXI PortId = %d
+__KmVpuBtrsAtsErrorIsr_LNL
+npu_kmd!%s: [ERROR] Error Transaction Details: VA Addr low = 0x%x, Va Addr High = 0x%x, AXI ID = %d, AXI Write = %d, AXI Prefetch = %d, AXI PortId = %d, PRS Err Code = %d, XRS HDR Err = %d, PRS Valid = %d
+__KmVpuBtrsUfiError_Isr
+npu_kmd!%s: [ERROR] Error Transaction Details: UFI CQID = 0x%x, AXI ID = %d, UFI Opcode = %d
+__KmVpuSurvivability_Dpc
+npu_kmd!%s: [ERROR] DCT Enable failed with Status = %x
+npu_kmd!%s: [ERROR] DCT Disable failed with Status = %x
+npu_kmd!%s: [ERROR] DCT request with invalid command received (Mailbox.Value = 0x%x)
+__KmVpuLNNWatchdogTimeout_Isr
+KmNotifyPageFault_Mtl
+npu_kmd!%s: [ERROR] PerProcess fault handling, request Engine Reset: OsFenceID=0x%x, FaultedNodeOrdinal=%d
+npu_kmd!%s: [ERROR] Global fault handling, request Adapater Reset
+KmCreateVpuAdapter
+npu_kmd!%s: [ERROR] Failed to allocate VPU Context
+npu_kmd!%s: [ERROR] Failed to allocate host buffer for memory fill
+npu_kmd!%s: [ERROR] Not able to initialize KMD in SWS mode
+npu_kmd!%s: [INFO] KMD SWS mode enabled 
+npu_kmd!%s: [ERROR] Not able to initialize VPU in HWS mode
+npu_kmd!%s: [INFO] VPU HWS mode enabled 
+KmCalibrateGpuClock
+KmSWS_ResetHwEngine
+npu_kmd!%s: [ERROR] KmResetEngine Failed for node ordinal %u
+KmHWS_RegisterContext
+npu_kmd!%s: [ERROR] Not able to register HWQueue for Context:%p, Status:0x%x
+KmHWS_UnRegisterContext
+npu_kmd!%s: [ERROR] Not able to unregister HWQueue for Context:0x%p. Status:0x%x
+KmHWS_SetupPriorityBands
+npu_kmd!%s: [ERROR] Not able to notify FW on HWS priority band details. Status:%d
+KmHWS_SetContextSchedulingProperties
+npu_kmd!%s: [ERROR] Not able to notify FW on HWS Context:0x%p Scheduling Properties. Status:0x%x
+__KMHWS_GetImpactedContexts_Internal
+npu_kmd!%s: [INFO] More than %d allowed impacted contexts are pending. Do not invalidate any contexts to trigger full adapter reset
+KmHWS_ResetHwEngine
+npu_kmd!%s: [ERROR] HWS: FW not able to reset engine node: %d 
+npu_kmd!%s: [ERROR] HWS: Not able to report impacted context details for Node: %d. Return failure status %d to trigger Adapter reset 
+KmHWS_ResumeHwEngine
+npu_kmd!%s: [ERROR] HWS: Not able to resume engine node: %d, Status:0x%lx 
+KmHWS_SuspendContext
+npu_kmd!%s: [ERROR] Not able to Suspend Context:0x%p. Status: 0x%lx
+KmHWS_ResumeContext
+npu_kmd!%s: [ERROR] Not able to resume Context:0x%p. Status:0x%lx
+KmHWS_SetSchedulingLogBuffer
+npu_kmd!%s: [ERROR] Failed to remap log buffer into GPUVA for node ordinal = %d, LogBufferCPUVA:0x%p
+npu_kmd!%s: [ERROR] HWS log buffer Failed. Node:%d, LogBufferVPUVA: 0x%llx, LogBufferCPUVA:0x%p, LogBufferEntryCount:%d, FirstFreeIndex: %d, WrapAroundCount: %d, AtomicWraparoundAndEntryIndex: 0x%llx, Status: 0x%lx
+__VmmFillAllocationUsageHint
+npu_kmd!%s: [ERROR] Unsupported surface format. Only linear formats are supported.
+VmmCreateAllocation
+npu_kmd!%s: [ERROR] Error: NULL Private Data
+npu_kmd!%s: [ERROR] Error: Private Data size
+npu_kmd!%s: [ERROR] Error: Invalid Resource Type
+npu_kmd!%s: [ERROR] Error: Unable to allocate blockdesc
+npu_kmd!%s: [ERROR] Error Unable to allocate resource
+VmmDestroyAllocation
+npu_kmd!%s: [ERROR] Invalid param
+VmmDescribeAllocation
+npu_kmd!%s: [ERROR] Invalid Parameter
+VmmGetStandardAllocationDriverData
+npu_kmd!%s: [ERROR] AllocationPrivateDriverDataSize passed != Respource Info size
+npu_kmd!%s: [ERROR] NULL pResourceInfo
+npu_kmd!%s: [ERROR] Unknown stanadard allocation type!
+VmmMapApertureSegment
+npu_kmd!%s: [ERROR] Null pointer!
+npu_kmd!%s: [ERROR] Invalid param!
+npu_kmd!%s: [ERROR] Virtual Address is NULL!
+npu_kmd!%s: [ERROR] VmmMapMdlToCpuVirtualAddress returned NULL virtual address!
+npu_kmd!%s: [ERROR] MmGetMdlVirtualAddress failed during GmmMapApertureSegment!
+npu_kmd!%s: [ERROR] IoAllocateMdl failed during GmmMapApertureSegment!
+npu_kmd!%s: [ERROR] Vmm Map Mdl to Cpu VirtualAddress returned NULL!
+VmmUnMapApertureSegment
+__VmmMmuLogUserContextFaultType_Kmb
+npu_kmd!%s: [ERROR] Translation Fault
+npu_kmd!%s: [ERROR] Access Flag Fault
+npu_kmd!%s: [ERROR] Permission Fault
+npu_kmd!%s: [ERROR] External Fault
+npu_kmd!%s: [ERROR] TLB Match Conflict Fault
+npu_kmd!%s: [ERROR] TLB Lock Fault
+npu_kmd!%s: [ERROR] Stalled Status
+npu_kmd!%s: [ERROR] Multiple Faults
+npu_kmd!%s: [ERROR] NOT a valid user fault type
+__VmmMmuLogGlobalContextFaultType_Kmb
+npu_kmd!%s: [ERROR] Invalid Context Fault
+npu_kmd!%s: [ERROR] Unidentified Stream Fault
+npu_kmd!%s: [ERROR] Stream Match Conflict Fault
+npu_kmd!%s: [ERROR] Unimplemented Context Bank Fault
+npu_kmd!%s: [ERROR] Unimplemented Context Interrupt Fault
+npu_kmd!%s: [ERROR] Configuration Access Fault
+npu_kmd!%s: [ERROR] Multiple error condition
+npu_kmd!%s: [ERROR] NOT a valid global fault type
+VmmMmuFaultHandlerIsr_Kmb
+npu_kmd!%s: [ERROR] MMU Context Banks (CB) Dump:
+npu_kmd!%s: [ERROR] CB: %u, Addr: 0x%016llx, Status: 0x%08x, Syn0: 0x%08x, Syn1: 0x%08x, Syn2: 0x%08x, PAR: 0x%016llx, RPT: 0x%016llx
+VmmCreateGlobalMMUAddressSpaceContext
+npu_kmd!%s: [ERROR] Allocation for PTLevelMemDesc failed 
+npu_kmd!%s: [ERROR] Unable to setup Global MMU heap 
+npu_kmd!%s: [ERROR] Unable to setup ShaveNN heap 
+VmmInitGlobalMMUAddressSpaceContext
+npu_kmd!%s: [ERROR] Unable to reserve MMU Substream Id for global address space 
+npu_kmd!%s: [ERROR] Unable to update root page table of global address space in MMU Context Descriptor 
+VmmInitGlobalLegacyContext
+npu_kmd!%s: [ERROR] Error allocating PPGTT, Cleanup and init legacy mode!
+__VmmCreateContigPrePopulatedSegment
+npu_kmd!%s: [ERROR] Not able to allocate %d of contiguous memory for prepopulated segment
+__VmmInitContigPrePopulatedSegment
+npu_kmd!%s: [ERROR] Failed to reserve memory in VPU DDR Private segment for zero fill operations
+VmmCreateContext
+npu_kmd!%s: [ERROR] VmmMmuCreateContext failed 
+npu_kmd!%s: [ERROR] VmmCreateGlobalMMUAddressSpaceContext failed 
+VmmInitContext
+npu_kmd!%s: [ERROR] Unable to init legacy global GTT!
+VmmCreateGlobalResource
+npu_kmd!%s: [ERROR] Validation of pResCreateParams failed
+npu_kmd!%s: [ERROR] Unknown resource type!
+npu_kmd!%s: [ERROR] Not able to alloc backing MDL pages for this allocation
+npu_kmd!%s: [ERROR] Not able to reserve space in Global MMU heap
+npu_kmd!%s: [ERROR] TLB Flush failed!
+npu_kmd!%s: [ERROR] Can't allocate private data memory. VmmCreateGlobalResource failed!
+VmmReserveGlobalAddressSpace
+npu_kmd!%s: [ERROR] Not able to reserve space in Global MMU heap
+VmmMapUserVAToGlobalVA
+npu_kmd!%s: [ERROR] TLB Flush failed
+__MmuAllocateStructs
+npu_kmd!%s: [ERROR] OsAllocMdlPages() failed for CmdQ.CmdQ_MemoryDesc
+npu_kmd!%s: [ERROR] OsAllocMdlPages() failed for EvtQ.EvtQ_MemoryDesc
+npu_kmd!%s: [ERROR] OsAllocMdlPages() failed for CtxDescStore.CDTbl_MemoryDesc
+npu_kmd!%s: [ERROR] OsAllocMdlPages() failed for StrmTbl_MemoryDesc
+npu_kmd!%s: [ERROR] OsAllocMdlPages() failed for CmdSyncMsiData_MemoryDesc
+__MmuPollCr0Ack
+npu_kmd!%s: [ERROR] SMMU_CR0ACK register bit mask %d not ack in time (wait time 500 ms)
+__MmuPollIrqCtrlAck
+npu_kmd!%s: [ERROR] SMMU_IRQ_CTRLACK register bit mask %d not ack in time (wait time 500 ms)
+__MmuPollCmdSyncAck
+npu_kmd!%s: [ERROR] CMD_SYNC command MSIData %d not written to MSIAddrVA 0x%I64x in time (wait time 500 ms)
+__MmuWriteCmdSyncCommand
+npu_kmd!%s: [ERROR] __MmuWriteCommand(VMM_MMU_CMD_SYNC) failed
+npu_kmd!%s: [ERROR] __MmuPollCmdSyncAck() failed
+npu_kmd!%s: [ERROR] OSWaitForSingleObject() failed, Status: 0x%x
+__MmuFlushCD
+npu_kmd!%s: [ERROR] __MmuWriteCommand(VMM_MMU_CMD_CFGI_CD) failed
+npu_kmd!%s: [ERROR] __MmuWriteCmdSyncCommand() failed
+__VmmMmuFaultHandler
+npu_kmd!%s: [ERROR] __VmmMmuFaultHandler: Invalid SubstreamId=%d
+npu_kmd!%s: [ERROR] __VmmMmuFaultHandler: Failed in disabling interrupts
+__VmmMmuLogGlobalError
+npu_kmd!%s: [ERROR] Global Error SMMU_GERROR register value=0x%x
+npu_kmd!%s: [ERROR] Global Error SMMU_CMDQ_CONS.ERR value=0x%x
+__VmmMmuIrq0Events_Isr
+npu_kmd!%s: [ERROR] Fault with VA in payload: EvtId=0x%llx, StrmId=%lld, SubstrmId=%lld, InputAddr=0x%I64x
+npu_kmd!%s: [ERROR] Fault with VA in payload: EvtId=0x%llx, StrmId=%lld, Substream Valid = %lld, SubstrmId = %lld, InputAddr = 0x%I64x, EventSpecific1 = 0x%llx, EventSpecific2 = 0x%llx
+npu_kmd!%s: [ERROR]    Fault attributes: RnW = 0x%llx, InD = 0x%llx, PnU = 0x%llx, S2 = 0x%llx, CLASS = 0x%llx
+npu_kmd!%s: [ERROR]                      IPA - F_TRANSLATION[243:224] = 0x%llx
+npu_kmd!%s: [ERROR]                      IPA - F_TRANSLATION[223:204] = 0x%llx
+npu_kmd!%s: [ERROR]                      IMPL_DEF                     = 0x%llx
+npu_kmd!%s: [ERROR] Global fault, No VA in payload: EventId=0x%llx, StrmId=%lld, SubstrmId=%lld
+npu_kmd!%s: [ERROR] Unhandled fault: EventId=0x%llx
+__VmmMmuIrq1CmdSync_Dpc
+npu_kmd!%s: [ERROR] __VmmMmuIrq1CmdSync_Dpc: OSSetEvent() failed
+VmmMmuCreateContext
+npu_kmd!%s: [ERROR] VmmMmuCreateContext: Failed to allocate memory for mmu context
+npu_kmd!%s: [ERROR] VmmMmuCreateContext: __MmuAllocateStructs() failed
+npu_kmd!%s: [ERROR] VmmMmuCreateContext: OSCreateEvent() failed
+VmmMmuInitialize
+npu_kmd!%s: [ERROR] __MmuSetupInterruptHandlers() failed
+npu_kmd!%s: [ERROR] __MmuInitQueues() failed
+npu_kmd!%s: [ERROR] __MmuWriteCommand(VMM_MMU_CMD_CFGI_ALL) failed
+npu_kmd!%s: [ERROR] __MmuWriteCommand(VMM_MMU_CMD_TLBI_NSNH_ALL) failed
+npu_kmd!%s: [ERROR] __MmuInitStreamTable() failed
+npu_kmd!%s: [ERROR] __MmuPollCr0Ack() failed
+npu_kmd!%s: [ERROR] VmmMmuInterruptsEnable() failed
+VmmMmuTlbFlush
+npu_kmd!%s: [ERROR] VmmMmuTlbFlush: __MmuWriteCommand(VMM_MMU_CMD_TLBI_NH_ASID) failed
+npu_kmd!%s: [ERROR] VmmMmuTlbFlush: __MmuWriteCmdSyncCommand() failed
+VmmIsMmuFailed
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_F_TRANSLATION EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_F_ADDR_SIZE EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_C_BAD_CD EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_C_BAD_STE EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_C_BAD_STREAMID EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: VMM_MMU_EVENT_ID_C_BAD_SUBSTREAMID EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: Other EventId=0x%llx
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: Event Queue status is VMM_MMU_QUEUE_INVALID
+npu_kmd!%s: [ERROR] VmmIsMmuFailed: Global error occurred
+__VmmAllocateResource
+npu_kmd!%s: [ERROR] Driver version mis-match between UMD_KMD!!!
+npu_kmd!%s: [ERROR] Invalid Parameter!
+npu_kmd!%s: [ERROR] VmmTexAlloc failed!
+npu_kmd!%s: [ERROR] Allocation size greater than WDDM limit!
+npu_kmd!%s: [ERROR] UMD is requesting for LocalBuffer backed allocation when there is no local memory
+VmmQuerySegmentDescriptor
+npu_kmd!%s: [ERROR] QueryDriverCaps Invalid Size.
+npu_kmd!%s: [ERROR] QueryDriverCaps number of segments mismatch.
+(null)
+duipPxXcCsS
+OsAllocContiguousMdlPages
+npu_kmd!%s: [ERROR] Not able to allocate contig memory in a single chunk of size 0x%llx
+npu_kmd!%s: [ERROR] Not able to map contig mdl pages to IOMMU. Status = 0x%lx
+"<"uH9
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@SVWATAUAVAWH
+E8|$Xt$H;
+@t*A9u
+0A_A^A]A\_^[
+0A_A^A]A\_^[
+|$ AVH
+H;D$Hv
+|$ ATAVAWH
+ A_A^A\
+@USAWH
+@USVWATAVAWH
+=GRGBt
+=RGBGt
+A_A^A\_^[]
+@SUAUAVAWH
+A_A^A]][
+CtD;Cp
+L$ fff
+@Ic@TA
+VWATAVAWH
+A_A^A\_^
+																		
+											
+D$hD;C8
+t$ AWH
+SWAVAWH
+hA_A^_[
+\$ UVWATAUAVAWH
+D$x9t$8u	
+D$P;l$4
+D$P;|$4
+A_A^A]A\_^]
+SUAVAWH
+hA_A^][
+UVWATAUAVAWH
+d$0tif
+0t ;sdr
+PA_A^A]A\_^]
+\$ UVWATAUAVAWH
+0t&D;{dr 
+PA_A^A]A\_^]
+@SVAVH
+D$<D;Cdr
+@SVWATAUAVAWH
+0t	;od
+`A_A^A]A\_^[
+WATAUAVAWH
+ A_A^A]A\_
+@SUAVAWH
+0t	;{d
+xA_A^][
+SAVAWH
+INTC KMD: 
+INTC MINIPORT: 
+INTC VMM: 
+3e71801ffd720dd5b8bc0753bb8291a61fdbf87455fbbe4c510524a958f0c9bf7dcdba8b426579baf83239978fc53996428c22ddf128ac4cf5e0f9e08afe88f7
+e8488fec27575ddbd671ebbd64ff65e4a3f7a1aa219537a7ccdead05c1b10db36bcd23025eed2ef749b209467798683f9efa6c45c1189d70fd3f485f72dc5f58
+@33333
+IVD_ENGINE_COMPUTE
+IVD_ENGINE_COPY
+IVD_D3_TRANSITION
+IVD_ADAPTER
+IVD_MEMORY
+IVD_MEMORY_REFRESH
+UUUUUU
+UUUUUU
+A03>A|
+Q5rHg,>
+j>>A?1
+.>PJ;I:qE>
+:>t6k'
+])6M>&
+CWD>~3
+:>)*	v
+_oD>Kg
+N>O=I9
+F>qUxv
+/2GG>!B
+zY;>u:m	
+P>q_Y~
+0><[cZUg^>
+Y>kX>M
+H[><y5
+"e?<<<<<<l?
+Il?333333c?
+.i?0@I
+d?000000`?
+)|B?d!
+L?UUUUUUU?
+&?PPPPPPP?
+0X8b?~
+%GoU?*
+(T?j?Y
+Zod(^?
+D W?{W
+qS>g?h3
+c?FA@s}
+UUUUUU
+UUUUUU
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+VpuFwTraceProviderGuid
+C:\Temp\oizlkabvmc\build\x64\Source\Kmd\core\Release\npu_kmd.pdb
+.text$mn
+.text$mn$00
+.text$mn$21
+.text$s
+.text$x
+$kerneltext$
+.idata$5
+.00cfg
+.gfids
+.giats
+.rdata
+.rdata$zETW2
+.rdata$zzzdbg
+.xdata
+.pdata
+PAGE$s
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.rsrc$01
+.rsrc$02
+@SUVWAVH
+@A^_^][
+p WAVAWH
+ A_A^_
+\$0uLE3
+VpuCollectDbgInfo
+npu_kmd!%s: [ERROR] VpuCollectDbgInfo kIrql =  0x%x, not PASSIVE_LEVEL.
+npu_kmd!%s: [INFO] Requesting FW to collect Debug Info from DxgkDDICollectDbgInfo
+npu_kmd!%s: [ERROR] Collecting Debug Info. Driver build: %d.0.%d.%d and TDR reason : 0x%x
+npu_kmd!%s: [INFO] VPU Firmware Header Version: %d.%d.%d
+npu_kmd!%s: [INFO] VPU API Version: %d.%d
+npu_kmd!%s: [INFO] VPU Firmware Version: %s
+BCryptOpenAlgorithmProvider
+BCryptGetProperty
+BCryptCloseAlgorithmProvider
+BCryptCreateHash
+BCryptHashData
+BCryptFinishHash
+BCryptDestroyHash
+SecLookupAccountSid
+ksecdd.sys
+	RtlInitUnicodeString
+MmGetSystemRoutineAddress
+RtlGetVersion
+EtwRegister
+EtwUnregister
+EtwWriteTransfer
+strncmp
+RtlFreeUnicodeString
+KeInitializeEvent
+KeWaitForSingleObject
+KeDeregisterBugCheckReasonCallback
+KeRegisterBugCheckReasonCallback
+ExAllocatePool2
+MmBuildMdlForNonPagedPool
+MmAllocateContiguousMemorySpecifyCache
+MmFreeContiguousMemory
+IoAllocateMdl
+IoBuildSynchronousFsdRequest
+IofCallDriver
+IoFreeMdl
+EtwSetInformation
+IoGetDeviceProperty
+IoRegisterDeviceInterface
+ZwOpenFile
+ZwQueryInformationFile
+ZwReadFile
+ZwClose
+MmGetPhysicalAddress
+KeInitializeSpinLock
+KeAcquireSpinLockRaiseToDpc
+KeReleaseSpinLock
+KeAcquireGuardedMutex
+KeReleaseGuardedMutex
+	RtlQueryRegistryValues
+RtlWriteRegistryValue
+KeGetCurrentIrql
+MmGetPhysicalMemoryRanges
+KeDelayExecutionThread
+__C_specific_handler
+	RtlTimeToTimeFields
+ExSystemTimeToLocalTime
+ZwCreateFile
+_vsnwprintf
+KeSetEvent
+KeInitializeGuardedMutex
+ObReferenceObjectByHandle
+ObfDereferenceObject
+ExEventObjectType
+KeInitializeDpc
+KeInitializeTimer
+KeCancelTimer
+KeSetTimerEx
+KeAcquireInStackQueuedSpinLock
+KeReleaseInStackQueuedSpinLock
+strnlen
+KeInitializeMutex
+KeReleaseMutex
+IoGetDeviceObjectPointer
+IoRegisterPlugPlayNotification
+IoUnregisterPlugPlayNotification
+ProbeForRead
+ProbeForWrite
+IoAllocateWorkItem
+IoFreeWorkItem
+RtlCompareMemory
+sprintf
+IoQueueWorkItem
+KeAcquireInStackQueuedSpinLockAtDpcLevel
+KeReleaseInStackQueuedSpinLockFromDpcLevel
+KeQuerySystemTimePrecise
+KeInitializeSemaphore
+KeReleaseSemaphore
+KeSetPriorityThread
+KeWaitForMultipleObjects
+PsCreateSystemThread
+PsTerminateSystemThread
+ZwWriteFile
+vsprintf_s
+wcscpy_s
+wcsrchr
+RtlCompareUnicodeString
+SeCaptureSubjectContext
+IoGetCurrentProcess
+PsGetCurrentProcessId
+SeQueryInformationToken
+RtlCreateSecurityDescriptor
+	RtlSetDaclSecurityDescriptor
+ZwOpenEvent
+KePulseEvent
+RtlCreateAcl
+RtlAddAccessAllowedAce
+ObOpenObjectByPointer
+ZwCreateEvent
+SeExports
+ExAllocateTimer
+ExSetTimer
+ExCancelTimer
+ExDeleteTimer
+KeLowerIrql
+KfRaiseIrql
+MmMapLockedPagesSpecifyCache
+MmUnmapLockedPages
+IoBuildPartialMdl
+KeInvalidateRangeAllCaches
+ExpInterlockedPopEntrySList
+ExpInterlockedPushEntrySList
+InitializeSListHead
+		RtlInitString
+RtlCreateRegistryKey
+RtlCheckRegistryKey
+RtlAnsiStringToUnicodeString
+strncpy_s
+strstr
+DbgPrintEx
+KeQueryActiveProcessorCount
+ExFreePoolWithTag
+KeNumberProcessors
+MmAllocatePagesForMdlEx
+MmFreePagesFromMdl
+KeInvalidateAllCaches
+KeClearEvent
+MmProbeAndLockPages
+MmUnlockPages
+MmAllocateContiguousMemory
+MmFreeContiguousMemorySpecifyCache
+_purecall
+ExAllocatePoolWithTag
+IoBuildDeviceIoControlRequest
+ZwLoadDriver
+ZwUnloadDriver
+PsGetVersion
+ExAllocatePoolWithQuotaTag
+ZwQuerySystemInformation
+ntoskrnl.exe
+	RtlRaiseException
+KeQueryPerformanceCounter
+KeStallExecutionProcessor
+HAL.dll
+CRIM@K
+TTBLH*
+TASK4	
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+210525000000Z
+281231235959Z0V1
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+H/(@Bp 6
+2http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+230315000000Z
+240314235959Z0Z1
+California1
+Intel Corporation1
+Intel Corporation0
+https://sectigo.com/CPS0
+8http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y
+8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#
+http://ocsp.sectigo.com0#
+pkiengineering@intel.com0
+us{vI'
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+210322000000Z
+360321235959Z0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+FFlCx@
+H/(@Bp 6
+:http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{
+:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#
+http://ocsp.sectigo.com0
+ts7!:o
+n0PPd}
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R36
+etM8~S=
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230914191422Z
+240904191422Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232825+5015220
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+vgdH_B
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+(https://www.microsoft.com/en-us/windows 0
+xu%X2n
+20231106141651.089Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+230601183258Z
+240201183258Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service0
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+mbIF?9
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+as.,k{n?,	x
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20231106023343Z
+20231107023343Z0t0:
+ehWZ^U
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+%:<P|Z0
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010

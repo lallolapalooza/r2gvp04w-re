@@ -1,0 +1,7 @@
+program: npu_kmd.sys
+total_functions: 1122
+decompiled_ok: 1122
+decompile_failed: 0
+exports: 1
+imports: 138
+elapsed_sec: 21

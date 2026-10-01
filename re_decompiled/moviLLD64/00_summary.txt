@@ -1,0 +1,7 @@
+program: moviLLD64.dll
+total_functions: 43903
+decompiled_ok: 43892
+decompile_failed: 11
+exports: 3
+imports: 162
+elapsed_sec: 2707

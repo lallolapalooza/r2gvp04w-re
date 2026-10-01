@@ -1,0 +1,21 @@
+Name: vpux_driver_compiler.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/vpux_driver_compiler.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 1843b23ff (size=70980608, init=true, exec=true, r=true, w=false)
+  .rdata: 1843b3000 - 184a483ff (size=6902784, init=true, exec=false, r=true, w=false)
+  .data: 184a49000 - 184b2984b (size=919628, init=true, exec=false, r=true, w=true)
+  .pdata: 184b2a000 - 184bf23ff (size=820224, init=true, exec=false, r=true, w=false)
+  .didat: 184bf3000 - 184bf31ff (size=512, init=true, exec=false, r=true, w=true)
+  _RDATA: 184bf4000 - 184bf43ff (size=1024, init=true, exec=false, r=true, w=false)
+  .rsrc: 184bf5000 - 184bf57ff (size=2048, init=true, exec=false, r=true, w=false)
+  .reloc: 184bf6000 - 184c161ff (size=131584, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

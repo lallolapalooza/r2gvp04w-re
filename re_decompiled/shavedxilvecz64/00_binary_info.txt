@@ -1,0 +1,24 @@
+Name: shavedxilvecz64.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/shavedxilvecz64.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 180e521ff (size=15012352, init=true, exec=true, r=true, w=false)
+  .rdata: 180e53000 - 18109abff (size=2391040, init=true, exec=false, r=true, w=false)
+  .data: 18109b000 - 1810cdc78 (size=207993, init=true, exec=false, r=true, w=true)
+  .pdata: 1810ce000 - 18116cdff (size=650752, init=true, exec=false, r=true, w=false)
+  .idata: 18116d000 - 181170fff (size=16384, init=true, exec=false, r=true, w=false)
+  .didat: 181171000 - 1811715ff (size=1536, init=true, exec=false, r=true, w=true)
+  .gfids: 181172000 - 1811a29ff (size=199168, init=true, exec=false, r=true, w=false)
+  .tls: 1811a3000 - 1811a33ff (size=1024, init=true, exec=false, r=true, w=true)
+  .00cfg: 1811a4000 - 1811a41ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 1811a5000 - 1811a57ff (size=2048, init=true, exec=false, r=true, w=false)
+  .reloc: 1811a6000 - 1811bfdff (size=105984, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

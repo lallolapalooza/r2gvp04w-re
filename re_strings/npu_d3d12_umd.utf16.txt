@@ -1,0 +1,2066 @@
+kernel32.dll
+!x-sys-default-locale
+(null)
+         (((((                  H
+         (((((                  H
+      (                          
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-file-l2-1-4
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-synch-l1-2-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernel32
+kernelbase
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+api-ms-
+ext-ms-
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+%F_%H-%M-%S
+QueryNpuDevice
+BeginComputeDependencyGraphNode
+EndComputeDependencyGraphNode
+ElementWiseMultiply
+ElementWiseConstantPow
+ElementWiseQuantizeLinear
+ElementWiseDequantizeLinear
+Convolution
+Reduce
+AveragePooling
+MaxPooling
+Gather
+ElementWiseAdd1
+DepthToSpace1
+SpaceToDepth1
+MeanVarianceNormalization1
+MatrixMultiplyInteger
+QuantizedLinearMatrixMultiply
+QuantizedLinearConvolution
+DynamicQuantizeLinear
+ElementWiseQuantizedLinearAdd
+Resample2
+QuantizedLinearAveragePooling
+ActivationSigmoid
+ActivationSoftmax1
+ActivationTanh
+ActivationGelu
+ElementWiseQuantizedLinearMultiply
+ElementWiseMultiplyAdd
+NodeID
+SyncAfterNodeIDCount
+DependencyGraphNodeID
+ATensor.DataType
+ATensor.Flags
+ATensor.DimensionCount
+ATensor.Size[0]
+ATensor.Size[1]
+ATensor.Size[2]
+ATensor.Size[3]
+ATensor.Size[4]
+ATensor.Layout.MemoryType
+ATensor.Layout.LayoutType
+ATensor.Layout.DimensionBlockSizes[0]
+ATensor.Layout.DimensionBlockSizes[1]
+ATensor.Layout.DimensionBlockSizes[2]
+ATensor.Layout.DimensionBlockSizes[3]
+ATensor.Layout.DimensionBlockSizes[4]
+ATensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+ATensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+ATensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+ATensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+ATensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+ATensor.Layout.ValidPaddingType
+ATensor.Layout.StartGutterSizes[0]
+ATensor.Layout.StartGutterSizes[1]
+ATensor.Layout.StartGutterSizes[2]
+ATensor.Layout.StartGutterSizes[3]
+ATensor.Layout.StartGutterSizes[4]
+ATensor.Layout.EndGutterSizes[0]
+ATensor.Layout.EndGutterSizes[1]
+ATensor.Layout.EndGutterSizes[2]
+ATensor.Layout.EndGutterSizes[3]
+ATensor.Layout.EndGutterSizes[4]
+ATensor.Layout.ElementStride[0]
+ATensor.Layout.ElementStride[1]
+ATensor.Layout.ElementStride[2]
+ATensor.Layout.ElementStride[3]
+ATensor.Layout.ElementStride[4]
+ATensor.Layout.BlockStrides[0]
+ATensor.Layout.BlockStrides[1]
+ATensor.Layout.BlockStrides[2]
+ATensor.Layout.BlockStrides[3]
+ATensor.Layout.BlockStrides[4]
+ATensor.Layout.FirstMemoryTile
+ATensor.Layout.MemoryTileCount
+ATensor.Layout.AlignmentOfModifiablePaddingInBytes
+ATensor.Layout.BaseAlignmentInBytes
+ATensor.Layout.PhysicalSizeInElements
+ATensor.ByteOffset
+BTensor.DataType
+BTensor.Flags
+BTensor.DimensionCount
+BTensor.Size[0]
+BTensor.Size[1]
+BTensor.Size[2]
+BTensor.Size[3]
+BTensor.Size[4]
+BTensor.Layout.MemoryType
+BTensor.Layout.LayoutType
+BTensor.Layout.DimensionBlockSizes[0]
+BTensor.Layout.DimensionBlockSizes[1]
+BTensor.Layout.DimensionBlockSizes[2]
+BTensor.Layout.DimensionBlockSizes[3]
+BTensor.Layout.DimensionBlockSizes[4]
+BTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+BTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+BTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+BTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+BTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+BTensor.Layout.ValidPaddingType
+BTensor.Layout.StartGutterSizes[0]
+BTensor.Layout.StartGutterSizes[1]
+BTensor.Layout.StartGutterSizes[2]
+BTensor.Layout.StartGutterSizes[3]
+BTensor.Layout.StartGutterSizes[4]
+BTensor.Layout.EndGutterSizes[0]
+BTensor.Layout.EndGutterSizes[1]
+BTensor.Layout.EndGutterSizes[2]
+BTensor.Layout.EndGutterSizes[3]
+BTensor.Layout.EndGutterSizes[4]
+BTensor.Layout.ElementStride[0]
+BTensor.Layout.ElementStride[1]
+BTensor.Layout.ElementStride[2]
+BTensor.Layout.ElementStride[3]
+BTensor.Layout.ElementStride[4]
+BTensor.Layout.BlockStrides[0]
+BTensor.Layout.BlockStrides[1]
+BTensor.Layout.BlockStrides[2]
+BTensor.Layout.BlockStrides[3]
+BTensor.Layout.BlockStrides[4]
+BTensor.Layout.FirstMemoryTile
+BTensor.Layout.MemoryTileCount
+BTensor.Layout.AlignmentOfModifiablePaddingInBytes
+BTensor.Layout.BaseAlignmentInBytes
+BTensor.Layout.PhysicalSizeInElements
+BTensor.ByteOffset
+OutputTensor.DataType
+OutputTensor.Flags
+OutputTensor.DimensionCount
+OutputTensor.Size[0]
+OutputTensor.Size[1]
+OutputTensor.Size[2]
+OutputTensor.Size[3]
+OutputTensor.Size[4]
+OutputTensor.Layout.MemoryType
+OutputTensor.Layout.LayoutType
+OutputTensor.Layout.DimensionBlockSizes[0]
+OutputTensor.Layout.DimensionBlockSizes[1]
+OutputTensor.Layout.DimensionBlockSizes[2]
+OutputTensor.Layout.DimensionBlockSizes[3]
+OutputTensor.Layout.DimensionBlockSizes[4]
+OutputTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+OutputTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+OutputTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+OutputTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+OutputTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+OutputTensor.Layout.ValidPaddingType
+OutputTensor.Layout.StartGutterSizes[0]
+OutputTensor.Layout.StartGutterSizes[1]
+OutputTensor.Layout.StartGutterSizes[2]
+OutputTensor.Layout.StartGutterSizes[3]
+OutputTensor.Layout.StartGutterSizes[4]
+OutputTensor.Layout.EndGutterSizes[0]
+OutputTensor.Layout.EndGutterSizes[1]
+OutputTensor.Layout.EndGutterSizes[2]
+OutputTensor.Layout.EndGutterSizes[3]
+OutputTensor.Layout.EndGutterSizes[4]
+OutputTensor.Layout.ElementStride[0]
+OutputTensor.Layout.ElementStride[1]
+OutputTensor.Layout.ElementStride[2]
+OutputTensor.Layout.ElementStride[3]
+OutputTensor.Layout.ElementStride[4]
+OutputTensor.Layout.BlockStrides[0]
+OutputTensor.Layout.BlockStrides[1]
+OutputTensor.Layout.BlockStrides[2]
+OutputTensor.Layout.BlockStrides[3]
+OutputTensor.Layout.BlockStrides[4]
+OutputTensor.Layout.FirstMemoryTile
+OutputTensor.Layout.MemoryTileCount
+OutputTensor.Layout.AlignmentOfModifiablePaddingInBytes
+OutputTensor.Layout.BaseAlignmentInBytes
+OutputTensor.Layout.PhysicalSizeInElements
+OutputTensor.ByteOffset
+Precision
+BindFlags
+ExecutionFlags
+SupportedRequirements.TemporaryResourceRequirements.MemoryType
+SupportedRequirements.TemporaryResourceRequirements.SizePerTile
+SupportedRequirements.TemporaryResourceRequirements.StartTile
+SupportedRequirements.TemporaryResourceRequirements.TileCount
+SupportedRequirements.TemporaryResourceRequirements.AlignmentInBytes
+SupportedRequirements.PersistentResourceRequirements.Type
+SupportedRequirements.PersistentResourceRequirements.MemoryType
+SupportedRequirements.PersistentResourceRequirements.SizePerTile
+SupportedRequirements.PersistentResourceRequirements.StartTile
+SupportedRequirements.PersistentResourceRequirements.TileCount
+SupportedRequirements.PersistentResourceRequirements.AlignmentInBytes
+ATensorResource
+BTensorResource
+PersistentResource
+TemporaryResource
+OutputTensorResource
+InputTensor.DataType
+InputTensor.Flags
+InputTensor.DimensionCount
+InputTensor.Size[0]
+InputTensor.Size[1]
+InputTensor.Size[2]
+InputTensor.Size[3]
+InputTensor.Size[4]
+InputTensor.Layout.MemoryType
+InputTensor.Layout.LayoutType
+InputTensor.Layout.DimensionBlockSizes[0]
+InputTensor.Layout.DimensionBlockSizes[1]
+InputTensor.Layout.DimensionBlockSizes[2]
+InputTensor.Layout.DimensionBlockSizes[3]
+InputTensor.Layout.DimensionBlockSizes[4]
+InputTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+InputTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+InputTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+InputTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+InputTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+InputTensor.Layout.ValidPaddingType
+InputTensor.Layout.StartGutterSizes[0]
+InputTensor.Layout.StartGutterSizes[1]
+InputTensor.Layout.StartGutterSizes[2]
+InputTensor.Layout.StartGutterSizes[3]
+InputTensor.Layout.StartGutterSizes[4]
+InputTensor.Layout.EndGutterSizes[0]
+InputTensor.Layout.EndGutterSizes[1]
+InputTensor.Layout.EndGutterSizes[2]
+InputTensor.Layout.EndGutterSizes[3]
+InputTensor.Layout.EndGutterSizes[4]
+InputTensor.Layout.ElementStride[0]
+InputTensor.Layout.ElementStride[1]
+InputTensor.Layout.ElementStride[2]
+InputTensor.Layout.ElementStride[3]
+InputTensor.Layout.ElementStride[4]
+InputTensor.Layout.BlockStrides[0]
+InputTensor.Layout.BlockStrides[1]
+InputTensor.Layout.BlockStrides[2]
+InputTensor.Layout.BlockStrides[3]
+InputTensor.Layout.BlockStrides[4]
+InputTensor.Layout.FirstMemoryTile
+InputTensor.Layout.MemoryTileCount
+InputTensor.Layout.AlignmentOfModifiablePaddingInBytes
+InputTensor.Layout.BaseAlignmentInBytes
+InputTensor.Layout.PhysicalSizeInElements
+InputTensor.ByteOffset
+Attributes.ScaleBias.Scale
+Attributes.ScaleBias.Bias
+Attributes.ScaleBias.IsNull
+Attributes.Exponent
+InputTensorResource
+ScaleTensor.DataType
+ScaleTensor.Flags
+ScaleTensor.DimensionCount
+ScaleTensor.Size[0]
+ScaleTensor.Size[1]
+ScaleTensor.Size[2]
+ScaleTensor.Size[3]
+ScaleTensor.Size[4]
+ScaleTensor.Layout.MemoryType
+ScaleTensor.Layout.LayoutType
+ScaleTensor.Layout.DimensionBlockSizes[0]
+ScaleTensor.Layout.DimensionBlockSizes[1]
+ScaleTensor.Layout.DimensionBlockSizes[2]
+ScaleTensor.Layout.DimensionBlockSizes[3]
+ScaleTensor.Layout.DimensionBlockSizes[4]
+ScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+ScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+ScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+ScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+ScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+ScaleTensor.Layout.ValidPaddingType
+ScaleTensor.Layout.StartGutterSizes[0]
+ScaleTensor.Layout.StartGutterSizes[1]
+ScaleTensor.Layout.StartGutterSizes[2]
+ScaleTensor.Layout.StartGutterSizes[3]
+ScaleTensor.Layout.StartGutterSizes[4]
+ScaleTensor.Layout.EndGutterSizes[0]
+ScaleTensor.Layout.EndGutterSizes[1]
+ScaleTensor.Layout.EndGutterSizes[2]
+ScaleTensor.Layout.EndGutterSizes[3]
+ScaleTensor.Layout.EndGutterSizes[4]
+ScaleTensor.Layout.ElementStride[0]
+ScaleTensor.Layout.ElementStride[1]
+ScaleTensor.Layout.ElementStride[2]
+ScaleTensor.Layout.ElementStride[3]
+ScaleTensor.Layout.ElementStride[4]
+ScaleTensor.Layout.BlockStrides[0]
+ScaleTensor.Layout.BlockStrides[1]
+ScaleTensor.Layout.BlockStrides[2]
+ScaleTensor.Layout.BlockStrides[3]
+ScaleTensor.Layout.BlockStrides[4]
+ScaleTensor.Layout.FirstMemoryTile
+ScaleTensor.Layout.MemoryTileCount
+ScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+ScaleTensor.Layout.BaseAlignmentInBytes
+ScaleTensor.Layout.PhysicalSizeInElements
+ScaleTensor.ByteOffset
+ZeroPointTensor.DataType
+ZeroPointTensor.Flags
+ZeroPointTensor.DimensionCount
+ZeroPointTensor.Size[0]
+ZeroPointTensor.Size[1]
+ZeroPointTensor.Size[2]
+ZeroPointTensor.Size[3]
+ZeroPointTensor.Size[4]
+ZeroPointTensor.Layout.MemoryType
+ZeroPointTensor.Layout.LayoutType
+ZeroPointTensor.Layout.DimensionBlockSizes[0]
+ZeroPointTensor.Layout.DimensionBlockSizes[1]
+ZeroPointTensor.Layout.DimensionBlockSizes[2]
+ZeroPointTensor.Layout.DimensionBlockSizes[3]
+ZeroPointTensor.Layout.DimensionBlockSizes[4]
+ZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+ZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+ZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+ZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+ZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+ZeroPointTensor.Layout.ValidPaddingType
+ZeroPointTensor.Layout.StartGutterSizes[0]
+ZeroPointTensor.Layout.StartGutterSizes[1]
+ZeroPointTensor.Layout.StartGutterSizes[2]
+ZeroPointTensor.Layout.StartGutterSizes[3]
+ZeroPointTensor.Layout.StartGutterSizes[4]
+ZeroPointTensor.Layout.EndGutterSizes[0]
+ZeroPointTensor.Layout.EndGutterSizes[1]
+ZeroPointTensor.Layout.EndGutterSizes[2]
+ZeroPointTensor.Layout.EndGutterSizes[3]
+ZeroPointTensor.Layout.EndGutterSizes[4]
+ZeroPointTensor.Layout.ElementStride[0]
+ZeroPointTensor.Layout.ElementStride[1]
+ZeroPointTensor.Layout.ElementStride[2]
+ZeroPointTensor.Layout.ElementStride[3]
+ZeroPointTensor.Layout.ElementStride[4]
+ZeroPointTensor.Layout.BlockStrides[0]
+ZeroPointTensor.Layout.BlockStrides[1]
+ZeroPointTensor.Layout.BlockStrides[2]
+ZeroPointTensor.Layout.BlockStrides[3]
+ZeroPointTensor.Layout.BlockStrides[4]
+ZeroPointTensor.Layout.FirstMemoryTile
+ZeroPointTensor.Layout.MemoryTileCount
+ZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+ZeroPointTensor.Layout.BaseAlignmentInBytes
+ZeroPointTensor.Layout.PhysicalSizeInElements
+ZeroPointTensor.ByteOffset
+ZeroPointTensor.IsNull
+ScaleTensorResource
+ScaleTensorData.Value.UInt64
+ScaleTensorData.IsNull
+ZeroPointTensorResource
+ZeroPointTensorData.Value.UInt64
+ZeroPointTensorData.IsNull
+FilterTensor.DataType
+FilterTensor.Flags
+FilterTensor.DimensionCount
+FilterTensor.Size[0]
+FilterTensor.Size[1]
+FilterTensor.Size[2]
+FilterTensor.Size[3]
+FilterTensor.Size[4]
+FilterTensor.Layout.MemoryType
+FilterTensor.Layout.LayoutType
+FilterTensor.Layout.DimensionBlockSizes[0]
+FilterTensor.Layout.DimensionBlockSizes[1]
+FilterTensor.Layout.DimensionBlockSizes[2]
+FilterTensor.Layout.DimensionBlockSizes[3]
+FilterTensor.Layout.DimensionBlockSizes[4]
+FilterTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+FilterTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+FilterTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+FilterTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+FilterTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+FilterTensor.Layout.ValidPaddingType
+FilterTensor.Layout.StartGutterSizes[0]
+FilterTensor.Layout.StartGutterSizes[1]
+FilterTensor.Layout.StartGutterSizes[2]
+FilterTensor.Layout.StartGutterSizes[3]
+FilterTensor.Layout.StartGutterSizes[4]
+FilterTensor.Layout.EndGutterSizes[0]
+FilterTensor.Layout.EndGutterSizes[1]
+FilterTensor.Layout.EndGutterSizes[2]
+FilterTensor.Layout.EndGutterSizes[3]
+FilterTensor.Layout.EndGutterSizes[4]
+FilterTensor.Layout.ElementStride[0]
+FilterTensor.Layout.ElementStride[1]
+FilterTensor.Layout.ElementStride[2]
+FilterTensor.Layout.ElementStride[3]
+FilterTensor.Layout.ElementStride[4]
+FilterTensor.Layout.BlockStrides[0]
+FilterTensor.Layout.BlockStrides[1]
+FilterTensor.Layout.BlockStrides[2]
+FilterTensor.Layout.BlockStrides[3]
+FilterTensor.Layout.BlockStrides[4]
+FilterTensor.Layout.FirstMemoryTile
+FilterTensor.Layout.MemoryTileCount
+FilterTensor.Layout.AlignmentOfModifiablePaddingInBytes
+FilterTensor.Layout.BaseAlignmentInBytes
+FilterTensor.Layout.PhysicalSizeInElements
+FilterTensor.ByteOffset
+BiasTensor.DataType
+BiasTensor.Flags
+BiasTensor.DimensionCount
+BiasTensor.Size[0]
+BiasTensor.Size[1]
+BiasTensor.Size[2]
+BiasTensor.Size[3]
+BiasTensor.Size[4]
+BiasTensor.Layout.MemoryType
+BiasTensor.Layout.LayoutType
+BiasTensor.Layout.DimensionBlockSizes[0]
+BiasTensor.Layout.DimensionBlockSizes[1]
+BiasTensor.Layout.DimensionBlockSizes[2]
+BiasTensor.Layout.DimensionBlockSizes[3]
+BiasTensor.Layout.DimensionBlockSizes[4]
+BiasTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+BiasTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+BiasTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+BiasTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+BiasTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+BiasTensor.Layout.ValidPaddingType
+BiasTensor.Layout.StartGutterSizes[0]
+BiasTensor.Layout.StartGutterSizes[1]
+BiasTensor.Layout.StartGutterSizes[2]
+BiasTensor.Layout.StartGutterSizes[3]
+BiasTensor.Layout.StartGutterSizes[4]
+BiasTensor.Layout.EndGutterSizes[0]
+BiasTensor.Layout.EndGutterSizes[1]
+BiasTensor.Layout.EndGutterSizes[2]
+BiasTensor.Layout.EndGutterSizes[3]
+BiasTensor.Layout.EndGutterSizes[4]
+BiasTensor.Layout.ElementStride[0]
+BiasTensor.Layout.ElementStride[1]
+BiasTensor.Layout.ElementStride[2]
+BiasTensor.Layout.ElementStride[3]
+BiasTensor.Layout.ElementStride[4]
+BiasTensor.Layout.BlockStrides[0]
+BiasTensor.Layout.BlockStrides[1]
+BiasTensor.Layout.BlockStrides[2]
+BiasTensor.Layout.BlockStrides[3]
+BiasTensor.Layout.BlockStrides[4]
+BiasTensor.Layout.FirstMemoryTile
+BiasTensor.Layout.MemoryTileCount
+BiasTensor.Layout.AlignmentOfModifiablePaddingInBytes
+BiasTensor.Layout.BaseAlignmentInBytes
+BiasTensor.Layout.PhysicalSizeInElements
+BiasTensor.ByteOffset
+BiasTensor.IsNull
+Attributes.Mode
+Attributes.Direction
+Attributes.DimensionCount
+Attributes.Strides[0]
+Attributes.Strides[1]
+Attributes.Strides[2]
+Attributes.Dilations[0]
+Attributes.Dilations[1]
+Attributes.Dilations[2]
+Attributes.StartPadding[0]
+Attributes.StartPadding[1]
+Attributes.StartPadding[2]
+Attributes.EndPadding[0]
+Attributes.EndPadding[1]
+Attributes.EndPadding[2]
+Attributes.OutputPadding[0]
+Attributes.OutputPadding[1]
+Attributes.OutputPadding[2]
+Attributes.OutputPadding[3]
+Attributes.OutputPadding[4]
+Attributes.GroupCount
+Attributes.FusedActivation.Function
+Attributes.FusedActivation.Params.first
+Attributes.FusedActivation.Params.second
+Attributes.FusedActivation.IsNull
+Sparsity.SparsityType
+Sparsity.InputTensorIndex
+Sparsity.InputTensorDimension
+FilterTensorResource
+BiasTensorResource
+CTensor.DataType
+CTensor.Flags
+CTensor.DimensionCount
+CTensor.Size[0]
+CTensor.Size[1]
+CTensor.Size[2]
+CTensor.Size[3]
+CTensor.Size[4]
+CTensor.Layout.MemoryType
+CTensor.Layout.LayoutType
+CTensor.Layout.DimensionBlockSizes[0]
+CTensor.Layout.DimensionBlockSizes[1]
+CTensor.Layout.DimensionBlockSizes[2]
+CTensor.Layout.DimensionBlockSizes[3]
+CTensor.Layout.DimensionBlockSizes[4]
+CTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+CTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+CTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+CTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+CTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+CTensor.Layout.ValidPaddingType
+CTensor.Layout.StartGutterSizes[0]
+CTensor.Layout.StartGutterSizes[1]
+CTensor.Layout.StartGutterSizes[2]
+CTensor.Layout.StartGutterSizes[3]
+CTensor.Layout.StartGutterSizes[4]
+CTensor.Layout.EndGutterSizes[0]
+CTensor.Layout.EndGutterSizes[1]
+CTensor.Layout.EndGutterSizes[2]
+CTensor.Layout.EndGutterSizes[3]
+CTensor.Layout.EndGutterSizes[4]
+CTensor.Layout.ElementStride[0]
+CTensor.Layout.ElementStride[1]
+CTensor.Layout.ElementStride[2]
+CTensor.Layout.ElementStride[3]
+CTensor.Layout.ElementStride[4]
+CTensor.Layout.BlockStrides[0]
+CTensor.Layout.BlockStrides[1]
+CTensor.Layout.BlockStrides[2]
+CTensor.Layout.BlockStrides[3]
+CTensor.Layout.BlockStrides[4]
+CTensor.Layout.FirstMemoryTile
+CTensor.Layout.MemoryTileCount
+CTensor.Layout.AlignmentOfModifiablePaddingInBytes
+CTensor.Layout.BaseAlignmentInBytes
+CTensor.Layout.PhysicalSizeInElements
+CTensor.ByteOffset
+CTensor.IsNull
+Attributes.TransA
+Attributes.TransB
+Attributes.Alpha
+Attributes.Beta
+CTensorResource
+Attributes.Function
+Attributes.AxisCount
+Attributes.Axes[0]
+Attributes.Axes[1]
+Attributes.Axes[2]
+Attributes.Axes[3]
+Attributes.Axes[4]
+Attributes.WindowSize[0]
+Attributes.WindowSize[1]
+Attributes.WindowSize[2]
+Attributes.IncludePadding
+IndicesTensor.DataType
+IndicesTensor.Flags
+IndicesTensor.DimensionCount
+IndicesTensor.Size[0]
+IndicesTensor.Size[1]
+IndicesTensor.Size[2]
+IndicesTensor.Size[3]
+IndicesTensor.Size[4]
+IndicesTensor.Layout.MemoryType
+IndicesTensor.Layout.LayoutType
+IndicesTensor.Layout.DimensionBlockSizes[0]
+IndicesTensor.Layout.DimensionBlockSizes[1]
+IndicesTensor.Layout.DimensionBlockSizes[2]
+IndicesTensor.Layout.DimensionBlockSizes[3]
+IndicesTensor.Layout.DimensionBlockSizes[4]
+IndicesTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+IndicesTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+IndicesTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+IndicesTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+IndicesTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+IndicesTensor.Layout.ValidPaddingType
+IndicesTensor.Layout.StartGutterSizes[0]
+IndicesTensor.Layout.StartGutterSizes[1]
+IndicesTensor.Layout.StartGutterSizes[2]
+IndicesTensor.Layout.StartGutterSizes[3]
+IndicesTensor.Layout.StartGutterSizes[4]
+IndicesTensor.Layout.EndGutterSizes[0]
+IndicesTensor.Layout.EndGutterSizes[1]
+IndicesTensor.Layout.EndGutterSizes[2]
+IndicesTensor.Layout.EndGutterSizes[3]
+IndicesTensor.Layout.EndGutterSizes[4]
+IndicesTensor.Layout.ElementStride[0]
+IndicesTensor.Layout.ElementStride[1]
+IndicesTensor.Layout.ElementStride[2]
+IndicesTensor.Layout.ElementStride[3]
+IndicesTensor.Layout.ElementStride[4]
+IndicesTensor.Layout.BlockStrides[0]
+IndicesTensor.Layout.BlockStrides[1]
+IndicesTensor.Layout.BlockStrides[2]
+IndicesTensor.Layout.BlockStrides[3]
+IndicesTensor.Layout.BlockStrides[4]
+IndicesTensor.Layout.FirstMemoryTile
+IndicesTensor.Layout.MemoryTileCount
+IndicesTensor.Layout.AlignmentOfModifiablePaddingInBytes
+IndicesTensor.Layout.BaseAlignmentInBytes
+IndicesTensor.Layout.PhysicalSizeInElements
+IndicesTensor.ByteOffset
+Attributes.Axis
+Attributes.IndexDimensions
+IndicesTensorResource
+Attributes.BlockSize
+Attributes.Order
+ScaleTensor.IsNull
+Attributes.NormalizeVariance
+Attributes.Epsilon
+AZeroPointTensor.DataType
+AZeroPointTensor.Flags
+AZeroPointTensor.DimensionCount
+AZeroPointTensor.Size[0]
+AZeroPointTensor.Size[1]
+AZeroPointTensor.Size[2]
+AZeroPointTensor.Size[3]
+AZeroPointTensor.Size[4]
+AZeroPointTensor.Layout.MemoryType
+AZeroPointTensor.Layout.LayoutType
+AZeroPointTensor.Layout.DimensionBlockSizes[0]
+AZeroPointTensor.Layout.DimensionBlockSizes[1]
+AZeroPointTensor.Layout.DimensionBlockSizes[2]
+AZeroPointTensor.Layout.DimensionBlockSizes[3]
+AZeroPointTensor.Layout.DimensionBlockSizes[4]
+AZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+AZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+AZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+AZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+AZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+AZeroPointTensor.Layout.ValidPaddingType
+AZeroPointTensor.Layout.StartGutterSizes[0]
+AZeroPointTensor.Layout.StartGutterSizes[1]
+AZeroPointTensor.Layout.StartGutterSizes[2]
+AZeroPointTensor.Layout.StartGutterSizes[3]
+AZeroPointTensor.Layout.StartGutterSizes[4]
+AZeroPointTensor.Layout.EndGutterSizes[0]
+AZeroPointTensor.Layout.EndGutterSizes[1]
+AZeroPointTensor.Layout.EndGutterSizes[2]
+AZeroPointTensor.Layout.EndGutterSizes[3]
+AZeroPointTensor.Layout.EndGutterSizes[4]
+AZeroPointTensor.Layout.ElementStride[0]
+AZeroPointTensor.Layout.ElementStride[1]
+AZeroPointTensor.Layout.ElementStride[2]
+AZeroPointTensor.Layout.ElementStride[3]
+AZeroPointTensor.Layout.ElementStride[4]
+AZeroPointTensor.Layout.BlockStrides[0]
+AZeroPointTensor.Layout.BlockStrides[1]
+AZeroPointTensor.Layout.BlockStrides[2]
+AZeroPointTensor.Layout.BlockStrides[3]
+AZeroPointTensor.Layout.BlockStrides[4]
+AZeroPointTensor.Layout.FirstMemoryTile
+AZeroPointTensor.Layout.MemoryTileCount
+AZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+AZeroPointTensor.Layout.BaseAlignmentInBytes
+AZeroPointTensor.Layout.PhysicalSizeInElements
+AZeroPointTensor.ByteOffset
+AZeroPointTensor.IsNull
+BZeroPointTensor.DataType
+BZeroPointTensor.Flags
+BZeroPointTensor.DimensionCount
+BZeroPointTensor.Size[0]
+BZeroPointTensor.Size[1]
+BZeroPointTensor.Size[2]
+BZeroPointTensor.Size[3]
+BZeroPointTensor.Size[4]
+BZeroPointTensor.Layout.MemoryType
+BZeroPointTensor.Layout.LayoutType
+BZeroPointTensor.Layout.DimensionBlockSizes[0]
+BZeroPointTensor.Layout.DimensionBlockSizes[1]
+BZeroPointTensor.Layout.DimensionBlockSizes[2]
+BZeroPointTensor.Layout.DimensionBlockSizes[3]
+BZeroPointTensor.Layout.DimensionBlockSizes[4]
+BZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+BZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+BZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+BZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+BZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+BZeroPointTensor.Layout.ValidPaddingType
+BZeroPointTensor.Layout.StartGutterSizes[0]
+BZeroPointTensor.Layout.StartGutterSizes[1]
+BZeroPointTensor.Layout.StartGutterSizes[2]
+BZeroPointTensor.Layout.StartGutterSizes[3]
+BZeroPointTensor.Layout.StartGutterSizes[4]
+BZeroPointTensor.Layout.EndGutterSizes[0]
+BZeroPointTensor.Layout.EndGutterSizes[1]
+BZeroPointTensor.Layout.EndGutterSizes[2]
+BZeroPointTensor.Layout.EndGutterSizes[3]
+BZeroPointTensor.Layout.EndGutterSizes[4]
+BZeroPointTensor.Layout.ElementStride[0]
+BZeroPointTensor.Layout.ElementStride[1]
+BZeroPointTensor.Layout.ElementStride[2]
+BZeroPointTensor.Layout.ElementStride[3]
+BZeroPointTensor.Layout.ElementStride[4]
+BZeroPointTensor.Layout.BlockStrides[0]
+BZeroPointTensor.Layout.BlockStrides[1]
+BZeroPointTensor.Layout.BlockStrides[2]
+BZeroPointTensor.Layout.BlockStrides[3]
+BZeroPointTensor.Layout.BlockStrides[4]
+BZeroPointTensor.Layout.FirstMemoryTile
+BZeroPointTensor.Layout.MemoryTileCount
+BZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+BZeroPointTensor.Layout.BaseAlignmentInBytes
+BZeroPointTensor.Layout.PhysicalSizeInElements
+BZeroPointTensor.ByteOffset
+BZeroPointTensor.IsNull
+AZeroPointTensorResource
+AZeroPointTensorData.Value.UInt64
+AZeroPointTensorData.IsNull
+BZeroPointTensorResource
+BZeroPointTensorData.Value.UInt64
+BZeroPointTensorData.IsNull
+AScaleTensor.DataType
+AScaleTensor.Flags
+AScaleTensor.DimensionCount
+AScaleTensor.Size[0]
+AScaleTensor.Size[1]
+AScaleTensor.Size[2]
+AScaleTensor.Size[3]
+AScaleTensor.Size[4]
+AScaleTensor.Layout.MemoryType
+AScaleTensor.Layout.LayoutType
+AScaleTensor.Layout.DimensionBlockSizes[0]
+AScaleTensor.Layout.DimensionBlockSizes[1]
+AScaleTensor.Layout.DimensionBlockSizes[2]
+AScaleTensor.Layout.DimensionBlockSizes[3]
+AScaleTensor.Layout.DimensionBlockSizes[4]
+AScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+AScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+AScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+AScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+AScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+AScaleTensor.Layout.ValidPaddingType
+AScaleTensor.Layout.StartGutterSizes[0]
+AScaleTensor.Layout.StartGutterSizes[1]
+AScaleTensor.Layout.StartGutterSizes[2]
+AScaleTensor.Layout.StartGutterSizes[3]
+AScaleTensor.Layout.StartGutterSizes[4]
+AScaleTensor.Layout.EndGutterSizes[0]
+AScaleTensor.Layout.EndGutterSizes[1]
+AScaleTensor.Layout.EndGutterSizes[2]
+AScaleTensor.Layout.EndGutterSizes[3]
+AScaleTensor.Layout.EndGutterSizes[4]
+AScaleTensor.Layout.ElementStride[0]
+AScaleTensor.Layout.ElementStride[1]
+AScaleTensor.Layout.ElementStride[2]
+AScaleTensor.Layout.ElementStride[3]
+AScaleTensor.Layout.ElementStride[4]
+AScaleTensor.Layout.BlockStrides[0]
+AScaleTensor.Layout.BlockStrides[1]
+AScaleTensor.Layout.BlockStrides[2]
+AScaleTensor.Layout.BlockStrides[3]
+AScaleTensor.Layout.BlockStrides[4]
+AScaleTensor.Layout.FirstMemoryTile
+AScaleTensor.Layout.MemoryTileCount
+AScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+AScaleTensor.Layout.BaseAlignmentInBytes
+AScaleTensor.Layout.PhysicalSizeInElements
+AScaleTensor.ByteOffset
+BScaleTensor.DataType
+BScaleTensor.Flags
+BScaleTensor.DimensionCount
+BScaleTensor.Size[0]
+BScaleTensor.Size[1]
+BScaleTensor.Size[2]
+BScaleTensor.Size[3]
+BScaleTensor.Size[4]
+BScaleTensor.Layout.MemoryType
+BScaleTensor.Layout.LayoutType
+BScaleTensor.Layout.DimensionBlockSizes[0]
+BScaleTensor.Layout.DimensionBlockSizes[1]
+BScaleTensor.Layout.DimensionBlockSizes[2]
+BScaleTensor.Layout.DimensionBlockSizes[3]
+BScaleTensor.Layout.DimensionBlockSizes[4]
+BScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+BScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+BScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+BScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+BScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+BScaleTensor.Layout.ValidPaddingType
+BScaleTensor.Layout.StartGutterSizes[0]
+BScaleTensor.Layout.StartGutterSizes[1]
+BScaleTensor.Layout.StartGutterSizes[2]
+BScaleTensor.Layout.StartGutterSizes[3]
+BScaleTensor.Layout.StartGutterSizes[4]
+BScaleTensor.Layout.EndGutterSizes[0]
+BScaleTensor.Layout.EndGutterSizes[1]
+BScaleTensor.Layout.EndGutterSizes[2]
+BScaleTensor.Layout.EndGutterSizes[3]
+BScaleTensor.Layout.EndGutterSizes[4]
+BScaleTensor.Layout.ElementStride[0]
+BScaleTensor.Layout.ElementStride[1]
+BScaleTensor.Layout.ElementStride[2]
+BScaleTensor.Layout.ElementStride[3]
+BScaleTensor.Layout.ElementStride[4]
+BScaleTensor.Layout.BlockStrides[0]
+BScaleTensor.Layout.BlockStrides[1]
+BScaleTensor.Layout.BlockStrides[2]
+BScaleTensor.Layout.BlockStrides[3]
+BScaleTensor.Layout.BlockStrides[4]
+BScaleTensor.Layout.FirstMemoryTile
+BScaleTensor.Layout.MemoryTileCount
+BScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+BScaleTensor.Layout.BaseAlignmentInBytes
+BScaleTensor.Layout.PhysicalSizeInElements
+BScaleTensor.ByteOffset
+OutputScaleTensor.DataType
+OutputScaleTensor.Flags
+OutputScaleTensor.DimensionCount
+OutputScaleTensor.Size[0]
+OutputScaleTensor.Size[1]
+OutputScaleTensor.Size[2]
+OutputScaleTensor.Size[3]
+OutputScaleTensor.Size[4]
+OutputScaleTensor.Layout.MemoryType
+OutputScaleTensor.Layout.LayoutType
+OutputScaleTensor.Layout.DimensionBlockSizes[0]
+OutputScaleTensor.Layout.DimensionBlockSizes[1]
+OutputScaleTensor.Layout.DimensionBlockSizes[2]
+OutputScaleTensor.Layout.DimensionBlockSizes[3]
+OutputScaleTensor.Layout.DimensionBlockSizes[4]
+OutputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+OutputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+OutputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+OutputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+OutputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+OutputScaleTensor.Layout.ValidPaddingType
+OutputScaleTensor.Layout.StartGutterSizes[0]
+OutputScaleTensor.Layout.StartGutterSizes[1]
+OutputScaleTensor.Layout.StartGutterSizes[2]
+OutputScaleTensor.Layout.StartGutterSizes[3]
+OutputScaleTensor.Layout.StartGutterSizes[4]
+OutputScaleTensor.Layout.EndGutterSizes[0]
+OutputScaleTensor.Layout.EndGutterSizes[1]
+OutputScaleTensor.Layout.EndGutterSizes[2]
+OutputScaleTensor.Layout.EndGutterSizes[3]
+OutputScaleTensor.Layout.EndGutterSizes[4]
+OutputScaleTensor.Layout.ElementStride[0]
+OutputScaleTensor.Layout.ElementStride[1]
+OutputScaleTensor.Layout.ElementStride[2]
+OutputScaleTensor.Layout.ElementStride[3]
+OutputScaleTensor.Layout.ElementStride[4]
+OutputScaleTensor.Layout.BlockStrides[0]
+OutputScaleTensor.Layout.BlockStrides[1]
+OutputScaleTensor.Layout.BlockStrides[2]
+OutputScaleTensor.Layout.BlockStrides[3]
+OutputScaleTensor.Layout.BlockStrides[4]
+OutputScaleTensor.Layout.FirstMemoryTile
+OutputScaleTensor.Layout.MemoryTileCount
+OutputScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+OutputScaleTensor.Layout.BaseAlignmentInBytes
+OutputScaleTensor.Layout.PhysicalSizeInElements
+OutputScaleTensor.ByteOffset
+OutputZeroPointTensor.DataType
+OutputZeroPointTensor.Flags
+OutputZeroPointTensor.DimensionCount
+OutputZeroPointTensor.Size[0]
+OutputZeroPointTensor.Size[1]
+OutputZeroPointTensor.Size[2]
+OutputZeroPointTensor.Size[3]
+OutputZeroPointTensor.Size[4]
+OutputZeroPointTensor.Layout.MemoryType
+OutputZeroPointTensor.Layout.LayoutType
+OutputZeroPointTensor.Layout.DimensionBlockSizes[0]
+OutputZeroPointTensor.Layout.DimensionBlockSizes[1]
+OutputZeroPointTensor.Layout.DimensionBlockSizes[2]
+OutputZeroPointTensor.Layout.DimensionBlockSizes[3]
+OutputZeroPointTensor.Layout.DimensionBlockSizes[4]
+OutputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+OutputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+OutputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+OutputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+OutputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+OutputZeroPointTensor.Layout.ValidPaddingType
+OutputZeroPointTensor.Layout.StartGutterSizes[0]
+OutputZeroPointTensor.Layout.StartGutterSizes[1]
+OutputZeroPointTensor.Layout.StartGutterSizes[2]
+OutputZeroPointTensor.Layout.StartGutterSizes[3]
+OutputZeroPointTensor.Layout.StartGutterSizes[4]
+OutputZeroPointTensor.Layout.EndGutterSizes[0]
+OutputZeroPointTensor.Layout.EndGutterSizes[1]
+OutputZeroPointTensor.Layout.EndGutterSizes[2]
+OutputZeroPointTensor.Layout.EndGutterSizes[3]
+OutputZeroPointTensor.Layout.EndGutterSizes[4]
+OutputZeroPointTensor.Layout.ElementStride[0]
+OutputZeroPointTensor.Layout.ElementStride[1]
+OutputZeroPointTensor.Layout.ElementStride[2]
+OutputZeroPointTensor.Layout.ElementStride[3]
+OutputZeroPointTensor.Layout.ElementStride[4]
+OutputZeroPointTensor.Layout.BlockStrides[0]
+OutputZeroPointTensor.Layout.BlockStrides[1]
+OutputZeroPointTensor.Layout.BlockStrides[2]
+OutputZeroPointTensor.Layout.BlockStrides[3]
+OutputZeroPointTensor.Layout.BlockStrides[4]
+OutputZeroPointTensor.Layout.FirstMemoryTile
+OutputZeroPointTensor.Layout.MemoryTileCount
+OutputZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+OutputZeroPointTensor.Layout.BaseAlignmentInBytes
+OutputZeroPointTensor.Layout.PhysicalSizeInElements
+OutputZeroPointTensor.ByteOffset
+OutputZeroPointTensor.IsNull
+AScaleTensorResource
+AScaleTensorData.Value.UInt64
+AScaleTensorData.IsNull
+BScaleTensorResource
+BScaleTensorData.Value.UInt64
+BScaleTensorData.IsNull
+OutputScaleTensorResource
+OutputScaleTensorData.Value.UInt64
+OutputScaleTensorData.IsNull
+OutputZeroPointTensorResource
+OutputZeroPointTensorData.Value.UInt64
+OutputZeroPointTensorData.IsNull
+InputScaleTensor.DataType
+InputScaleTensor.Flags
+InputScaleTensor.DimensionCount
+InputScaleTensor.Size[0]
+InputScaleTensor.Size[1]
+InputScaleTensor.Size[2]
+InputScaleTensor.Size[3]
+InputScaleTensor.Size[4]
+InputScaleTensor.Layout.MemoryType
+InputScaleTensor.Layout.LayoutType
+InputScaleTensor.Layout.DimensionBlockSizes[0]
+InputScaleTensor.Layout.DimensionBlockSizes[1]
+InputScaleTensor.Layout.DimensionBlockSizes[2]
+InputScaleTensor.Layout.DimensionBlockSizes[3]
+InputScaleTensor.Layout.DimensionBlockSizes[4]
+InputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+InputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+InputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+InputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+InputScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+InputScaleTensor.Layout.ValidPaddingType
+InputScaleTensor.Layout.StartGutterSizes[0]
+InputScaleTensor.Layout.StartGutterSizes[1]
+InputScaleTensor.Layout.StartGutterSizes[2]
+InputScaleTensor.Layout.StartGutterSizes[3]
+InputScaleTensor.Layout.StartGutterSizes[4]
+InputScaleTensor.Layout.EndGutterSizes[0]
+InputScaleTensor.Layout.EndGutterSizes[1]
+InputScaleTensor.Layout.EndGutterSizes[2]
+InputScaleTensor.Layout.EndGutterSizes[3]
+InputScaleTensor.Layout.EndGutterSizes[4]
+InputScaleTensor.Layout.ElementStride[0]
+InputScaleTensor.Layout.ElementStride[1]
+InputScaleTensor.Layout.ElementStride[2]
+InputScaleTensor.Layout.ElementStride[3]
+InputScaleTensor.Layout.ElementStride[4]
+InputScaleTensor.Layout.BlockStrides[0]
+InputScaleTensor.Layout.BlockStrides[1]
+InputScaleTensor.Layout.BlockStrides[2]
+InputScaleTensor.Layout.BlockStrides[3]
+InputScaleTensor.Layout.BlockStrides[4]
+InputScaleTensor.Layout.FirstMemoryTile
+InputScaleTensor.Layout.MemoryTileCount
+InputScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+InputScaleTensor.Layout.BaseAlignmentInBytes
+InputScaleTensor.Layout.PhysicalSizeInElements
+InputScaleTensor.ByteOffset
+InputZeroPointTensor.DataType
+InputZeroPointTensor.Flags
+InputZeroPointTensor.DimensionCount
+InputZeroPointTensor.Size[0]
+InputZeroPointTensor.Size[1]
+InputZeroPointTensor.Size[2]
+InputZeroPointTensor.Size[3]
+InputZeroPointTensor.Size[4]
+InputZeroPointTensor.Layout.MemoryType
+InputZeroPointTensor.Layout.LayoutType
+InputZeroPointTensor.Layout.DimensionBlockSizes[0]
+InputZeroPointTensor.Layout.DimensionBlockSizes[1]
+InputZeroPointTensor.Layout.DimensionBlockSizes[2]
+InputZeroPointTensor.Layout.DimensionBlockSizes[3]
+InputZeroPointTensor.Layout.DimensionBlockSizes[4]
+InputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+InputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+InputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+InputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+InputZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+InputZeroPointTensor.Layout.ValidPaddingType
+InputZeroPointTensor.Layout.StartGutterSizes[0]
+InputZeroPointTensor.Layout.StartGutterSizes[1]
+InputZeroPointTensor.Layout.StartGutterSizes[2]
+InputZeroPointTensor.Layout.StartGutterSizes[3]
+InputZeroPointTensor.Layout.StartGutterSizes[4]
+InputZeroPointTensor.Layout.EndGutterSizes[0]
+InputZeroPointTensor.Layout.EndGutterSizes[1]
+InputZeroPointTensor.Layout.EndGutterSizes[2]
+InputZeroPointTensor.Layout.EndGutterSizes[3]
+InputZeroPointTensor.Layout.EndGutterSizes[4]
+InputZeroPointTensor.Layout.ElementStride[0]
+InputZeroPointTensor.Layout.ElementStride[1]
+InputZeroPointTensor.Layout.ElementStride[2]
+InputZeroPointTensor.Layout.ElementStride[3]
+InputZeroPointTensor.Layout.ElementStride[4]
+InputZeroPointTensor.Layout.BlockStrides[0]
+InputZeroPointTensor.Layout.BlockStrides[1]
+InputZeroPointTensor.Layout.BlockStrides[2]
+InputZeroPointTensor.Layout.BlockStrides[3]
+InputZeroPointTensor.Layout.BlockStrides[4]
+InputZeroPointTensor.Layout.FirstMemoryTile
+InputZeroPointTensor.Layout.MemoryTileCount
+InputZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+InputZeroPointTensor.Layout.BaseAlignmentInBytes
+InputZeroPointTensor.Layout.PhysicalSizeInElements
+InputZeroPointTensor.ByteOffset
+InputZeroPointTensor.IsNull
+FilterScaleTensor.DataType
+FilterScaleTensor.Flags
+FilterScaleTensor.DimensionCount
+FilterScaleTensor.Size[0]
+FilterScaleTensor.Size[1]
+FilterScaleTensor.Size[2]
+FilterScaleTensor.Size[3]
+FilterScaleTensor.Size[4]
+FilterScaleTensor.Layout.MemoryType
+FilterScaleTensor.Layout.LayoutType
+FilterScaleTensor.Layout.DimensionBlockSizes[0]
+FilterScaleTensor.Layout.DimensionBlockSizes[1]
+FilterScaleTensor.Layout.DimensionBlockSizes[2]
+FilterScaleTensor.Layout.DimensionBlockSizes[3]
+FilterScaleTensor.Layout.DimensionBlockSizes[4]
+FilterScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+FilterScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+FilterScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+FilterScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+FilterScaleTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+FilterScaleTensor.Layout.ValidPaddingType
+FilterScaleTensor.Layout.StartGutterSizes[0]
+FilterScaleTensor.Layout.StartGutterSizes[1]
+FilterScaleTensor.Layout.StartGutterSizes[2]
+FilterScaleTensor.Layout.StartGutterSizes[3]
+FilterScaleTensor.Layout.StartGutterSizes[4]
+FilterScaleTensor.Layout.EndGutterSizes[0]
+FilterScaleTensor.Layout.EndGutterSizes[1]
+FilterScaleTensor.Layout.EndGutterSizes[2]
+FilterScaleTensor.Layout.EndGutterSizes[3]
+FilterScaleTensor.Layout.EndGutterSizes[4]
+FilterScaleTensor.Layout.ElementStride[0]
+FilterScaleTensor.Layout.ElementStride[1]
+FilterScaleTensor.Layout.ElementStride[2]
+FilterScaleTensor.Layout.ElementStride[3]
+FilterScaleTensor.Layout.ElementStride[4]
+FilterScaleTensor.Layout.BlockStrides[0]
+FilterScaleTensor.Layout.BlockStrides[1]
+FilterScaleTensor.Layout.BlockStrides[2]
+FilterScaleTensor.Layout.BlockStrides[3]
+FilterScaleTensor.Layout.BlockStrides[4]
+FilterScaleTensor.Layout.FirstMemoryTile
+FilterScaleTensor.Layout.MemoryTileCount
+FilterScaleTensor.Layout.AlignmentOfModifiablePaddingInBytes
+FilterScaleTensor.Layout.BaseAlignmentInBytes
+FilterScaleTensor.Layout.PhysicalSizeInElements
+FilterScaleTensor.ByteOffset
+FilterZeroPointTensor.DataType
+FilterZeroPointTensor.Flags
+FilterZeroPointTensor.DimensionCount
+FilterZeroPointTensor.Size[0]
+FilterZeroPointTensor.Size[1]
+FilterZeroPointTensor.Size[2]
+FilterZeroPointTensor.Size[3]
+FilterZeroPointTensor.Size[4]
+FilterZeroPointTensor.Layout.MemoryType
+FilterZeroPointTensor.Layout.LayoutType
+FilterZeroPointTensor.Layout.DimensionBlockSizes[0]
+FilterZeroPointTensor.Layout.DimensionBlockSizes[1]
+FilterZeroPointTensor.Layout.DimensionBlockSizes[2]
+FilterZeroPointTensor.Layout.DimensionBlockSizes[3]
+FilterZeroPointTensor.Layout.DimensionBlockSizes[4]
+FilterZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+FilterZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+FilterZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+FilterZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+FilterZeroPointTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+FilterZeroPointTensor.Layout.ValidPaddingType
+FilterZeroPointTensor.Layout.StartGutterSizes[0]
+FilterZeroPointTensor.Layout.StartGutterSizes[1]
+FilterZeroPointTensor.Layout.StartGutterSizes[2]
+FilterZeroPointTensor.Layout.StartGutterSizes[3]
+FilterZeroPointTensor.Layout.StartGutterSizes[4]
+FilterZeroPointTensor.Layout.EndGutterSizes[0]
+FilterZeroPointTensor.Layout.EndGutterSizes[1]
+FilterZeroPointTensor.Layout.EndGutterSizes[2]
+FilterZeroPointTensor.Layout.EndGutterSizes[3]
+FilterZeroPointTensor.Layout.EndGutterSizes[4]
+FilterZeroPointTensor.Layout.ElementStride[0]
+FilterZeroPointTensor.Layout.ElementStride[1]
+FilterZeroPointTensor.Layout.ElementStride[2]
+FilterZeroPointTensor.Layout.ElementStride[3]
+FilterZeroPointTensor.Layout.ElementStride[4]
+FilterZeroPointTensor.Layout.BlockStrides[0]
+FilterZeroPointTensor.Layout.BlockStrides[1]
+FilterZeroPointTensor.Layout.BlockStrides[2]
+FilterZeroPointTensor.Layout.BlockStrides[3]
+FilterZeroPointTensor.Layout.BlockStrides[4]
+FilterZeroPointTensor.Layout.FirstMemoryTile
+FilterZeroPointTensor.Layout.MemoryTileCount
+FilterZeroPointTensor.Layout.AlignmentOfModifiablePaddingInBytes
+FilterZeroPointTensor.Layout.BaseAlignmentInBytes
+FilterZeroPointTensor.Layout.PhysicalSizeInElements
+FilterZeroPointTensor.ByteOffset
+FilterZeroPointTensor.IsNull
+InputScaleTensorResource
+InputScaleTensorData.Value.UInt64
+InputScaleTensorData.IsNull
+InputZeroPointTensorResource
+InputZeroPointTensorData.Value.UInt64
+InputZeroPointTensorData.IsNull
+FilterScaleTensorResource
+FilterScaleTensorData.Value.UInt64
+FilterScaleTensorData.IsNull
+FilterZeroPointTensorResource
+FilterZeroPointTensorData.Value.UInt64
+FilterZeroPointTensorData.IsNull
+Attributes.InterpolationMode
+Attributes.RoundingDirection
+Attributes.Scales[0]
+Attributes.Scales[1]
+Attributes.Scales[2]
+Attributes.Scales[3]
+Attributes.Scales[4]
+Attributes.InputPixelOffsets[0]
+Attributes.InputPixelOffsets[1]
+Attributes.InputPixelOffsets[2]
+Attributes.InputPixelOffsets[3]
+Attributes.InputPixelOffsets[4]
+Attributes.OutputPixelOffsets[0]
+Attributes.OutputPixelOffsets[1]
+Attributes.OutputPixelOffsets[2]
+Attributes.OutputPixelOffsets[3]
+Attributes.OutputPixelOffsets[4]
+Attributes.PaddingType
+MeanTensor.DataType
+MeanTensor.Flags
+MeanTensor.DimensionCount
+MeanTensor.Size[0]
+MeanTensor.Size[1]
+MeanTensor.Size[2]
+MeanTensor.Size[3]
+MeanTensor.Size[4]
+MeanTensor.Layout.MemoryType
+MeanTensor.Layout.LayoutType
+MeanTensor.Layout.DimensionBlockSizes[0]
+MeanTensor.Layout.DimensionBlockSizes[1]
+MeanTensor.Layout.DimensionBlockSizes[2]
+MeanTensor.Layout.DimensionBlockSizes[3]
+MeanTensor.Layout.DimensionBlockSizes[4]
+MeanTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+MeanTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+MeanTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+MeanTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+MeanTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+MeanTensor.Layout.ValidPaddingType
+MeanTensor.Layout.StartGutterSizes[0]
+MeanTensor.Layout.StartGutterSizes[1]
+MeanTensor.Layout.StartGutterSizes[2]
+MeanTensor.Layout.StartGutterSizes[3]
+MeanTensor.Layout.StartGutterSizes[4]
+MeanTensor.Layout.EndGutterSizes[0]
+MeanTensor.Layout.EndGutterSizes[1]
+MeanTensor.Layout.EndGutterSizes[2]
+MeanTensor.Layout.EndGutterSizes[3]
+MeanTensor.Layout.EndGutterSizes[4]
+MeanTensor.Layout.ElementStride[0]
+MeanTensor.Layout.ElementStride[1]
+MeanTensor.Layout.ElementStride[2]
+MeanTensor.Layout.ElementStride[3]
+MeanTensor.Layout.ElementStride[4]
+MeanTensor.Layout.BlockStrides[0]
+MeanTensor.Layout.BlockStrides[1]
+MeanTensor.Layout.BlockStrides[2]
+MeanTensor.Layout.BlockStrides[3]
+MeanTensor.Layout.BlockStrides[4]
+MeanTensor.Layout.FirstMemoryTile
+MeanTensor.Layout.MemoryTileCount
+MeanTensor.Layout.AlignmentOfModifiablePaddingInBytes
+MeanTensor.Layout.BaseAlignmentInBytes
+MeanTensor.Layout.PhysicalSizeInElements
+MeanTensor.ByteOffset
+VarianceTensor.DataType
+VarianceTensor.Flags
+VarianceTensor.DimensionCount
+VarianceTensor.Size[0]
+VarianceTensor.Size[1]
+VarianceTensor.Size[2]
+VarianceTensor.Size[3]
+VarianceTensor.Size[4]
+VarianceTensor.Layout.MemoryType
+VarianceTensor.Layout.LayoutType
+VarianceTensor.Layout.DimensionBlockSizes[0]
+VarianceTensor.Layout.DimensionBlockSizes[1]
+VarianceTensor.Layout.DimensionBlockSizes[2]
+VarianceTensor.Layout.DimensionBlockSizes[3]
+VarianceTensor.Layout.DimensionBlockSizes[4]
+VarianceTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+VarianceTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+VarianceTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+VarianceTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+VarianceTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+VarianceTensor.Layout.ValidPaddingType
+VarianceTensor.Layout.StartGutterSizes[0]
+VarianceTensor.Layout.StartGutterSizes[1]
+VarianceTensor.Layout.StartGutterSizes[2]
+VarianceTensor.Layout.StartGutterSizes[3]
+VarianceTensor.Layout.StartGutterSizes[4]
+VarianceTensor.Layout.EndGutterSizes[0]
+VarianceTensor.Layout.EndGutterSizes[1]
+VarianceTensor.Layout.EndGutterSizes[2]
+VarianceTensor.Layout.EndGutterSizes[3]
+VarianceTensor.Layout.EndGutterSizes[4]
+VarianceTensor.Layout.ElementStride[0]
+VarianceTensor.Layout.ElementStride[1]
+VarianceTensor.Layout.ElementStride[2]
+VarianceTensor.Layout.ElementStride[3]
+VarianceTensor.Layout.ElementStride[4]
+VarianceTensor.Layout.BlockStrides[0]
+VarianceTensor.Layout.BlockStrides[1]
+VarianceTensor.Layout.BlockStrides[2]
+VarianceTensor.Layout.BlockStrides[3]
+VarianceTensor.Layout.BlockStrides[4]
+VarianceTensor.Layout.FirstMemoryTile
+VarianceTensor.Layout.MemoryTileCount
+VarianceTensor.Layout.AlignmentOfModifiablePaddingInBytes
+VarianceTensor.Layout.BaseAlignmentInBytes
+VarianceTensor.Layout.PhysicalSizeInElements
+VarianceTensor.ByteOffset
+Attributes.Spatial
+MeanTensorResource
+VarianceTensorResource
+OutputScaleTensor.IsNull
+Attributes.FusedRelu
+OutputTensorSize.DataType
+OutputTensorSize.Flags
+OutputTensorSize.DimensionCount
+OutputTensorSize.Size[0]
+OutputTensorSize.Size[1]
+OutputTensorSize.Size[2]
+OutputTensorSize.Size[3]
+OutputTensorSize.Size[4]
+OutputTensorSize.Layout.MemoryType
+OutputTensorSize.Layout.LayoutType
+OutputTensorSize.Layout.DimensionBlockSizes[0]
+OutputTensorSize.Layout.DimensionBlockSizes[1]
+OutputTensorSize.Layout.DimensionBlockSizes[2]
+OutputTensorSize.Layout.DimensionBlockSizes[3]
+OutputTensorSize.Layout.DimensionBlockSizes[4]
+OutputTensorSize.Layout.DimensionBlockSizesIncludingValidPadding[0]
+OutputTensorSize.Layout.DimensionBlockSizesIncludingValidPadding[1]
+OutputTensorSize.Layout.DimensionBlockSizesIncludingValidPadding[2]
+OutputTensorSize.Layout.DimensionBlockSizesIncludingValidPadding[3]
+OutputTensorSize.Layout.DimensionBlockSizesIncludingValidPadding[4]
+OutputTensorSize.Layout.ValidPaddingType
+OutputTensorSize.Layout.StartGutterSizes[0]
+OutputTensorSize.Layout.StartGutterSizes[1]
+OutputTensorSize.Layout.StartGutterSizes[2]
+OutputTensorSize.Layout.StartGutterSizes[3]
+OutputTensorSize.Layout.StartGutterSizes[4]
+OutputTensorSize.Layout.EndGutterSizes[0]
+OutputTensorSize.Layout.EndGutterSizes[1]
+OutputTensorSize.Layout.EndGutterSizes[2]
+OutputTensorSize.Layout.EndGutterSizes[3]
+OutputTensorSize.Layout.EndGutterSizes[4]
+OutputTensorSize.Layout.ElementStride[0]
+OutputTensorSize.Layout.ElementStride[1]
+OutputTensorSize.Layout.ElementStride[2]
+OutputTensorSize.Layout.ElementStride[3]
+OutputTensorSize.Layout.ElementStride[4]
+OutputTensorSize.Layout.BlockStrides[0]
+OutputTensorSize.Layout.BlockStrides[1]
+OutputTensorSize.Layout.BlockStrides[2]
+OutputTensorSize.Layout.BlockStrides[3]
+OutputTensorSize.Layout.BlockStrides[4]
+OutputTensorSize.Layout.FirstMemoryTile
+OutputTensorSize.Layout.MemoryTileCount
+OutputTensorSize.Layout.AlignmentOfModifiablePaddingInBytes
+OutputTensorSize.Layout.BaseAlignmentInBytes
+OutputTensorSize.Layout.PhysicalSizeInElements
+OutputTensorSize.ByteOffset
+OutputTensorSizeResource
+ActivationParameterTensor.DataType
+ActivationParameterTensor.Flags
+ActivationParameterTensor.DimensionCount
+ActivationParameterTensor.Size[0]
+ActivationParameterTensor.Size[1]
+ActivationParameterTensor.Size[2]
+ActivationParameterTensor.Size[3]
+ActivationParameterTensor.Size[4]
+ActivationParameterTensor.Layout.MemoryType
+ActivationParameterTensor.Layout.LayoutType
+ActivationParameterTensor.Layout.DimensionBlockSizes[0]
+ActivationParameterTensor.Layout.DimensionBlockSizes[1]
+ActivationParameterTensor.Layout.DimensionBlockSizes[2]
+ActivationParameterTensor.Layout.DimensionBlockSizes[3]
+ActivationParameterTensor.Layout.DimensionBlockSizes[4]
+ActivationParameterTensor.Layout.DimensionBlockSizesIncludingValidPadding[0]
+ActivationParameterTensor.Layout.DimensionBlockSizesIncludingValidPadding[1]
+ActivationParameterTensor.Layout.DimensionBlockSizesIncludingValidPadding[2]
+ActivationParameterTensor.Layout.DimensionBlockSizesIncludingValidPadding[3]
+ActivationParameterTensor.Layout.DimensionBlockSizesIncludingValidPadding[4]
+ActivationParameterTensor.Layout.ValidPaddingType
+ActivationParameterTensor.Layout.StartGutterSizes[0]
+ActivationParameterTensor.Layout.StartGutterSizes[1]
+ActivationParameterTensor.Layout.StartGutterSizes[2]
+ActivationParameterTensor.Layout.StartGutterSizes[3]
+ActivationParameterTensor.Layout.StartGutterSizes[4]
+ActivationParameterTensor.Layout.EndGutterSizes[0]
+ActivationParameterTensor.Layout.EndGutterSizes[1]
+ActivationParameterTensor.Layout.EndGutterSizes[2]
+ActivationParameterTensor.Layout.EndGutterSizes[3]
+ActivationParameterTensor.Layout.EndGutterSizes[4]
+ActivationParameterTensor.Layout.ElementStride[0]
+ActivationParameterTensor.Layout.ElementStride[1]
+ActivationParameterTensor.Layout.ElementStride[2]
+ActivationParameterTensor.Layout.ElementStride[3]
+ActivationParameterTensor.Layout.ElementStride[4]
+ActivationParameterTensor.Layout.BlockStrides[0]
+ActivationParameterTensor.Layout.BlockStrides[1]
+ActivationParameterTensor.Layout.BlockStrides[2]
+ActivationParameterTensor.Layout.BlockStrides[3]
+ActivationParameterTensor.Layout.BlockStrides[4]
+ActivationParameterTensor.Layout.FirstMemoryTile
+ActivationParameterTensor.Layout.MemoryTileCount
+ActivationParameterTensor.Layout.AlignmentOfModifiablePaddingInBytes
+ActivationParameterTensor.Layout.BaseAlignmentInBytes
+ActivationParameterTensor.Layout.PhysicalSizeInElements
+ActivationParameterTensor.ByteOffset
+ActivationParameterTensor.IsNull
+ActivationParameterTensorResource
+npu_dml_compiler.dll
+hnpu_dxil_frontend.dll
+Critical Error
+FaultDescription
+FailureCode
+ModuleName
+ModuleVersion
+ModuleVersionByteString
+ProcessName
+ProcessVersion
+ProcessVersionByteString
+VPU_DYNAMIC_CACHING
+WEVT_TEMPLATE
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+040904b0
+FileDescription
+D3D12 Driver
+ProductVersion
+31.0.100.1688
+FileVersion
+31.0.100.1688
+InternalName
+npu_d3d12_umd.dll
+ProductName
+Intel(R) NPU Driver
+LegalCopyright
+Copyright 2023 Intel(R) Corporation.  All rights reserved.
+CompanyName
+Intel(R) Corporation
+Information
+Adapter
+Device
+CommandList
+CommandQueue
+DeviceCallback
+CreateDevice - Start
+CreateDevice - End
+DestroyDevice - Start
+DestroyDevice - End
+GetCaps - Start
+GetCaps - End
+CreateCommandList - Start
+CreateCommandList - End
+DestroyCommandList - Start
+DestroyCommandList - End
+CreateCommandPool - Start
+CreateCommandPool - End
+DestroyCommandPool - Start
+DestroyCommandPool - End
+ResetCommandPool - Start
+ResetCommandPool - End
+CreateCommandQueue - Start
+CreateCommandQueue - End
+DestroyCommandQueue - Start
+DestroyCommandQueue - End
+CreateCommandRecorder - Start
+CreateCommandRecorder - End
+DestroyCommandRecorder - Start
+DestroyCommandRecorder - End
+CreateDescriptorHeap - Start
+CreateDescriptorHeap - End
+DestroyDescriptorHeap - Start
+DestroyDescriptorHeap - End
+CreateFence - Start
+CreateFence - End
+DestroyFence - Start
+DestroyFence - End
+CreateMetaCommand - Start
+CreateMetaCommand - End
+DestroyMetaCommand - Start
+DestroyMetaCommand - End
+CreatePipelineState - Start
+CreatePipelineState - End
+DestroyPipelineState - Start
+DestroyPipelineState - End
+CreateQueryHeap - Start
+CreateQueryHeap - End
+DestroyQueryHeap - Start
+DestroyQueryHeap - End
+MakeResidentCb - Start
+MakeResidentCb - End
+Evict - Start
+Evict - End
+CreateHeapAndResource - Start
+CreateHeapAndResource - End
+DestroyHeapAndResource - Start
+DestroyHeapAndResource - End
+MapHeap - Start
+MapHeap - End
+UnmapHeap - Start
+UnmapHeap - End
+CreateRootSignature - Start
+CreateRootSignature - End
+DestroyRootSignature - Start
+DestroyRootSignature - End
+CreateComputeShader - Start
+CreateComputeShader - End
+DestroyShader - Start
+DestroyShader - End
+CreateUnorderedAccessView - Start
+CreateUnorderedAccessView - End
+CloseCommandList - Start
+CloseCommandList - End
+ResetCommandList - Start
+ResetCommandList - End
+SetMarker - Start
+SetMarker - End
+Dispatch - Start
+Dispatch - End
+ResourceCopy - Start
+ResourceCopy - End
+CopyBufferRegion - Start
+CopyBufferRegion - End
+SetPipelineState - Start
+SetPipelineState - End
+ResourceBarrier - Start
+ResourceBarrier - End
+SetDescriptorHeaps - Start
+SetDescriptorHeaps - End
+SetComputeRootShaderResourceView - Start
+SetComputeRootShaderResourceView - End
+SetComputeRootConstantBufferView - Start
+SetComputeRootConstantBufferView - End
+SetComputeRootUnorderedAccessView - Start
+SetComputeRootUnorderedAccessView - End
+SetComputeRootSignature - Start
+SetComputeRootSignature - End
+SetComputeRootDescriptorTable - Start
+SetComputeRootDescriptorTable - End
+ClearRootArguments - Start
+ClearRootArguments - End
+InitializeMetaCommand - Start
+InitializeMetaCommand - End
+ExecuteMetaCommand - Start
+ExecuteMetaCommand - End
+ExecuteCommandLists - Start
+ExecuteCommandLists - End
+AllocateCb - Start
+AllocateCb - End
+DeallocateCb - Start
+DeallocateCb2 - Start
+DeallocateCb - End
+SetCommandListDDITableCb - Start
+SetCommandListDDITableCb - End
+SetCommandListErrorCb - Start
+SetCommandListErrorCb - End
+SetErrorCb - Start
+SetErrorCb - End
+MakeResidentCb - Start
+MakeResidentCb - End
+EvictCb - Start
+EvictCb - End
+OfferAllocationsCb - Start
+OfferAllocationsCb - End
+ReclaimAllocations2Cb - Start
+ReclaimAllocations2Cb - End
+MapGpuVirtualAddressCb - Start
+MapGpuVirtualAddressCb - End
+WaitForSynchronizationObjectFromCpuCb - Start
+WaitForSynchronizationObjectFromCpuCb - End
+Lock2Cb - Start
+Lock2Cb - End
+Unlock2Cb - Start
+Unlock2Cb - End
+CreatePagingQueueCb - Start
+CreatePagingQueueCb - End
+DestroyPagingQueueCb - Start
+DestroyPagingQueueCb - End
+CreateContextVirtualCb - Start
+CreateContextVirtualCb - End
+DestroyContextCb - Start
+DestroyContextCb - End
+CreateSynchronizationObject2Cb - Start
+CreateSynchronizationObject2Cb - End
+DestroySynchronizationObjectCb - Start
+DestroySynchronizationObjectCb - End
+SignalSynchronizationObjectFromGpu2Cb - Start
+SignalSynchronizationObjectFromGpu2Cb - End
+SubmitSignalSyncObjectsToHwQueueCb - Start
+SubmitSignalSyncObjectsToHwQueueCb - End
+WaitForSynchronizationObjectFromGpuCb - Start
+WaitForSynchronizationObjectFromGpuCb - End
+SubmitWaitForSyncObjectsToHwQueueCb - Start
+SubmitWaitForSyncObjectsToHwQueueCb - End
+SubmitCommandCb - Start
+SubmitCommandCb - End
+SubmitCommandToHwQueueCb - Start
+SubmitCommandToHwQueueCb - End
+CreateHwQueueCb - Start
+CreateHwQueueCb - End
+DestroyHwQueueCb - Start
+DestroyHwQueueCb - End
+EscapeCb - Start
+EscapeCb - End
+Intel-NPU-D3D12/Operational
+	EventData
+	EventData
+	EventData
+hAdapter
+hDevice
+hAdapter
+hDevice
+	EventData
+hDevice
+hDevice
+	EventData
+hAdapter
+hAdapter
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hCommandList
+hDevice
+hCommandList
+	EventData
+hDevice
+hCommandPool
+hDevice
+hCommandPool
+	EventData
+hDevice
+hCommandQueue
+hDevice
+hCommandQueue
+	EventData
+hDevice
+hCommandRecorder
+hDevice
+hCommandRecorder
+	EventData
+hDevice
+hDescriptorHeap
+hDevice
+hDescriptorHeap
+	EventData
+hDevice
+hFence
+hDevice
+hFence
+	EventData
+hDevice
+	CommandId
+hMetaCommand
+hDevice
+CommandId
+hMetaCommand
+	EventData
+hDevice
+hMetaCommand
+hDevice
+hMetaCommand
+	EventData
+hDevice
+hPipelineState
+hDevice
+hPipelineState
+	EventData
+hDevice
+hQueryHeap
+hDevice
+hQueryHeap
+	EventData
+hDevice
+	hResource
+hDevice
+hResource
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hRootSignature
+hDevice
+hRootSignature
+	EventData
+hDevice
+hShader
+hDevice
+hShader
+	EventData
+hDevice
+hDevice
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+threadGroupCountX
+threadGroupCountY
+threadGroupCountZ
+hCommandList
+threadGroupCountX
+threadGroupCountY
+threadGroupCountZ
+	EventData
+hCommandList
+hDstResource
+hSrcResource
+hCommandList
+hDstResource
+hSrcResource
+	EventData
+hCommandList
+hDstResource
+hSrcResource
+srcBytes
+hCommandList
+hDstResource
+hSrcResource
+srcBytes
+	EventData
+hCommandList
+hPipelineState
+hCommandList
+hPipelineState
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+numDescriptorHeaps
+hDescriptorHeap
+hCommandList
+numDescriptorHeaps
+hDescriptorHeap
+	EventData
+hCommandList
+rootParameterIndex
+bufferLocation
+hCommandList
+rootParameterIndex
+bufferLocation
+	EventData
+hCommandList
+hRootSignature
+hCommandList
+hRootSignature
+	EventData
+hCommandList
+hMetaCommand
+hCommandList
+hMetaCommand
+	EventData
+hCommandQueue
+hFence
+hCommandQueue
+hFence
+	EventData
+hCommandQueue
+hCommandList
+hCommandQueue
+hCommandList
+	EventData
+NTSTATUS
+NTSTATUS
+	EventData
+NTSTATUS
+Handle
+	Cacheable
+NTSTATUS
+Handle
+Cacheable
+	EventData
+NTSTATUS
+Handle
+NTSTATUS
+Handle
+	EventData
+	EventData
+hDevice
+NumAllocations
+hDevice
+NumAllocations
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hDevice
+hTable
+hDevice
+hTable
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hPagingQueue
+NumAllocations
+hAllocation
+hDevice
+hPagingQueue
+NumAllocations
+hAllocation
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hDevice
+NumAllocations
+hAllocation
+Priority
+hDevice
+NumAllocations
+hAllocation
+Priority
+	EventData
+hDevice
+hPagingQueue
+NumAllocations
+hAllocation
+hDevice
+hPagingQueue
+NumAllocations
+hAllocation
+	EventData
+hDevice
+hPagingQueue
+hAllocation
+SizeInPages
+DriverProtection
+hDevice
+hPagingQueue
+hAllocation
+SizeInPages
+DriverProtection
+	EventData
+hDevice
+ObjectCount
+hAllocation
+FenceValue
+hDevice
+ObjectCount
+hAllocation
+FenceValue
+	EventData
+hDevice
+hAllocation
+hDevice
+hAllocation
+	EventData
+hDevice
+hAllocation
+hDevice
+hAllocation
+	EventData
+hDevice
+Priority
+hDevice
+Priority
+	EventData
+hPagingQueueDevice
+hPagingQueue
+hPagingQueueDevice
+hPagingQueue
+	EventData
+hPagingQueueDevice
+NodeOrdinal
+HwQueueSupported
+DisableGpuTimeout
+hPagingQueueDevice
+NodeOrdinal
+HwQueueSupported
+DisableGpuTimeout
+	EventData
+hContext
+hContext
+	EventData
+hDevice
+NoGpuAccess
+FenceValue
+hDevice
+NoGpuAccess
+FenceValue
+	EventData
+hDevice
+hSyncObject
+hDevice
+hSyncObject
+	EventData
+hDevice
+hContext
+hFence
+FenceValue
+hDevice
+hContext
+hFence
+FenceValue
+	EventData
+hDevice
+hHwQueue
+hFence
+FenceValue
+hDevice
+hHwQueue
+hFence
+FenceValue
+	EventData
+hDevice
+hContext
+hFence
+FenceValue
+hDevice
+hContext
+hFence
+FenceValue
+	EventData
+hDevice
+hHwQueue
+hFence
+FenceValue
+hDevice
+hHwQueue
+hFence
+FenceValue
+	EventData
+hDevice
+hBroadcastContext
+CommandLength
+hDevice
+hBroadcastContext
+CommandLength
+	EventData
+hDevice
+Commands
+hDevice
+Commands
+	EventData
+QueueRuntimeHandle
+hHwContext
+QueueRuntimeHandle
+hHwContext
+	EventData
+hDevice
+hHwQueue
+hDevice
+hHwQueue
+	EventData
+hAdapter
+hAdapter
+Intel-NPU-D3D12
+win:Start
+win:Stop
+win:Informational
+Adapter
+Device
+CommandList
+CommandQueue
+DeviceCallback
+Adapter
+Device
+CommandList
+CommandQueue
+DeviceCallback
+"Intel Corporatio

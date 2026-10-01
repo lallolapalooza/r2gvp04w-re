@@ -1,0 +1,20 @@
+Name: npu_blob_parser.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/npu_blob_parser.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 1800fddff (size=1035776, init=true, exec=true, r=true, w=false)
+  .rdata: 1800fe000 - 18012adff (size=183808, init=true, exec=false, r=true, w=false)
+  .data: 18012b000 - 18013001b (size=20508, init=true, exec=false, r=true, w=true)
+  .pdata: 180131000 - 18013c3ff (size=46080, init=true, exec=false, r=true, w=false)
+  _RDATA: 18013d000 - 18013d1ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 18013e000 - 18013e5ff (size=1536, init=true, exec=false, r=true, w=false)
+  .reloc: 18013f000 - 18013ffff (size=4096, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)

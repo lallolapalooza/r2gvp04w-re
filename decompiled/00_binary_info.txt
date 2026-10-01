@@ -1,0 +1,23 @@
+=== Binary Info ===
+Name: r2gvp04w_v2.exe
+Executable: /home/asdf/Downloads/r2gvp04w_v2.exe
+Format: Portable Executable (PE)
+Language: x86:LE:32:default
+Compiler: borlanddelphi
+Image Base: 00400000
+Min Address: 00400000
+Max Address: 004387ff
+Default Pointer Size: 4
+
+=== Memory Blocks ===
+Headers: 00400000 - 004003ff (size=1024, initialized=true, exec=false, read=true, write=false)
+.text: 00401000 - 00424bff (size=146432, initialized=true, exec=true, read=true, write=false)
+.itext: 00425000 - 004263ff (size=5120, initialized=true, exec=true, read=true, write=false)
+.data: 00427000 - 004287ff (size=6144, initialized=true, exec=false, read=true, write=true)
+.bss: 00429000 - 0042f157 (size=24920, initialized=false, exec=false, read=true, write=true)
+.idata: 00430000 - 004307ff (size=2048, initialized=true, exec=false, read=true, write=true)
+.didata: 00431000 - 00431fff (size=4096, initialized=true, exec=false, read=true, write=true)
+.edata: 00432000 - 004321ff (size=512, initialized=true, exec=false, read=true, write=false)
+.tls: 00433000 - 00433013 (size=20, initialized=false, exec=false, read=true, write=true)
+.rdata: 00434000 - 004341ff (size=512, initialized=true, exec=false, read=true, write=false)
+.rsrc: 00435000 - 004387ff (size=14336, initialized=true, exec=false, read=true, write=false)

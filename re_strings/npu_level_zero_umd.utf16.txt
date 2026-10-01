@@ -1,0 +1,855 @@
+0kernel32.dll
+!x-sys-default-locale
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+         (((((                  H
+         (((((                  H
+      (                          
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-4
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-file-l2-1-4
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+kernelbase
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+america
+britain
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+CONOUT$
+d%F_%H-%M-%S
+gdi32.dll
+ZE_RESULT_SUCCESS
+ZE_RESULT_NOT_READY
+ZE_RESULT_ERROR_DEVICE_LOST
+ZE_RESULT_ERROR_OUT_OF_HOST_MEMORY
+ZE_RESULT_ERROR_OUT_OF_DEVICE_MEMORY
+ZE_RESULT_ERROR_MODULE_BUILD_FAILURE
+ZE_RESULT_ERROR_MODULE_LINK_FAILURE
+ZE_RESULT_ERROR_DEVICE_REQUIRES_RESET
+ZE_RESULT_ERROR_DEVICE_IN_LOW_POWER_STATE
+ZE_RESULT_EXP_ERROR_DEVICE_IS_NOT_VERTEX
+ZE_RESULT_EXP_ERROR_VERTEX_IS_NOT_DEVICE
+ZE_RESULT_EXP_ERROR_REMOTE_DEVICE
+ZE_RESULT_EXP_ERROR_OPERANDS_INCOMPATIBLE
+ZE_RESULT_EXP_RTAS_BUILD_RETRY
+ZE_RESULT_EXP_RTAS_BUILD_DEFERRED
+ZE_RESULT_ERROR_INSUFFICIENT_PERMISSIONS
+ZE_RESULT_ERROR_NOT_AVAILABLE
+ZE_RESULT_ERROR_DEPENDENCY_UNAVAILABLE
+ZE_RESULT_WARNING_DROPPED_DATA
+ZE_RESULT_ERROR_UNINITIALIZED
+ZE_RESULT_ERROR_UNSUPPORTED_VERSION
+ZE_RESULT_ERROR_UNSUPPORTED_FEATURE
+ZE_RESULT_ERROR_INVALID_ARGUMENT
+ZE_RESULT_ERROR_INVALID_NULL_HANDLE
+ZE_RESULT_ERROR_HANDLE_OBJECT_IN_USE
+ZE_RESULT_ERROR_INVALID_NULL_POINTER
+ZE_RESULT_ERROR_INVALID_SIZE
+ZE_RESULT_ERROR_UNSUPPORTED_SIZ
+ZE_RESULT_ERROR_UNSUPPORTED_ALIGNMENT
+ZE_RESULT_ERROR_INVALID_SYNCHRONIZATION_OBJECT
+ZE_RESULT_ERROR_INVALID_ENUMERATION
+ZE_RESULT_ERROR_UNSUPPORTED_ENUMERATION
+ZE_RESULT_ERROR_UNSUPPORTED_IMAGE_FORMAT
+ZE_RESULT_ERROR_INVALID_NATIVE_BINARY
+ZE_RESULT_ERROR_INVALID_GLOBAL_NAME
+ZE_RESULT_ERROR_INVALID_KERNEL_NAME
+ZE_RESULT_ERROR_INVALID_FUNCTION_NAME
+ZE_RESULT_ERROR_INVALID_GROUP_SIZE_DIMENSION
+ZE_RESULT_ERROR_INVALID_GLOBAL_WIDTH_DIMENSION
+ZE_RESULT_ERROR_INVALID_KERNEL_ARGUMENT_INDEX
+ZE_RESULT_ERROR_INVALID_KERNEL_ARGUMENT_SIZE
+ZE_RESULT_ERROR_INVALID_KERNEL_ATTRIBUTE_VALUE
+ZE_RESULT_ERROR_INVALID_MODULE_UNLINKED
+ZE_RESULT_ERROR_INVALID_COMMAND_LIST_TYPE
+ZE_RESULT_ERROR_OVERLAPPING_REGIONS
+ZE_RESULT_WARNING_ACTION_REQUIRED
+ZE_RESULT_ERROR_UNKNOWN
+PerceptionCore.dll
+WindowsStudioEffects
+Critical Error
+FaultDescription
+FailureCode
+ModuleName
+ModuleVersion
+ModuleVersionByteString
+ProcessName
+ProcessVersion
+ProcessVersionByteString
+ZES_ENABLE_SYSMAN
+Global\VpuJobCompletionEvent
+ze_loader.dll
+VPU_DYNAMIC_CACHING
+evpux_driver_compiler.dll
+ !"#$%&'()*+,-
+WEVT_TEMPLATE
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+040904b0
+FileDescription
+Level Zero Driver
+ProductVersion
+31.0.100.1688
+FileVersion
+31.0.100.1688
+InternalName
+npu_level_zero_umd.dll
+ProductName
+Intel(R) NPU Driver
+LegalCopyright
+Copyright 2023 Intel(R) Corporation.  All rights reserved.
+CompanyName
+Intel(R) Corporation
+Information
+CommandList
+CommandQueue
+Context
+Device
+Device
+EventPool
+Global
+Memory
+D3DKMT
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+Close - Start
+Close - End
+Reset - Start
+Reset - End
+AppendMemoryCopy - Start
+AppendMemoryCopy - End
+AppendSignalEvent - Start
+AppendSignalEvent - End
+AppendWaitOnEvents - Start
+AppendWaitOnEvents - End
+AppendEventReset - Start
+AppendEventReset - End
+AppendBarrier - Start
+AppendBarrier - End
+AppendWriteGlobalTimestamp - Start
+AppendWriteGlobalTimestamp - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+ExecuteCommandLists - Start
+ExecuteCommandLists - End
+Synchronize - Start
+Synchronize - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+MakeMemoryResident - Start
+MakeMemoryResident - End
+EvictMemory - Start
+EvictMemory - End
+Get - Start
+Get - End
+GetProperties - Start
+GetProperties - End
+GetGlobalTimestamps - Start
+GetGlobalTimestamps - End
+GetStatus - Start
+GetStatus - End
+GetCommandQueueGroupProperties - Start
+GetCommandQueueGroupProperties - End
+GetMemoryProperties - Start
+GetMemoryProperties - End
+Get - Start
+Get - End
+GetApiVersion - Start
+GetApiVersion - End
+GetProperties - Start
+GetProperties - End
+GetExtensionProperties - Start
+GetExtensionProperties - End
+GetExtensionFunctionAddress - Start
+GetExtensionFunctionAddress - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+HostSignal - Start
+HostSignal - End
+HostSynchronize - Start
+HostSynchronize - End
+QueryStatus - Start
+QueryStatus - End
+HostReset - Start
+HostReset - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+HostSynchronize - Start
+HostSynchronize - End
+QueryStatus - Start
+QueryStatus - End
+Reset - Start
+Reset - End
+Init - Start
+Init - End
+Create - Start
+Create - End
+Destroy - Start
+Destroy - End
+GetNativeBinary - Start
+GetNativeBinary - End
+GetProperties - Start
+GetProperties - End
+GetArgumentProperties - Start
+GetArgumentProperties - End
+SetArgumentValue - Start
+SetArgumentValue - End
+AppendGraphInitialize - Start
+AppendGraphInitialize - End
+AppendGraphExecute - Start
+AppendGraphExecute - End
+AllocHostMem - Start
+AllocHostMem - End
+AllocDeviceMem - Start
+AllocDeviceMem - End
+FreeMem - Start
+FreeMem - End
+QueryAdapterInfo - Start
+QueryAdapterInfo - End
+OpenAdapterFromLuid - Start
+OpenAdapterFromLuid - End
+CloseAdapter - Start
+CloseAdapter - End
+CreateDevice - Start
+CreateDevice - End
+DestroyDevice - Start
+DestroyDevice - End
+QueryStatistics - Start
+QueryStatistics - End
+CreatePagingQueue - Start
+CreatePagingQueue - End
+DestroyPagingQueue - Start
+DestroyPagingQueue - End
+CreateAllocation - Start
+CreateAllocation - End
+DestroyAllocation - Start
+DestroyAllocation - End
+Lock - Start
+Lock - End
+Unlock - Start
+Unlock - End
+MakeResident - Start
+MakeResident - End
+EvictMemory - Start
+EvictMemory - End
+MapGpuVirtualAddress - Start
+MapGpuVirtualAddress - End
+GetDeviceState - Start
+GetDeviceState - End
+QueryClockCalibration - Start
+QueryClockCalibration - End
+Escape - Start
+Escape - End
+CreateContextVirtual - Start
+CreateContextVirtual - End
+DestroyContext - Start
+DestroyContext - End
+CreateSynchronizationObject - Start
+DestroyContext - End
+DestroySynchronizationObject - Start
+DestroyContext - End
+SignalSynchronizationObjectFromGpu2 - Start
+SignalSynchronizationObjectFromGpu2 - End
+SignalSynchronizationObjectFromCpu - Start
+SignalSynchronizationObjectFromCpu - End
+WaitForSynchronizationObjectFromGpu - Start
+WaitForSynchronizationObjectFromGpu - End
+WaitForSynchronizationObjectFromCpu - Start
+WaitForSynchronizationObjectFromCpu - End
+SubmitCommand - Start
+SubmitCommand - End
+Intel-NPU-LevelZero/Operational
+Intel-NPU-LevelZero/Analytic
+	EventData
+ze_result_t
+ze_result_t
+	EventData
+hContext
+hDevice
+hContext
+hDevice
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+hCommandList
+	EventData
+hCommandList
+hSignalEvent
+numWaitEvents
+hCommandList
+hSignalEvent
+numWaitEvents
+	EventData
+hCommandList
+hEvent
+hCommandList
+hEvent
+	EventData
+hCommandList
+	numEvents
+hCommandList
+numEvents
+	EventData
+hCommandList
+hEvent
+hCommandList
+hEvent
+	EventData
+hCommandList
+hSignalEvent
+numWaitEvents
+hCommandList
+hSignalEvent
+numWaitEvents
+	EventData
+hCommandList
+dstptr
+hSignalEvent
+numWaitEvents
+phWaitEvents
+hCommandList
+dstptr
+hSignalEvent
+numWaitEvents
+phWaitEvents
+	EventData
+hContext
+hDevice
+hContext
+hDevice
+	EventData
+hCommandQueue
+hCommandQueue
+	EventData
+hCommandQueue
+numCommandLists
+hFence
+hCommandQueue
+numCommandLists
+hFence
+	EventData
+hCommandQueue
+timeout
+hCommandQueue
+timeout
+	EventData
+hDriver
+hDriver
+	EventData
+hContext
+hContext
+	EventData
+hContext
+hDevice
+hContext
+hDevice
+	EventData
+hContext
+hDevice
+hContext
+hDevice
+	EventData
+hDriver
+hDriver
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+hDevice
+	EventData
+hDevice
+pCount
+pMemProperties
+hDevice
+pCount
+pMemProperties
+	EventData
+	EventData
+hDriver
+hDriver
+	EventData
+hDriver
+hDriver
+	EventData
+hDriver
+hDriver
+	EventData
+hDriver
+hDriver
+	EventData
+hEventPool
+hEventPool
+	EventData
+hEvent
+hEvent
+	EventData
+hEvent
+hEvent
+	EventData
+hEvent
+timeout
+hEvent
+timeout
+	EventData
+hEvent
+hEvent
+	EventData
+hEvent
+hEvent
+	EventData
+hContext
+hContext
+	EventData
+hEventPool
+hEventPool
+	EventData
+hCommandQueue
+hCommandQueue
+	EventData
+hFence
+hFence
+	EventData
+hFence
+timeout
+hFence
+timeout
+	EventData
+hFence
+hFence
+	EventData
+hFence
+hFence
+	EventData
+	EventData
+hDevice
+hDevice
+	EventData
+hGraph
+hGraph
+	EventData
+hGraph
+hGraph
+	EventData
+hGraph
+hGraph
+	EventData
+hGraph
+argIndex
+hGraph
+argIndex
+	EventData
+hGraph
+argIndex
+	pArgValue
+hGraph
+argIndex
+pArgValue
+	EventData
+hCommandList
+hGraph
+hCommandList
+hGraph
+	EventData
+hCommandList
+hGraph
+hCommandList
+hGraph
+	EventData
+hContext
+	alignment
+hContext
+alignment
+	EventData
+hContext
+	alignment
+hDevice
+hContext
+alignment
+hDevice
+	EventData
+hContext
+hContext
+	EventData
+NTSTATUS
+NTSTATUS
+	EventData
+NTSTATUS
+Handle
+	Cacheable
+NTSTATUS
+Handle
+Cacheable
+	EventData
+NTSTATUS
+Handle
+NTSTATUS
+Handle
+	EventData
+hAdapter
+hAdapter
+	EventData
+HighPart
+LowPart
+HighPart
+LowPart
+	EventData
+hAdapter
+hAdapter
+	EventData
+hAdapter
+hAdapter
+	EventData
+hDevice
+hDevice
+	EventData
+	EventData
+hDevice
+Priority
+PhysicalAdapterIndex
+hDevice
+Priority
+PhysicalAdapterIndex
+	EventData
+hPagingQueue
+hPagingQueue
+	EventData
+hDevice
+NumAllocations
+hDevice
+NumAllocations
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hDevice
+hAllocation
+IgnoreReadSync
+	DonotWait
+hDevice
+hAllocation
+IgnoreReadSync
+DonotWait
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hPagingQueue
+NumAllocations
+hAllocation
+hPagingQueue
+NumAllocations
+hAllocation
+	EventData
+hDevice
+NumAllocations
+hAllocation
+hDevice
+NumAllocations
+hAllocation
+	EventData
+hPagingQueue
+hAllocation
+SizeInPages
+hPagingQueue
+hAllocation
+SizeInPages
+	EventData
+hDevice
+	StateType
+hDevice
+StateType
+	EventData
+NTSTATUS
+ExecutionState
+NTSTATUS
+ExecutionState
+	EventData
+hAdapter
+NodeOrdinal
+PhysicalAdapterIndex
+hAdapter
+NodeOrdinal
+PhysicalAdapterIndex
+	EventData
+hAdapter
+hDevice
+hAdapter
+hDevice
+	EventData
+hDevice
+NodeOrdinal
+HwQueueSupported
+DisableGpuTimeout
+ClientHint
+hDevice
+NodeOrdinal
+HwQueueSupported
+DisableGpuTimeout
+ClientHint
+	EventData
+hContext
+hContext
+	EventData
+hDevice
+NoGPUAccess
+InitialFenceValue
+hDevice
+NoGPUAccess
+InitialFenceValue
+	EventData
+NTSTATUS
+hSyncObject
+NTSTATUS
+hSyncObject
+	EventData
+hSyncObject
+hSyncObject
+	EventData
+hSyncObject
+hContext
+fenceValue
+hSyncObject
+hContext
+fenceValue
+	EventData
+hSyncObject
+fenceValue
+hSyncObject
+fenceValue
+	EventData
+hSyncObject
+hContext
+fenceValue
+hSyncObject
+hContext
+fenceValue
+	EventData
+hSyncObject
+fenceValue
+hSyncObject
+fenceValue
+	EventData
+hContext
+CommandLength
+hContext
+CommandLength
+Intel-NPU-LevelZero
+win:Start
+win:Stop
+win:Informational
+CommandList
+CommandQueue
+Context
+Device
+Driver
+EventPool
+Global
+Memory
+D3DKMT
+CommandList
+CommandQueue
+Context
+Device
+Driver
+EventPool
+Global
+Memory
+D3DKMT
+"Intel Corporatio

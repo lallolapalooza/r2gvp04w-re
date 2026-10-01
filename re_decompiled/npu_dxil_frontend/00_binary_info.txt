@@ -1,0 +1,21 @@
+Name: npu_dxil_frontend.dll
+Executable: /home/asdf/projects/r2gvp04w-re/extracted/code$GetExtractPath$/Driver/npu_dxil_frontend.dll
+Format: Portable Executable (PE)
+Language: x86:LE:64:default
+CompilerSpec: windows
+ImageBase: 180000000
+MinAddress: 180000000
+MaxAddress: ff0000184f
+PointerSize: 8
+
+Memory Blocks:
+  Headers: 180000000 - 1800003ff (size=1024, init=true, exec=false, r=true, w=false)
+  .text: 180001000 - 1805693ff (size=5669888, init=true, exec=true, r=true, w=false)
+  .rdata: 18056a000 - 180663bff (size=1022976, init=true, exec=false, r=true, w=false)
+  .data: 180664000 - 18067b5db (size=95708, init=true, exec=false, r=true, w=true)
+  .pdata: 18067c000 - 1806b65ff (size=239104, init=true, exec=false, r=true, w=false)
+  .didat: 1806b7000 - 1806b71ff (size=512, init=true, exec=false, r=true, w=true)
+  _RDATA: 1806b8000 - 1806b81ff (size=512, init=true, exec=false, r=true, w=false)
+  .rsrc: 1806b9000 - 1806b93ff (size=1024, init=true, exec=false, r=true, w=false)
+  .reloc: 1806ba000 - 1806c27ff (size=34816, init=true, exec=false, r=true, w=false)
+  tdb: ff00000000 - ff0000184f (size=6224, init=true, exec=false, r=true, w=true)
