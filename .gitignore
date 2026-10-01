@@ -1,0 +1,37 @@
+
+*.a
+*.bin
+# build output and binaries (regenerable from the sources)
+*.dll
+*.drv
+*.dylib
+*.exe
+extracted/
+extracted/code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviCompile64.dll
+extracted/code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviLLD64.dll
+extracted/code$GetExtractPath$/Driver/npu_dml_compiler.dll
+extracted/code$GetExtractPath$/Driver/vpux_driver_compiler.dll
+ghidra-proj/
+ghidra-proj/r2gvp04w_proj.rep/idata/00/~00000000.db/db.2.gbf
+*.lib
+node_modules/
+*.o
+*.obj
+*.ocx
+*.pdb
+*.png
+*.pyc
+__pycache__/
+*.pyo
+re_decompiled/dml/decompiled_all.c
+re_decompiled/movicomp/decompiled_all.c
+re_decompiled/moviLLD64/decompiled_all.c
+re_decompiled/npu_dxil_frontend/decompiled_all.c
+re_decompiled/shavedxilvecz64/decompiled_all.c
+re_decompiled/vpux/decompiled_all.c
+*.res
+# single files larger than 20 MB (kept out of git; fetch or regenerate them)
+*.so
+*.sys
+venv/
+*-windows/

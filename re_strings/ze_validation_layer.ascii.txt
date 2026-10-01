@@ -1,0 +1,769 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+.pdata
+@_RDATA
+@.rsrc
+@.reloc
+USVWATAVAWH
+A_A^A\_^[]
+WATAUAVAWH
+@A_A^A]A\_
+|$ ATAVAWH
+@A_A^A\
+|$ ATAVAWH
+@A_A^A\
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+@A_A^A]A\_
+@UVAVH
+L$hL9t$pu
+|$ AVH
+t$ ATAVAWH
+@A_A^A\
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+SATAUH
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+SATAUH
+t$ ATAVAWH
+@A_A^A\
+t$ ATAVAWH
+@A_A^A\
+t$ ATAVAWH
+@A_A^A\
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+WAVAWH
+@A_A^_
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+@SUVWAVH
+pA^_^][
+pA^_^][
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+WAVAWH
+@A_A^_
+|$ AVH
+|$ AVH
+|$ AVH
+|$ AVH
+WAVAWH
+@A_A^_
+|$ AVH
+|$ AVH
+WAVAWH
+PA_A^_
+WAVAWH
+PA_A^_
+|$ AVH
+|$ AVH
+WAVAWH
+|$ AVH
+|$ AVH
+WAVAWH
+PA_A^_
+WAVAWH
+PA_A^_
+WAVAWH
+PA_A^_
+|$ AVH
+WAVAWH
+@A_A^_
+WAVAWH
+@A_A^_
+|$ AVH
+|$ AVH
+|$ AVH
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+t$ ATAVAWH
+@A_A^A\
+WAVAWH
+@A_A^_
+@UATAUAVAWH
+PA_A^A]A\]
+PA_A^A]A\]
+|$ AVH
+|$ AVH
+WAVAWH
+@A_A^_
+VAVAWH
+WAVAWH
+@A_A^_
+WAVAWH
+|$ AVH
+|$ AVH
+|$ AVH
+@SUVWAVH
+`A^_^][
+`A^_^][
+|$ AVH
+WAVAWH
+@A_A^_
+t$ ATAVAWH
+@A_A^A\
+|$ AVH
+|$ AVH
+|$ AVH
+WAVAWH
+@A_A^_
+|$ AVH
+|$ AVH
+WAVAWH
+PA_A^_
+t$ ATAVAWH
+A_A^A\
+WAVAWH
+PA_A^_
+t$ ATAVAWH
+A_A^A\
+WAVAWH
+PA_A^_
+SATAUH
+t$ ATAVAWH
+@A_A^A\
+SATAUAWH
+XA_A]A\[
+XA_A]A\[
+WAVAWH
+PA_A^_
+WAVAWH
+@A_A^_
+|$ AVH
+WAVAWH
+t$ ATAVAWH
+@A_A^A\
+|$ AVH
+|$ AVH
+WAVAWH
+PA_A^_
+t$ ATAVAWH
+@A_A^A\
+|$ AVH
+t$ ATAVAWH
+@A_A^A\
+t$ ATAVAWH
+@A_A^A\
+|$ AVH
+|$ AVH
+|$ AVH
+WAVAWH
+@A_A^_
+|$ AVH
+|$ AVH
+|$ AVH
+|$ AVH
+|$ AVH
+|$ AVH
+xH9D$0
+xH9D$(
+xH9D$0
+xH9D$(
+C H#SHL
+|$ AVH
+|$ AVH
+|$ AVH
+WAVAWH
+@A_A^_
+|$ AVH
+ H3E H3E
+D8L$0uP
+H;xXu5
+ffffff
+ffffff
+ffffff
+WATAUAVAWH
+A_A^A]A\_
+AUAVAWH
+u4I9}(
+;I9}(tiH
+0A_A^A]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+d$dD;d$lt\
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+WAVAWH
+9t$Pu	
+SVWATAUAWH
+A_A]A\_^[
+B(I9A(u
+SVWATAUAVAWH
+A_A^A]A\_^[
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+u3HcH<H
+x ATAVAWH
+< t=<	t9
+ A_A^A\
+UVWAVAWH
+0A_A^_^]
+WAVAWH
+0A_A^_
+t$ WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+USVWAVH
+A^_^[]
+u"8Z(t
+uF8Z(t
+vC8_(t
+u"8Z(t
+uF8Z(t
+vB8_(t
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+H97u+A
+\$ UVWATAUAVAWH
+@8|$Ht
+@8|$Ht
+@8|$Ht
+D$XD9x
+@8|$ht
+@8|$ht
+@8|$ht
+A_A^A]A\_^]
+u"8Z(t
+UVWATAUAVAWH
+L$&8\$&t,8Y
+@A_A^A]A\_^]
+fD94Fu
+WATAUAVAWH
+ A_A^A]A\_
+fD9t$b
+\$ VWATAUAVH
+D!l$xA
+@A^A]A\_^
+L$ VWAVH
+@8l$Ht
+ATAUAVH
+L$ fff
+L$ |+L;
+A^A]A\
+@UATAUAVAWH
+e0A_A^A]A\]
+@UATAUAVAWH
+H!T$0D
+ue!T$(H!T$ 
+A_A^A]A\]
+WAVAWH
+ A_A^_
+UVWATAUAVAWH
+D8\0>t
+L$@D8]
+A_A^A]A\_^]
+VWATAVAW
+A_A^A\_^
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+H!D$ H
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWAVAWH
+@A_A^_^]
+ffffff
+fffffff
+LcA<E3
+u HcA<H
+Unknown exception
+bad array new length
+ZE_ENABLE_PARAMETER_VALIDATION
+ZE_ENABLE_HANDLE_LIFETIME
+ZE_ENABLE_THREADING_VALIDATION
+validation layer
+unordered_map/set too long
+invalid hash bucket count
+bad allocation
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CorExitProcess
+AreFileApisANSI
+LCMapStringEx
+LocaleNameToLCID
+AppPolicyGetProcessTerminationMethod
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+UUUUUU
+UUUUUU
+=imb;D
+1<.	/>:
+/>58d%
+>jtm}S
+)>6{1n
+r	Vr.>T
++f)>0'
+;H9>&X
+*StO9>T
+n03>Pu
+K~Je#>!
+bp(=>?g
+BC?>6t9^	c:>
+K&>.yC
+.xJ>Hf
+y\PD>!
+|b=})>
+c [1>H'
+uzKs@>
+3>N;kU
+	kE>fvw
+V6E>`"(5
+?UUUUUU
+?7zQ6$
+C:\project\build\bin\Release\ze_validation_layer.pdb
+.text$di
+.text$mn
+.text$mn$00
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$r
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.xdata$x
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data$r
+.data$rs
+.pdata
+_RDATA
+.rsrc$01
+.rsrc$02
+Z |$Z&|*Z,|0
+:Z<|@ZB|FZH|LZN|RZT|XZZ|^Z`|dZf|j
+vZx||Z~|
+ze_validation_layer.dll
+zeGetCommandListProcAddrTable
+zeGetCommandQueueProcAddrTable
+zeGetContextProcAddrTable
+zeGetDeviceExpProcAddrTable
+zeGetDeviceProcAddrTable
+zeGetDriverExpProcAddrTable
+zeGetDriverProcAddrTable
+zeGetEventExpProcAddrTable
+zeGetEventPoolProcAddrTable
+zeGetEventProcAddrTable
+zeGetFabricEdgeExpProcAddrTable
+zeGetFabricVertexExpProcAddrTable
+zeGetFenceProcAddrTable
+zeGetGlobalProcAddrTable
+zeGetImageExpProcAddrTable
+zeGetImageProcAddrTable
+zeGetKernelExpProcAddrTable
+zeGetKernelProcAddrTable
+zeGetMemExpProcAddrTable
+zeGetMemProcAddrTable
+zeGetModuleBuildLogProcAddrTable
+zeGetModuleProcAddrTable
+zeGetPhysicalMemProcAddrTable
+zeGetRTASBuilderExpProcAddrTable
+zeGetRTASParallelOperationExpProcAddrTable
+zeGetSamplerProcAddrTable
+zeGetVirtualMemProcAddrTable
+zelLoaderGetVersion
+zesGetDeviceProcAddrTable
+zesGetDiagnosticsProcAddrTable
+zesGetDriverProcAddrTable
+zesGetEngineProcAddrTable
+zesGetFabricPortProcAddrTable
+zesGetFanProcAddrTable
+zesGetFirmwareProcAddrTable
+zesGetFrequencyProcAddrTable
+zesGetGlobalProcAddrTable
+zesGetLedProcAddrTable
+zesGetMemoryProcAddrTable
+zesGetOverclockProcAddrTable
+zesGetPerformanceFactorProcAddrTable
+zesGetPowerProcAddrTable
+zesGetPsuProcAddrTable
+zesGetRasExpProcAddrTable
+zesGetRasProcAddrTable
+zesGetSchedulerProcAddrTable
+zesGetStandbyProcAddrTable
+zesGetTemperatureProcAddrTable
+zetGetCommandListProcAddrTable
+zetGetContextProcAddrTable
+zetGetDebugProcAddrTable
+zetGetDeviceProcAddrTable
+zetGetKernelProcAddrTable
+zetGetMetricGroupExpProcAddrTable
+zetGetMetricGroupProcAddrTable
+zetGetMetricProcAddrTable
+zetGetMetricQueryPoolProcAddrTable
+zetGetMetricQueryProcAddrTable
+zetGetMetricStreamerProcAddrTable
+zetGetModuleProcAddrTable
+zetGetTracerExpProcAddrTable
+GetEnvironmentVariableA
+KERNEL32.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+IsProcessorFeaturePresent
+GetModuleHandleW
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+RtlPcToFileHeader
+RaiseException
+RtlUnwindEx
+InterlockedFlushSList
+GetLastError
+SetLastError
+EncodePointer
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+FreeLibrary
+GetProcAddress
+LoadLibraryExW
+ExitProcess
+GetModuleHandleExW
+GetModuleFileNameW
+HeapAlloc
+HeapFree
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetCommandLineA
+GetCommandLineW
+MultiByteToWideChar
+WideCharToMultiByte
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+GetProcessHeap
+GetStdHandle
+GetFileType
+GetStringTypeW
+HeapSize
+HeapReAlloc
+SetStdHandle
+FlushFileBuffers
+WriteFile
+GetConsoleOutputCP
+GetConsoleMode
+SetFilePointerEx
+CreateFileW
+CloseHandle
+WriteConsoleW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_exception@std@@
+.?AVZEValidationEntryPoints@validation_layer@@
+.?AVZEParameterValidation@validation_layer@@
+.?AVZETValidationEntryPoints@validation_layer@@
+.?AVZETParameterValidation@validation_layer@@
+.?AVZESValidationEntryPoints@validation_layer@@
+.?AVZESParameterValidation@validation_layer@@
+.?AVZEHandleLifetimeValidation@validation_layer@@
+.?AVZESHandleLifetimeValidation@validation_layer@@
+.?AVZETHandleLifetimeValidation@validation_layer@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+Greater Manchester1
+Salford1
+Comodo CA Limited1!0
+AAA Certificate Services0
+210525000000Z
+281231235959Z0V1
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+H/(@Bp 6
+2http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+230315000000Z
+240314235959Z0Z1
+California1
+Intel Corporation1
+Intel Corporation0
+https://sectigo.com/CPS0
+8http://crl.sectigo.com/SectigoPublicCodeSigningCAR36.crl0y
+8http://crt.sectigo.com/SectigoPublicCodeSigningCAR36.crt0#
+http://ocsp.sectigo.com0#
+pkiengineering@intel.com0
+us{vI'
+Sectigo Limited1-0+
+$Sectigo Public Code Signing Root R460
+210322000000Z
+360321235959Z0T1
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R360
+FFlCx@
+H/(@Bp 6
+:http://crl.sectigo.com/SectigoPublicCodeSigningRootR46.crl0{
+:http://crt.sectigo.com/SectigoPublicCodeSigningRootR46.p7c0#
+http://ocsp.sectigo.com0
+ts7!:o
+n0PPd}
+Sectigo Limited1+0)
+"Sectigo Public Code Signing CA R36
+aIE8s/@
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+230914191422Z
+240904191422Z0
+Washington1
+Redmond1
+Microsoft Corporation1;09
+2Microsoft Windows Hardware Compatibility Publisher0
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232825+5015220
+chttp://www.microsoft.com/pkiops/crl/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crl0
+ehttp://www.microsoft.com/pkiops/certs/Microsoft%20Windows%20Third%20Party%20Component%20CA%202012.crt0
+vgdH_B
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+120418234838Z
+270418235838Z0
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 20120
+-g<'<V
+}PH.=C
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+p%|Yi1$
+Washington1
+Redmond1
+Microsoft Corporation1806
+/Microsoft Windows Third Party Component CA 2012
+(https://www.microsoft.com/en-us/windows 0
+20231106141718.26Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+230601183258Z
+240201183258Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service0
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+mbIF?9
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+as.,k{n?,	x
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1'0%
+nShield TSS ESN:E002-05E0-D9471%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20231106023343Z
+20231107023343Z0t0:
+ehWZ^U
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010

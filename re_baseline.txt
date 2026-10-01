@@ -1,0 +1,430 @@
+### npu_dml_compiler.dll
+path: code$GetExtractPath$/Driver/npu_dml_compiler.dll
+size: 108934920 sha256: 0910414e19a74748347ba0c7fe11caf2b7ef31a0348a320ad9096a74a293f12c
+machine: 0x8664 sections: 7 timestamp: 1698793220 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x5209180 subsystem: 3 dllchars: 0x41e0
+pdb: 
+pdb: C:\Temp\oizlkabvmc\build\x64\Source\dml_compiler\npu_dml_compiler\Release\npu_dml_compiler.pdb
+sections:
+  .text    vsize=0x58e796c rawsize=0x58e7a00 vaddr=0x1000 chars=0x60000020 entropy=6.10
+  .rdata   vsize=0xbf1b54 rawsize=0xbf1c00 vaddr=0x58e9000 chars=0x40000040 entropy=6.79
+  .data    vsize=0xc8ed4 rawsize=0x9a600 vaddr=0x64db000 chars=0xc0000040 entropy=5.09
+  .pdata   vsize=0x2424d8 rawsize=0x242600 vaddr=0x65a4000 chars=0x40000040 entropy=7.17
+  _RDATA   vsize=0x38c rawsize=0x400 vaddr=0x67e7000 chars=0x40000040 entropy=2.76
+  .rsrc    vsize=0x540 rawsize=0x600 vaddr=0x67e8000 chars=0x40000040 entropy=3.88
+  .reloc   vsize=0x28aec rawsize=0x28c00 vaddr=0x67e9000 chars=0x42000040 entropy=5.48
+exports: 17
+  0x28d3300 ord=1 CompileKernel
+  0x28d3360 ord=2 ComposerAddBarrier
+  0x28d3380 ord=3 ComposerAddCopyBuffer
+  0x28d33d0 ord=4 ComposerAddDispatch
+  0x28d3420 ord=5 ComposerAddMarker
+  0x28d3460 ord=6 ComposerAddMetacommandExec
+  0x28d34b0 ord=7 ComposerAddMetacommandInit
+  0x28d3500 ord=8 ComposerAllocate
+  0x28d3530 ord=9 ComposerCompose
+  0x28d3570 ord=10 ComposerFree
+  0x28d3590 ord=11 ComposerReadyKernel
+  0x28d35e0 ord=12 ComposerReset
+  0x28d3600 ord=13 CreateMetaCommandCompiler
+  0x28d3640 ord=14 CreateMetaCommandPlan
+  0x28d36a0 ord=15 DestroyMetaCommandCompiler
+  0x28d36e0 ord=16 GetRequiredResourceSize
+  0x28d3730 ord=17 QueryMetaCommand
+import dlls: 6
+  KERNEL32.dll (214): RaiseException, GetLastError, WaitForSingleObject, GetCurrentThread, GetCurrentThreadId, SetThreadPriority, GetThreadId, GetLogicalProcessorInformationEx, GetProcessGroupAffinity, GetThreadGroupAffinity, SetThreadGroupAffinity, GetProcessAffinityMask, RtlCaptureContext, ExpandEnvironmentStringsW, SetUnhandledExceptionFilter, SetErrorMode, InitializeCriticalSection, EnterCriticalSection, LeaveCriticalSection, GetCurrentProcessId, LoadLibraryW, SetConsoleCtrlHandler, GetStdHandle, GetEnvironmentVariableW, SetCurrentDirectoryW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetDiskFreeSpaceExA, GetDriveTypeW, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, GetVolumePathNameW, LockFileEx, ReadFile, SetFileAttributesW, SetFileInformationByHandle, SetFileTime, UnlockFileEx, DuplicateHandle, SetLastError, Sleep, CloseHandle, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, GetModuleFileNameW, MoveFileExW, CreateHardLinkW, SystemTimeToFileTime, MultiByteToWideChar, WideCharToMultiByte, SearchPathW ...
+  USER32.dll (1): CharUpperBuffA
+  SHELL32.dll (2): SHFileOperationW, SHGetKnownFolderPath
+  ole32.dll (1): CoTaskMemFree
+  ADVAPI32.dll (7): CryptReleaseContext, CryptAcquireContextW, RegGetValueW, RegQueryValueExA, RegOpenKeyExA, RegCloseKey, CryptGenRandom
+  SHLWAPI.dll (1): PathIsRelativeA
+total imports: 226
+ver FileDescription = VPU DML Compiler
+ver ProductVersion = 31.0.100.1688
+ver FileVersion = 31.0.100.1688
+ver InternalName = npu_dml_compiler.dll
+ver ProductName = Intel(R) NPU Driver
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver CompanyName = Intel(R) Corporation
+resource types: 16, 24
+
+### vpux_driver_compiler.dll
+path: code$GetExtractPath$/Driver/vpux_driver_compiler.dll
+size: 79593736 sha256: ab811c7f85c48eefb050fd7538ad3b27ad51caa238694bf579532a6006cb0782
+machine: 0x8664 sections: 8 timestamp: 1698791990 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x3b89bb0 subsystem: 2 dllchars: 0x4160
+pdb: 
+pdb: C:\jw\openvino\bin\intel64\Release\vpux_driver_compiler.pdb
+sections:
+  .text    vsize=0x43b135c rawsize=0x43b1400 vaddr=0x1000 chars=0x60000020 entropy=5.90
+  .rdata   vsize=0x6953a4 rawsize=0x695400 vaddr=0x43b3000 chars=0x40000040 entropy=6.83
+  .data    vsize=0xe084c rawsize=0xb4600 vaddr=0x4a49000 chars=0xc0000040 entropy=5.08
+  .pdata   vsize=0xc834c rawsize=0xc8400 vaddr=0x4b2a000 chars=0x40000040 entropy=6.90
+  .didat   vsize=0x20 rawsize=0x200 vaddr=0x4bf3000 chars=0xc0000040 entropy=0.19
+  _RDATA   vsize=0x324 rawsize=0x400 vaddr=0x4bf4000 chars=0x40000040 entropy=2.15
+  .rsrc    vsize=0x614 rawsize=0x800 vaddr=0x4bf5000 chars=0x40000040 entropy=4.54
+  .reloc   vsize=0x200d4 rawsize=0x20200 vaddr=0x4bf6000 chars=0x42000040 entropy=5.47
+exports: 17
+  0x2dd6480 ord=1 CreatePluginEngineAUTO
+  0x2e0d740 ord=2 CreatePluginEngineBATCH
+  0x2e1ad20 ord=3 CreatePluginEngineNPU
+  0x28dfcd0 ord=4 vclCompilerCreate
+  0x28e0720 ord=5 vclCompilerDestroy
+  0x28e0800 ord=6 vclCompilerGetProperties
+  0x28e0820 ord=7 vclExecutableCreate
+  0x28e0e30 ord=8 vclExecutableDestroy
+  0x28e0e50 ord=9 vclExecutableGetSerializableBlob
+  0x28e0f40 ord=10 vclGetDecodedProfilingBuffer
+  0x28e1020 ord=11 vclLogHandleGetString
+  0x28e1190 ord=12 vclProfilingCreate
+  0x28e1400 ord=13 vclProfilingDestroy
+  0x28e1450 ord=14 vclProfilingGetProperties
+  0x28e1490 ord=15 vclQueryNetwork
+  0x28e14c0 ord=16 vclQueryNetworkCreate
+  0x28e1730 ord=17 vclQueryNetworkDestroy
+import dlls: 4
+  ADVAPI32.dll (6): CryptReleaseContext, CryptGenRandom, RegCloseKey, RegOpenKeyExA, RegGetValueW, CryptAcquireContextW
+  SHLWAPI.dll (1): PathIsRelativeA
+  tbb12.dll (28): ?fill_core_type_indices@r1@detail@tbb@@YAXPEAH_J@Z, ?core_type_count@r1@detail@tbb@@YAI_J@Z, ?fill_numa_indices@r1@detail@tbb@@YAXPEAH@Z, ?numa_node_count@r1@detail@tbb@@YAIXZ, ?max_concurrency@r1@detail@tbb@@YAHPEBVtask_arena_base@d1@23@@Z, ?destroy@r1@detail@tbb@@YAXAEAVtask_group_context@d1@23@@Z, ?initialize@r1@detail@tbb@@YAXAEAVtask_group_context@d1@23@@Z, ?notify_waiters@r1@detail@tbb@@YAX_K@Z, ?execute_and_wait@r1@detail@tbb@@YAXAEAVtask@d1@23@AEAVtask_group_context@523@AEAVwait_context@523@1@Z, ?spawn@r1@detail@tbb@@YAXAEAVtask@d1@23@AEAVtask_group_context@523@G@Z, ?spawn@r1@detail@tbb@@YAXAEAVtask@d1@23@AEAVtask_group_context@523@@Z, ?deallocate@r1@detail@tbb@@YAXAEAVsmall_object_pool@d1@23@PEAX_KAEBUexecution_data@523@@Z, ?constraints_default_concurrency@r1@detail@tbb@@YAHAEBUconstraints@d1@23@_J@Z, ?allocate@r1@detail@tbb@@YAPEAXAEAPEAVsmall_object_pool@d1@23@_KAEBUexecution_data@523@@Z, ?deallocate_memory@r1@detail@tbb@@YAXPEAX@Z, ?allocate_memory@r1@detail@tbb@@YAPEAX_K@Z, ?terminate@r1@detail@tbb@@YAXAEAVtask_arena_base@d1@23@@Z, ?initialize@r1@detail@tbb@@YAXAEAVtask_arena_base@d1@23@@Z, ?observe@r1@detail@tbb@@YAXAEAVtask_scheduler_observer@d1@23@_N@Z, ?execute@r1@detail@tbb@@YAXAEAVtask_arena_base@d1@23@AEAVdelegate_base@523@@Z, ?cache_aligned_deallocate@r1@detail@tbb@@YAXPEAX@Z, ?cache_aligned_allocate@r1@detail@tbb@@YAPEAX_K@Z, ?execution_slot@r1@detail@tbb@@YAGPEBUexecution_data@d1@23@@Z, ?throw_exception@r1@detail@tbb@@YAXW4exception_id@d0@23@@Z, ?finalize@r1@detail@tbb@@YA_NAEAVtask_scheduler_handle@d1@23@_J@Z, ?get@r1@detail@tbb@@YAXAEAVtask_scheduler_handle@d1@23@@Z, ?cache_line_size@r1@detail@tbb@@YA_KXZ, ?allocate@r1@detail@tbb@@YAPEAXAEAPEAVsmall_object_pool@d1@23@_K@Z
+  KERNEL32.dll (168): SetEnvironmentVariableW, FreeEnvironmentStringsW, GetEnvironmentStringsW, GetCommandLineA, GetOEMCP, GetACP, IsValidCodePage, HeapSize, DeleteFileW, GetProcessHeap, GetTimeZoneInformation, EnumSystemLocalesW, GetUserDefaultLCID, IsValidLocale, GetLocaleInfoW, LCMapStringW, CompareStringW, GetTimeFormatW, GetDateFormatW, HeapAlloc, HeapReAlloc, HeapFree, GetConsoleOutputCP, WriteFile, ReadConsoleW, GetFullPathNameW, FileTimeToSystemTime, SystemTimeToTzSpecificLocalTime, PeekNamedPipe, GetFileType, WriteConsoleW, GetStdHandle, GetEnvironmentVariableW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetDriveTypeW, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, ReadFile, SetFileTime, CloseHandle, DuplicateHandle, GetLastError, SetLastError, GetCurrentProcess, GetSystemInfo, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, GetModuleFileNameW, SystemTimeToFileTime, MultiByteToWideChar ...
+total imports: 203
+ver CompanyName = Intel Corporation
+ver FileDescription = VPU Plugin Compiler L0
+ver FileVersion = 2023,0,2,1
+ver InternalName = vpux_driver_compiler
+ver LegalCopyright = Copyright (C) 2018-2023, Intel Corporation
+ver OriginalFilename = vpux_driver_compiler.dll
+ver ProductName = VPU Compiler In Driver
+ver ProductVersion = 2023.0.2-1-e662b1a3301-HEAD-2023-10-31-21-15-45-1-DCI-caeaa561fd5
+ver Comments = https://docs.openvino.ai/
+resource types: 16, 24
+
+### moviCompile64.dll
+path: code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviCompile64.dll
+size: 65488136 sha256: f5e164f0d9e02574ff94676f6bb799597640602ccdbb685724f241a8ed170c2e
+machine: 0x8664 sections: 7 timestamp: 1695306479 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x2e45eb0 subsystem: 3 dllchars: 0x0160
+pdb: 
+sections:
+  .text    vsize=0x30569b4 rawsize=0x3056a00 vaddr=0x1000 chars=0x60000020 entropy=6.44
+  .rdata   vsize=0xbdfff0 rawsize=0xbe0000 vaddr=0x3058000 chars=0x40000040 entropy=5.45
+  .data    vsize=0x88ea4 rawsize=0x20a00 vaddr=0x3c38000 chars=0xc0000040 entropy=3.58
+  .pdata   vsize=0x1acd90 rawsize=0x1ace00 vaddr=0x3cc1000 chars=0x40000040 entropy=7.07
+  _RDATA   vsize=0x15c rawsize=0x200 vaddr=0x3e6e000 chars=0x40000040 entropy=3.81
+  .rsrc    vsize=0x5b8 rawsize=0x600 vaddr=0x3e6f000 chars=0x40000040 entropy=4.06
+  .reloc   vsize=0x6baa8 rawsize=0x6bc00 vaddr=0x3e70000 chars=0x42000040 entropy=5.47
+exports: 2
+  0x75720 ord=1 freeResults
+  0x75810 ord=2 main
+import dlls: 3
+  VERSION.dll (3): VerQueryValueW, GetFileVersionInfoW, GetFileVersionInfoSizeW
+  ADVAPI32.dll (8): CryptGenRandom, RegQueryValueExW, RegEnumKeyExA, RegGetValueW, CryptAcquireContextW, CryptReleaseContext, RegCloseKey, RegOpenKeyExA
+  KERNEL32.dll (157): SetEnvironmentVariableW, GetEnvironmentStringsW, GetCommandLineA, GetFileType, WriteConsoleW, GetStdHandle, GetEnvironmentVariableW, SetCurrentDirectoryW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetDriveTypeW, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, GetVolumePathNameW, LockFileEx, ReadFile, SetFileInformationByHandle, SetFileTime, UnlockFileEx, CloseHandle, DuplicateHandle, GetLastError, SetLastError, Sleep, GetCurrentProcess, GetSystemInfo, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, GetModuleFileNameW, MoveFileExW, CreateHardLinkW, SystemTimeToFileTime, MultiByteToWideChar, WideCharToMultiByte, SearchPathW, WaitForSingleObject, GetProcessTimes, TerminateProcess, GetExitCodeProcess, ResumeThread, CreateProcessW, CreateJobObjectW, AssignProcessToJobObject, SetInformationJobObject, LocalFree, SetProcessAffinityMask, FormatMessageA, K32GetProcessMemoryInfo, GetCommandLineW, SetErrorMode, GetCurrentProcessId ...
+total imports: 168
+ver CompanyName = Intel(R) Corporation
+ver FileDescription = Movidius(TM) SHAVE Compiler
+ver FileVersion = 00.114.11.4207
+ver InternalName = libmoviCompile
+ver OriginalFilename = moviCompile.dll
+ver ProductName = Intel(R) Movidius(TM) VPU Driver
+ver ProductVersion = 00.114.11.4207
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+resource types: 16, 24
+
+### moviLLD64.dll
+path: code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviLLD64.dll
+size: 27904776 sha256: 7294c2c00727fef46f2a42c896eb409da2ed3bbf5eab89418ac52dcb749af9ef
+machine: 0x8664 sections: 7 timestamp: 1695296150 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x160f6e0 subsystem: 3 dllchars: 0x0160
+pdb: 
+sections:
+  .text    vsize=0x16ac46c rawsize=0x16ac600 vaddr=0x1000 chars=0x60000020 entropy=6.42
+  .rdata   vsize=0x2d1d12 rawsize=0x2d1e00 vaddr=0x16ae000 chars=0x40000040 entropy=5.89
+  .data    vsize=0x64074 rawsize=0x15600 vaddr=0x1980000 chars=0xc0000040 entropy=3.66
+  .pdata   vsize=0xeb2c0 rawsize=0xeb400 vaddr=0x19e5000 chars=0x40000040 entropy=6.83
+  _RDATA   vsize=0x15c rawsize=0x200 vaddr=0x1ad1000 chars=0x40000040 entropy=3.79
+  .rsrc    vsize=0x558 rawsize=0x600 vaddr=0x1ad2000 chars=0x40000040 entropy=3.84
+  .reloc   vsize=0x19540 rawsize=0x19600 vaddr=0x1ad3000 chars=0x42000040 entropy=5.47
+exports: 2
+  0x61a90 ord=1 freeResults
+  0x61aa0 ord=2 process
+import dlls: 2
+  ADVAPI32.dll (9): CryptAcquireContextW, CryptReleaseContext, CryptGenRandom, RegCloseKey, RegOpenKeyExA, RegGetValueW, AdjustTokenPrivileges, OpenProcessToken, LookupPrivilegeValueW
+  KERNEL32.dll (161): GetStdHandle, GetEnvironmentVariableW, SetCurrentDirectoryW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetDiskFreeSpaceExA, GetDriveTypeW, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, GetVolumePathNameW, ReadFile, SetFileInformationByHandle, SetFileTime, CloseHandle, DuplicateHandle, GetLastError, SetLastError, Sleep, GetCurrentProcess, GetSystemInfo, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, GetModuleFileNameW, MoveFileExW, SystemTimeToFileTime, WriteConsoleW, WideCharToMultiByte, GetCommandLineW, SetErrorMode, GetProcessTimes, GetCurrentProcessId, TerminateProcess, GetSystemTimeAsFileTime, GetNativeSystemInfo, GetModuleHandleW, GetProcAddress, GetConsoleMode, SetConsoleMode, GetConsoleScreenBufferInfo, SetConsoleTextAttribute, RtlCaptureContext, ExpandEnvironmentStringsW, SetUnhandledExceptionFilter, InitializeCriticalSection, EnterCriticalSection, LeaveCriticalSection, DeleteCriticalSection, GetCurrentThread, GetCurrentThreadId, LoadLibraryW, SetConsoleCtrlHandler ...
+total imports: 170
+ver CompanyName = Intel(R) Corporation
+ver FileDescription = Movidius(TM) SHAVE Linker
+ver FileVersion = 3.0.9
+ver InternalName = lld
+ver OriginalFilename = moviLLDDll.dll
+ver ProductName = Intel(R) NPU Driver
+ver ProductVersion = 3.0.9
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+resource types: 16, 24
+
+### moviAsm64.dll
+path: code$GetExtractPath$/Driver/MVC_DEPEND/bin/moviAsm64.dll
+size: 7488264 sha256: 4f29b3e3a2b9ea5bffd6748494df2efc748af6b181fd4563bbe31cfa709a4fa8
+machine: 0x8664 sections: 7 timestamp: 1695291767 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x617578 subsystem: 3 dllchars: 0x0160
+pdb: 
+sections:
+  .text    vsize=0x689778 rawsize=0x689800 vaddr=0x1000 chars=0x60000020 entropy=5.61
+  .rdata   vsize=0x72a3a rawsize=0x72c00 vaddr=0x68b000 chars=0x40000040 entropy=5.90
+  .data    vsize=0x19b14 rawsize=0x7200 vaddr=0x6fe000 chars=0xc0000040 entropy=4.67
+  .pdata   vsize=0x1a304 rawsize=0x1a400 vaddr=0x718000 chars=0x40000040 entropy=5.67
+  _RDATA   vsize=0x15c rawsize=0x200 vaddr=0x733000 chars=0x40000040 entropy=3.26
+  .rsrc    vsize=0x5d0 rawsize=0x600 vaddr=0x734000 chars=0x40000040 entropy=4.06
+  .reloc   vsize=0x20c8 rawsize=0x2200 vaddr=0x735000 chars=0x42000040 entropy=5.40
+exports: 2
+  0x20260 ord=1 freeResults
+  0x20270 ord=2 process
+import dlls: 1
+  KERNEL32.dll (102): GetCurrentDirectoryA, SetEndOfFile, FormatMessageA, WideCharToMultiByte, LocalFree, GetLocaleInfoEx, GetCurrentDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, GetFinalPathNameByHandleW, AreFileApisANSI, CloseHandle, GetLastError, GetModuleHandleW, GetProcAddress, MultiByteToWideChar, InitializeSRWLock, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, TryAcquireSRWLockExclusive, GetCurrentThreadId, EnterCriticalSection, LeaveCriticalSection, InitializeCriticalSectionEx, DeleteCriticalSection, EncodePointer, DecodePointer, LCMapStringEx, QueryPerformanceCounter, CompareStringEx, GetCPInfo, GetSystemTimeAsFileTime, GetStringTypeW, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, InitializeCriticalSectionAndSpinCount, SetEvent, ResetEvent, WaitForSingleObjectEx, CreateEventW, GetCurrentProcessId, InitializeSListHead, IsDebuggerPresent, GetStartupInfoW, RtlUnwindEx, RtlPcToFileHeader, RaiseException, InterlockedFlushSList, SetLastError, TlsAlloc, TlsGetValue, TlsSetValue ...
+total imports: 102
+ver CompanyName = Intel(R) Corporation
+ver FileDescription = Movidius(TM) SHAVE Assembler
+ver FileVersion = 1.13.16 64-bit
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver ProductName = Intel(R) NPU Driver
+ver ProductVersion = 1,13,16
+ver OriginalFilename = moviAsmDll.dll
+ver Commit ID = 33f3f75e
+ver Commit Date = 2023-09-21 11:44:51 +0300
+resource types: 16, 24
+
+### shavedxilvecz64.dll
+path: code$GetExtractPath$/Driver/shavedxilvecz64.dll
+size: 18459912 sha256: 177ad066d51dc6b693143558d361c8d7a8a0250b0c1516d105cabb243aa8ef56
+machine: 0x8664 sections: 11 timestamp: 1692023161 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x2cd0 subsystem: 3 dllchars: 0x4160
+pdb: 
+pdb: C:\Jenkins\workspace\build-windows12e88409\build\vecz\RelWithDebInfo\RelWithDebInfo\bin\shavedxilvecz64.pdb
+sections:
+  .text    vsize=0xe510dd rawsize=0xe51200 vaddr=0x1000 chars=0x60000020 entropy=5.66
+  .rdata   vsize=0x247bfd rawsize=0x247c00 vaddr=0xe53000 chars=0x40000040 entropy=5.22
+  .data    vsize=0x32c79 rawsize=0xf600 vaddr=0x109b000 chars=0xc0000040 entropy=3.25
+  .pdata   vsize=0x9ed60 rawsize=0x9ee00 vaddr=0x10ce000 chars=0x40000040 entropy=6.33
+  .idata   vsize=0x3e46 rawsize=0x4000 vaddr=0x116d000 chars=0x40000040 entropy=4.16
+  .didat   vsize=0x464 rawsize=0x600 vaddr=0x1171000 chars=0xc0000040 entropy=0.81
+  .gfids   vsize=0x30870 rawsize=0x30a00 vaddr=0x1172000 chars=0x40000040 entropy=4.20
+  .tls     vsize=0x329 rawsize=0x400 vaddr=0x11a3000 chars=0xc0000040 entropy=0.01
+  .00cfg   vsize=0x175 rawsize=0x200 vaddr=0x11a4000 chars=0x40000040 entropy=0.42
+  .rsrc    vsize=0x686 rawsize=0x800 vaddr=0x11a5000 chars=0x40000040 entropy=1.83
+  .reloc   vsize=0x19cb5 rawsize=0x19e00 vaddr=0x11a6000 chars=0x42000040 entropy=3.58
+exports: 2
+  0xcaf0 ord=1 releaseDxilVeczBuffer
+  0x59f70 ord=2 runDxilVeczPass
+import dlls: 15
+  ADVAPI32.dll (6): CryptReleaseContext, CryptGenRandom, RegCloseKey, RegOpenKeyExA, RegGetValueW, CryptAcquireContextW
+  KERNEL32.dll (111): GetFileType, WriteConsoleW, GetStdHandle, GetEnvironmentVariableW, SetCurrentDirectoryW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetDiskFreeSpaceExA, GetDriveTypeW, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, GetVolumePathNameW, ReadFile, SetFileAttributesW, SetFileInformationByHandle, SetFileTime, CloseHandle, DuplicateHandle, GetLastError, SetLastError, Sleep, GetCurrentProcess, GetSystemInfo, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, GetModuleFileNameW, MoveFileExW, CreateHardLinkW, SystemTimeToFileTime, MultiByteToWideChar, WideCharToMultiByte, GetCommandLineW, FindFirstFileW, GetLongPathNameW, SetErrorMode, GetProcessTimes, GetCurrentProcessId, GetSystemTimeAsFileTime, GetNativeSystemInfo, GetModuleHandleW, GetProcAddress, GetConsoleMode, SetConsoleMode, GetConsoleScreenBufferInfo, SetConsoleTextAttribute, SearchPathW, WaitForSingleObject, TerminateProcess, GetExitCodeProcess, CreateProcessW, CreateJobObjectW ...
+  MSVCP140.dll (50): ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ, ??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z, ??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z, ?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z, ?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z, ?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z, ?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z, ?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ, ?set_new_handler@std@@YAP6AXXZP6AXXZ@Z, _Xtime_get_ticks, _Query_perf_counter, _Query_perf_frequency, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z, ??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z, ??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ, ?_Xinvalid_argument@std@@YAXPEBD@Z, ?_Xlength_error@std@@YAXPEBD@Z, ?_Xout_of_range@std@@YAXPEBD@Z, _Mtx_init_in_situ, _Mtx_destroy_in_situ, _Mtx_lock, _Mtx_unlock, ?_Throw_C_error@std@@YAXH@Z, ?_Syserror_map@std@@YAPEBDH@Z, ?setprecision@std@@YA?AU?$_Smanip@_J@1@_J@Z, ?_Winerror_map@std@@YAHH@Z, ?_Raise_handler@std@@3P6AXAEBVexception@stdext@@@ZEA, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAVios_base@1@AEAV21@@Z@Z, ?_Xbad_function_call@std@@YAXXZ, ??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ, ??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z, ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z, ?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ, ?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ, ?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ, _Mbrtowc, ?_Xbad_alloc@std@@YAXXZ, ?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ, ??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ, ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z, ??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ, ?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ, ?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z, ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+  VCRUNTIME140.dll (15): __current_exception_context, __current_exception, __std_exception_destroy, __std_exception_copy, longjmp, __C_specific_handler, strchr, memset, memchr, memmove, memcpy, memcmp, _purecall, __std_type_info_destroy_list, _CxxThrowException
+  VCRUNTIME140_1.dll (1): __CxxFrameHandler4
+  api-ms-win-crt-runtime-l1-1-0.dll (23): _crt_atexit, _crt_at_quick_exit, _cexit, _initterm, _initterm_e, terminate, _register_onexit_function, _initialize_onexit_table, _initialize_narrow_environment, _configure_narrow_argv, _seh_filter_dll, feclearexcept, _errno, signal, _set_error_mode, abort, _set_abort_behavior, _execute_onexit_table, exit, _beginthreadex, _invoke_watson, _invalid_parameter_noinfo_noreturn, fetestexcept
+  api-ms-win-crt-heap-l1-1-0.dll (6): realloc, _callnewh, malloc, _heapwalk, calloc, free
+  api-ms-win-crt-convert-l1-1-0.dll (6): strtoull, strtoll, strtod, strtof, strtol, atoi
+  api-ms-win-crt-environment-l1-1-0.dll (1): getenv
+  api-ms-win-crt-stdio-l1-1-0.dll (13): fflush, _open_osfhandle, _fileno, _lseeki64, _get_osfhandle, _chsize_s, _lseek, _setmode, __stdio_common_vsprintf, _write, _close, _read, __acrt_iob_func
+  api-ms-win-crt-string-l1-1-0.dll (11): strncmp, isspace, tolower, isdigit, islower, isupper, isxdigit, isalnum, strncpy, toupper, isalpha
+  api-ms-win-crt-filesystem-l1-1-0.dll (1): _stat64i32
+  api-ms-win-crt-math-l1-1-0.dll (25): acos, _fpclass, atan, atan2, cos, cosh, exp, modf, pow, sin, sinh, tan, tanh, sqrt, round, floor, log2, rint, ceil, log10, log2f, log, ceilf, asin, _dclass
+  api-ms-win-crt-utility-l1-1-0.dll (3): qsort, srand, rand
+  api-ms-win-crt-time-l1-1-0.dll (2): strftime, _localtime64_s
+total imports: 274
+ver CompanyName = Intel(R) Corporation
+ver FileDescription = Intel(R) SHAVE Vectorizer
+ver FileVersion = 11.1.3
+ver InternalName = Vecz
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver OriginalFilename = shavedxilvecz64.dll
+ver ProductName = Intel(R) Movidius(TM) VPU Driver
+ver ProductVersion = 11.1.3
+resource types: 16
+
+### npu_dxil_frontend.dll
+path: code$GetExtractPath$/Driver/npu_dxil_frontend.dll
+size: 7057672 sha256: 421629ae6adc31e9069690c49cd38f759b851e81c3f3e35f14f32012ea34adf2
+machine: 0x8664 sections: 8 timestamp: 1698792841 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x51be80 subsystem: 3 dllchars: 0x41e0
+pdb: 
+pdb: C:\Temp\oizlkabvmc\build\x64\Source\dxil_frontend\npu_dxil_frontend\src\npu_dxil_frontend-build\Release\bin\npu_dxil_frontend.pdb
+sections:
+  .text    vsize=0x568399 rawsize=0x568400 vaddr=0x1000 chars=0x60000020 entropy=6.44
+  .rdata   vsize=0xf9bf4 rawsize=0xf9c00 vaddr=0x56a000 chars=0x40000040 entropy=5.78
+  .data    vsize=0x175dc rawsize=0x11c00 vaddr=0x664000 chars=0xc0000040 entropy=2.98
+  .pdata   vsize=0x3a4d0 rawsize=0x3a600 vaddr=0x67c000 chars=0x40000040 entropy=6.46
+  .didat   vsize=0x28 rawsize=0x200 vaddr=0x6b7000 chars=0xc0000040 entropy=0.27
+  _RDATA   vsize=0x200 rawsize=0x200 vaddr=0x6b8000 chars=0x40000040 entropy=4.08
+  .rsrc    vsize=0x388 rawsize=0x400 vaddr=0x6b9000 chars=0x40000040 entropy=3.05
+  .reloc   vsize=0x86a8 rawsize=0x8800 vaddr=0x6ba000 chars=0x42000040 entropy=5.45
+exports: 1
+  0x1c8a0 ord=1 OpenCompiler12
+import dlls: 3
+  ADVAPI32.dll (3): CryptReleaseContext, CryptGenRandom, CryptAcquireContextW
+  KERNEL32.dll (150): OutputDebugStringA, FreeLibrary, GetModuleHandleA, GetProcAddress, LoadLibraryA, GetModuleFileNameW, GetModuleFileNameA, GetStdHandle, IsDebuggerPresent, SetConsoleTextAttribute, GetCurrentProcessId, GetEnvironmentVariableA, RaiseException, GetCurrentThreadId, GetFileType, WriteConsoleW, SetLastError, GetCurrentProcess, GetEnvironmentVariableW, GetCurrentDirectoryW, CreateDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, FlushFileBuffers, GetFileAttributesW, GetFileInformationByHandle, GetFinalPathNameByHandleW, ReadFile, SetFileInformationByHandle, SetFileTime, CloseHandle, DuplicateHandle, GetLastError, GetSystemInfo, GetSystemTime, VirtualQuery, CreateFileMappingW, MapViewOfFile, UnmapViewOfFile, SystemTimeToFileTime, MultiByteToWideChar, WideCharToMultiByte, GetCommandLineW, FindFirstFileW, GetProcessTimes, GetSystemTimeAsFileTime, GetNativeSystemInfo, GetModuleHandleW, GetConsoleMode, GetConsoleScreenBufferInfo, SearchPathW, WaitForSingleObject, TerminateProcess, GetExitCodeProcess, CreateProcessW, CreateJobObjectW, AssignProcessToJobObject, SetInformationJobObject ...
+  USER32.dll (1): MessageBoxA
+total imports: 154
+ver FileDescription = DXIL Frontend Compiler
+ver ProductVersion = 31.0.100.1688
+ver FileVersion = 31.0.100.1688
+ver InternalName = npu_dxil_frontend.dll
+ver ProductName = Intel(R) NPU Driver
+ver LegalCopyright = Copyright  Intel(R) Corporation.  All rights reserved.
+ver CompanyName = Intel(R) Corporation
+resource types: 16
+
+### npu_d3d12_umd.dll
+path: code$GetExtractPath$/Driver/npu_d3d12_umd.dll
+size: 2233096 sha256: 74c88f986efdd40eb0bad692d0a1ba618db39556176868063ca7b8e78ff4573a
+machine: 0x8664 sections: 7 timestamp: 1698793214 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x13c1c0 subsystem: 2 dllchars: 0x4160
+pdb: 
+pdb: C:\Temp\oizlkabvmc\build\x64\Source\Umd\d3d12\Release\npu_d3d12_umd.pdb
+sections:
+  .text    vsize=0x192ddc rawsize=0x192e00 vaddr=0x1000 chars=0x60000020 entropy=6.10
+  .rdata   vsize=0x72ca8 rawsize=0x72e00 vaddr=0x194000 chars=0x40000040 entropy=5.43
+  .data    vsize=0x8884 rawsize=0x2c00 vaddr=0x207000 chars=0xc0000040 entropy=4.04
+  .pdata   vsize=0x8d30 rawsize=0x8e00 vaddr=0x210000 chars=0x40000040 entropy=6.05
+  _RDATA   vsize=0x200 rawsize=0x200 vaddr=0x219000 chars=0x40000040 entropy=4.15
+  .rsrc    vsize=0xade8 rawsize=0xae00 vaddr=0x21a000 chars=0x40000040 entropy=4.00
+  .reloc   vsize=0xd0c rawsize=0xe00 vaddr=0x225000 chars=0x42000040 entropy=5.33
+exports: 1
+  0xccc30 ord=1 OpenAdapter12
+import dlls: 6
+  ADVAPI32.dll (8): EnableTraceEx2, StartTraceW, RegCloseKey, EventWriteTransfer, RegQueryValueExA, EventRegister, EventUnregister, ControlTraceW
+  KERNEL32.dll (100): GetEnvironmentVariableW, EnumResourceNamesW, GetProcessHeap, SetEnvironmentVariableW, FreeEnvironmentStringsW, SetStdHandle, LockResource, LoadResource, FindResourceW, WriteConsoleW, GetModuleFileNameW, GetProcAddress, GetCurrentProcessId, FreeLibrary, GetModuleHandleExW, GetCurrentProcess, LoadLibraryExW, IsDebuggerPresent, GetCurrentThread, GetEnvironmentStringsW, GetCommandLineW, GetCommandLineA, GetOEMCP, GetACP, IsValidCodePage, EnumSystemLocalesW, GetCurrentDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, GetFileAttributesW, GetTempPathW, CloseHandle, GetLastError, GetModuleHandleW, MultiByteToWideChar, WideCharToMultiByte, LocalFree, FormatMessageA, GetLocaleInfoEx, GetStringTypeW, InitializeSRWLock, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, TryAcquireSRWLockExclusive, GetCurrentThreadId, EnterCriticalSection, LeaveCriticalSection, InitializeCriticalSectionEx, DeleteCriticalSection, EncodePointer, DecodePointer, QueryPerformanceCounter, GetSystemTimePreciseAsFileTime, LCMapStringEx, GetCPInfo, WakeAllConditionVariable, SleepConditionVariableSRW, RtlCaptureContext ...
+  ole32.dll (1): StringFromGUID2
+  SETUPAPI.dll (4): CM_Get_Device_ID_List_SizeW, CM_Get_Device_ID_ListW, CM_Open_DevNode_Key, CM_Locate_DevNodeW
+  VERSION.dll (1): VerQueryValueW
+  wer.dll (5): WerReportSetParameter, WerReportAddFile, WerReportSubmit, WerReportCreate, WerReportAddDump
+total imports: 119
+ver FileDescription = D3D12 Driver
+ver ProductVersion = 31.0.100.1688
+ver FileVersion = 31.0.100.1688
+ver InternalName = npu_d3d12_umd.dll
+ver ProductName = Intel(R) NPU Driver
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver CompanyName = Intel(R) Corporation
+resource types: WEVT_TEMPLATE, 11, 16
+
+### npu_blob_parser.dll
+path: code$GetExtractPath$/Driver/npu_blob_parser.dll
+size: 1297672 sha256: e8f01d556d1d81328bcd855820c6561efac6fe948aebe71f286f2d6dae00244b
+machine: 0x8664 sections: 7 timestamp: 1698793236 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0x4fcc0 subsystem: 3 dllchars: 0x41e0
+pdb: 
+pdb: C:\Temp\oizlkabvmc\build\x64\Source\blobparser\Release\npu_blob_parser.pdb
+sections:
+  .text    vsize=0xfcdcc rawsize=0xfce00 vaddr=0x1000 chars=0x60000020 entropy=6.49
+  .rdata   vsize=0x2ccfa rawsize=0x2ce00 vaddr=0xfe000 chars=0x40000040 entropy=5.47
+  .data    vsize=0x501c rawsize=0x2600 vaddr=0x12b000 chars=0xc0000040 entropy=3.77
+  .pdata   vsize=0xb400 rawsize=0xb400 vaddr=0x131000 chars=0x40000040 entropy=6.15
+  _RDATA   vsize=0x200 rawsize=0x200 vaddr=0x13d000 chars=0x40000040 entropy=4.12
+  .rsrc    vsize=0x528 rawsize=0x600 vaddr=0x13e000 chars=0x40000040 entropy=3.80
+  .reloc   vsize=0xf58 rawsize=0x1000 vaddr=0x13f000 chars=0x42000040 entropy=5.36
+exports: 11
+  0x3ef0 ord=1 bpParserCreate
+  0x3f70 ord=2 bpParserDestroy
+  0x3fb0 ord=3 bpParserDumpBuffer
+  0x4000 ord=4 bpParserGetBuffer
+  0x4310 ord=5 bpParserGetInputCount
+  0x4350 ord=6 bpParserGetInputTensorDesc
+  0x4370 ord=7 bpParserGetInputTensorDesc2
+  0x4390 ord=8 bpParserGetOutputCount
+  0x43d0 ord=9 bpParserGetOutputTensorDesc
+  0x43f0 ord=10 bpParserGetOutputTensorDesc2
+  0x4410 ord=11 bpParserMergeInferences
+import dlls: 1
+  KERNEL32.dll (134): CloseHandle, EnterCriticalSection, LeaveCriticalSection, InitializeCriticalSectionAndSpinCount, DeleteCriticalSection, SetEvent, ResetEvent, WaitForSingleObjectEx, CreateEventW, GetModuleHandleW, GetProcAddress, RtlCaptureContext, RtlLookupFunctionEntry, RtlVirtualUnwind, UnhandledExceptionFilter, SetUnhandledExceptionFilter, GetCurrentProcess, TerminateProcess, IsProcessorFeaturePresent, IsDebuggerPresent, GetStartupInfoW, QueryPerformanceCounter, GetCurrentProcessId, GetCurrentThreadId, GetSystemTimeAsFileTime, InitializeSListHead, QueryPerformanceFrequency, FormatMessageA, WideCharToMultiByte, SetFileInformationByHandle, GetTempPathW, FlsAlloc, FlsGetValue, FlsSetValue, FlsFree, InitializeSRWLock, ReleaseSRWLockExclusive, AcquireSRWLockExclusive, TryAcquireSRWLockExclusive, InitializeCriticalSectionEx, InitOnceExecuteOnce, InitializeConditionVariable, WakeConditionVariable, WakeAllConditionVariable, SleepConditionVariableCS, SleepConditionVariableSRW, CreateEventExW, CreateSemaphoreExW, FlushProcessWriteBuffers, GetCurrentProcessorNumber, GetTickCount64, FreeLibraryWhenCallbackReturns, CreateThreadpoolWork, SubmitThreadpoolWork, CloseThreadpoolWork, CreateThreadpoolTimer, SetThreadpoolTimer, WaitForThreadpoolTimerCallbacks, CloseThreadpoolTimer, CreateThreadpoolWait ...
+total imports: 134
+ver FileDescription = Blob Parser Library
+ver ProductVersion = 31.0.100.1688
+ver FileVersion = 31.0.100.1688
+ver InternalName = 
+ver ProductName = Intel(R) NPU Blob Parser
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver CompanyName = Intel(R) Corporation
+resource types: 16, 24
+
+### npu_level_zero_umd.dll
+path: code$GetExtractPath$/Driver/npu_level_zero_umd.dll
+size: 1227016 sha256: df2737b0be2fca86356b9d2211cfb60ac87646aa8a6cc79b0a16d6f6f3482b92
+machine: 0x8664 sections: 7 timestamp: 1698793224 chars: 0x2022
+magic: 0x020b imagebase: 0x180000000 entry: 0xa1b90 subsystem: 3 dllchars: 0x4160
+pdb: 
+pdb: C:\Temp\oizlkabvmc\build\x64\Source\Umd\LevelZero\Release\npu_level_zero_umd.pdb
+sections:
+  .text    vsize=0xd02dc rawsize=0xd0400 vaddr=0x1000 chars=0x60000020 entropy=6.31
+  .rdata   vsize=0x3b54a rawsize=0x3b600 vaddr=0xd2000 chars=0x40000040 entropy=5.63
+  .data    vsize=0xc9ec rawsize=0x6200 vaddr=0x10e000 chars=0xc0000040 entropy=3.92
+  .pdata   vsize=0x9300 rawsize=0x9400 vaddr=0x11b000 chars=0x40000040 entropy=5.95
+  _RDATA   vsize=0x200 rawsize=0x200 vaddr=0x125000 chars=0x40000040 entropy=4.05
+  .rsrc    vsize=0xb3c0 rawsize=0xb400 vaddr=0x126000 chars=0x40000040 entropy=4.01
+  .reloc   vsize=0x13a0 rawsize=0x1400 vaddr=0x132000 chars=0x42000040 entropy=5.41
+exports: 46
+  0xc6cc0 ord=1 zeGetCommandListProcAddrTable
+  0xc6f00 ord=2 zeGetCommandQueueProcAddrTable
+  0xc7030 ord=3 zeGetContextProcAddrTable
+  0xc7160 ord=4 zeGetDeviceProcAddrTable
+  0xc7490 ord=5 zeGetDriverProcAddrTable
+  0xc6900 ord=6 zeGetEventPoolProcAddrTable
+  0xc69f0 ord=7 zeGetEventProcAddrTable
+  0xc6b70 ord=8 zeGetFenceProcAddrTable
+  0xc75e0 ord=9 zeGetGlobalProcAddrTable
+  0xc68e0 ord=10 zeGetImageProcAddrTable
+  0xc6880 ord=11 zeGetKernelProcAddrTable
+  0xc6700 ord=12 zeGetMemProcAddrTable
+  0xc68b0 ord=13 zeGetModuleBuildLogProcAddrTable
+  0xc68c0 ord=14 zeGetModuleProcAddrTable
+  0xc6860 ord=15 zeGetPhysicalMemProcAddrTable
+  0xc6870 ord=16 zeGetSamplerProcAddrTable
+  0xc66e0 ord=17 zeGetVirtualMemProcAddrTable
+  0xc8610 ord=18 zesGetDeviceProcAddrTable
+  0xc8150 ord=19 zesGetDiagnosticsProcAddrTable
+  0xc87c0 ord=20 zesGetDriverProcAddrTable
+  0xc8290 ord=21 zesGetEngineProcAddrTable
+  0xc8210 ord=22 zesGetFabricPortProcAddrTable
+  0xc81b0 ord=23 zesGetFanProcAddrTable
+  0xc8250 ord=24 zesGetFirmwareProcAddrTable
+  0xc8420 ord=25 zesGetFrequencyProcAddrTable
+  0xc8190 ord=26 zesGetLedProcAddrTable
+  0xc8230 ord=27 zesGetMemoryProcAddrTable
+  0xc85d0 ord=28 zesGetPerformanceFactorProcAddrTable
+  0xc85b0 ord=29 zesGetPowerProcAddrTable
+  0xc81d0 ord=30 zesGetPsuProcAddrTable
+  0xc8170 ord=31 zesGetRasProcAddrTable
+  0xc85f0 ord=32 zesGetSchedulerProcAddrTable
+  0xc8270 ord=33 zesGetStandbyProcAddrTable
+  0xc81f0 ord=34 zesGetTemperatureProcAddrTable
+  0xc8f70 ord=35 zetGetCommandListProcAddrTable
+  0xc9080 ord=36 zetGetContextProcAddrTable
+  0xc8b00 ord=37 zetGetDebugProcAddrTable
+  0xc9110 ord=38 zetGetDeviceProcAddrTable
+  0xc8f30 ord=39 zetGetKernelProcAddrTable
+  0xc8e60 ord=40 zetGetMetricGroupProcAddrTable
+  0xc8db0 ord=41 zetGetMetricProcAddrTable
+  0xc8c30 ord=42 zetGetMetricQueryPoolProcAddrTable
+  0xc8b40 ord=43 zetGetMetricQueryProcAddrTable
+  0xc8ce0 ord=44 zetGetMetricStreamerProcAddrTable
+  0xc8f50 ord=45 zetGetModuleProcAddrTable
+  0xc8b20 ord=46 zetGetTracerExpProcAddrTable
+import dlls: 9
+  api-ms-win-dx-d3dkmt-l1-1-0.dll (1): D3DKMTQueryAdapterInfo
+  ADVAPI32.dll (8): StartTraceW, EnableTraceEx2, RegCloseKey, EventWriteTransfer, RegQueryValueExA, EventRegister, ControlTraceW, EventUnregister
+  ext-ms-win-dxcore-l1-1-0.dll (1): DXCoreCreateAdapterFactory
+  KERNEL32.dll (117): GetProcessHeap, GetModuleFileNameW, SetEnvironmentVariableW, SetStdHandle, GetEnvironmentVariableW, EnumResourceNamesW, OpenEventW, FreeEnvironmentStringsW, GetModuleHandleExW, GetCommandLineW, GetCurrentThread, WaitForSingleObjectEx, LockResource, CloseHandle, LoadLibraryW, LoadResource, FindResourceW, GetCurrentProcess, WriteConsoleW, GetProcAddress, GetCurrentProcessId, GetPhysicallyInstalledSystemMemory, GetEnvironmentStringsW, LoadLibraryExW, IsDebuggerPresent, WaitForSingleObject, CreateEventW, GetCommandLineA, FlsAlloc, GetOEMCP, GetACP, IsValidCodePage, EnumSystemLocalesW, GetUserDefaultLCID, IsValidLocale, GetLocaleInfoW, LCMapStringW, CompareStringW, GetCurrentDirectoryW, CreateFileW, FindClose, FindFirstFileExW, FindNextFileW, GetFileAttributesW, GetTempPathW, AreFileApisANSI, GetLastError, GetModuleHandleW, MultiByteToWideChar, WideCharToMultiByte, LocalFree, FormatMessageA, GetLocaleInfoEx, SwitchToThread, GetCurrentThreadId, GetExitCodeThread, QueryPerformanceCounter, QueryPerformanceFrequency, GetStringTypeW, InitializeSRWLock ...
+  d3d12.dll (1): #101
+  ole32.dll (1): StringFromGUID2
+  SETUPAPI.dll (4): CM_Get_Device_ID_ListW, CM_Get_Device_ID_List_SizeW, CM_Open_DevNode_Key, CM_Locate_DevNodeW
+  VERSION.dll (1): VerQueryValueW
+  wer.dll (5): WerReportAddFile, WerReportSetParameter, WerReportSubmit, WerReportCreate, WerReportAddDump
+total imports: 139
+ver FileDescription = Level Zero Driver
+ver ProductVersion = 31.0.100.1688
+ver FileVersion = 31.0.100.1688
+ver InternalName = npu_level_zero_umd.dll
+ver ProductName = Intel(R) NPU Driver
+ver LegalCopyright = Copyright 2023 Intel(R) Corporation.  All rights reserved.
+ver CompanyName = Intel(R) Corporation
+resource types: WEVT_TEMPLATE, 11, 16

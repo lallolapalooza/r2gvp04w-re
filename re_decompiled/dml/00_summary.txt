@@ -1,0 +1,7 @@
+program: npu_dml_compiler.dll
+total_functions: 194373
+decompiled_ok: 194261
+decompile_failed: 112
+exports: 20
+imports: 220
+elapsed_sec: 8996

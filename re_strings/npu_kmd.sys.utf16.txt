@@ -1,0 +1,448 @@
+DebugLevel
+\Registry\Machine\Software\Intel\VPU
+DbgPrintEx
+ExInitializeDeviceAts
+\DosDevices\
+FirmwareFile
+CheckFirstBoot
+FirmwareFip3700File
+FirmwareBootFit3700File
+FirmwareBoot3700File
+DvfsMode
+DvfsModeOnDemandHighestResidency
+DvfsModeOnDemandHighResidency
+DvfsModeOnDemandLowResidency
+DvfsModeOnDemandLowestResidency
+DvfsModeOnDemandChangeHighestResidency
+DvfsModeOnDemandChangeHighResidency
+DvfsModeOnDemandChangeLowResidency
+DvfsModeOnDemandChangeLowestResidency
+DvfsModeOnDemandSamplingPeriodInMilliSec
+DvfsModeOnDemandAveragingWindowSize
+GlobalAliasedPioAddress
+GlobalAliasedPioSize
+FirmwareVpuGen27File_MoviSim
+FirmwareVpuGen27File
+FirmwareVpuGen40File
+FirmwareVpuGen5File
+EnableD0i3Test
+RtlQueryRegistryValuesEx
+EnforceLnlVpuDevice
+EnforceVpu5Device
+EnableMmuDefaultSsidWa
+DisableSimicsPunitWb
+DisablePreemption
+DisableEngineReset
+CheckCmdSyncMsiData
+EnableWarmBoot
+EnableNullSubmissionInFW
+MapTrustedKernels
+EnableNonMep
+c:\Intel\VPU
+%s%.*s
+%4d_%2d_%2d_%2d_%2d_%2d
+\VpuCriticalTrace_
+%s%s%s%s
+\VpuArmCrashDump_
+EnableTimerMetric
+SHA512
+HashDigestLength
+EnableVirtualCopyEngine
+\DosDevices\unc\
+Compute
+NT AUTHORITY
+USER MODE DRIVERS
+NT SERVICE
+FrameServer
+svchost.exe
+ZwQueryInformationProcess
+System/Unknown
+\BaseNamedObjects\VpuJobCompletionEvent
+PreemptionDelayInMS
+KeQueryActiveProcessorCountEx
+(null)
+C:\BufDbg.txt
+EngineCompute
+YEngineCopy
+D3Transition
+Adapter
+Memory
+MemoryRefresh
+\Device\DxgKrnl
+\Registry\Machine\System\CurrentControlSet\Services\DXGKrnl
+RtlQueryModuleInformation
+         h((((                  H
+                                 H
+WEVT_TEMPLATE
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+040904b0
+FileDescription
+Kernel Mode Driver
+ProductVersion
+31.0.100.1688
+FileVersion
+31.0.100.1688
+InternalName
+npu_kmd.sys
+ProductName
+Intel(R) NPU Driver
+LegalCopyright
+Copyright 2023 Intel(R) Corporation.  All rights reserved.
+CompanyName
+Intel(R) Corporation
+Information
+AddDevice
+StartDevice
+StopDevice
+RemoveDevice
+InterruptRoutine
+DpcRoutine
+Escape
+SetPowerState
+ResetFromTimeout
+RestartFromTimeout
+CollectDbgInfo
+SetPowerComponentFState
+PowerRuntimeControlRequest
+QueryAdapterInfo
+SubmitCommandVirtual
+PreemptCommand
+QueryEngineStatus
+ResetEngine
+QueryDependentEngineGroup
+CalibrateGpuClock
+CreateContext
+DestroyContext
+CreateDevice
+DestroyDevice
+GetNodeMetadata
+SetRootPageTable
+BuildPagingBuffer
+CreateProcess
+DestroyProcess
+SetPowerComponentActive
+SetPowerComponentIdle
+NotifyInterrupt
+NotifyDpc
+ReadDeviceSpace
+WriteDeviceSpace
+SubmitCommand
+AddDevice - Start
+AddDevice - End
+StartDevice - Start
+StartDevice - End
+StopDevice - Start
+StopDevice - End
+RemoveDevice - Start
+RemoveDevice - End
+InterruptRoutine - Start
+InterruptRoutine - End
+DpcRoutine - Start
+DpcRoutine - End
+Escape - Start
+Escape - End
+SetPowerState - Start
+SetPowerState - End
+ResetFromTimeout - Start
+ResetFromTimeout - End
+RestartFromTimeout - Start
+RestartFromTimeout - End
+CollectDbgInfo - Start
+CollectDbgInfo - End
+SetPowerComponentFState - Start
+SetPowerComponentFState - End
+PowerRuntimeControlRequest - Start
+PowerRuntimeControlRequest - End
+QueryAdapterInfo - Start
+QueryAdapterInfo - End
+SubmitCommandVirtual - Start
+SubmitCommandVirtual - End
+SubmitCommand - Start
+SubmitCommand - End
+PreemptCommand - Start
+PreemptCommand - End
+QueryEngineStatus - Start
+QueryEngineStatus - End
+ResetEngine - Start
+ResetEngine - End
+QueryDependentEngineGroup - Start
+QueryDependentEngineGroup - End
+CalibrateGpuClock - Start
+CalibrateGpuClock - End
+CreateContext - Start
+CreateContext - End
+DestroyContext - Start
+DestroyContext - End
+CreateDevice - Start
+CreateDevice - End
+DestroyDevice - Start
+DestroyDevice - End
+GetNodeMetadata - Start
+GetNodeMetadata - End
+SetRootPageTable - Start
+SetRootPageTable - End
+BuildPagingBuffer - Start
+BuildPagingBuffer - End
+CreateProcess - Start
+CreateProcess - End
+DestroyProcess - Start
+DestroyProcess - End
+SetPowerComponentActive - Start
+SetPowerComponentActive - End
+SetPowerComponentIdle - Start
+SetPowerComponentIdle - End
+NotifyInterrupt - Start
+NotifyInterrupt - End
+NotifyDpc - Start
+NotifyDpc - End
+ReadDeviceSpace - Start
+ReadDeviceSpace - End
+WriteDeviceSpace - Start
+WriteDeviceSpace - End
+Intel-NPU-Kmd/Operational
+	EventData
+PhysicalDeviceObject
+PhysicalDeviceObject
+	EventData
+MiniportDeviceContext
+Status
+MiniportDeviceContext
+Status
+	EventData
+MiniportDeviceContext
+MiniportDeviceContext
+	EventData
+MiniportDeviceContext
+MiniportDeviceContext
+	EventData
+MiniportDeviceContext
+MessageNumber
+MiniportDeviceContext
+MessageNumber
+	EventData
+MiniportDeviceContext
+MiniportDeviceContext
+	EventData
+hAdapter
+hAdapter
+	EventData
+MiniportDeviceContext
+DevicePowerState
+PowerAction
+MiniportDeviceContext
+DevicePowerState
+PowerAction
+	EventData
+hAdapter
+hAdapter
+	EventData
+hAdapter
+hAdapter
+	EventData
+hAdapter
+hAdapter
+	EventData
+DriverContext
+ComponentIndex
+FState
+DriverContext
+ComponentIndex
+FState
+	EventData
+DriverContext
+DriverContext
+	EventData
+hAdapter
+hAdapter
+	EventData
+hAdapter
+NodeOrdinal
+hContext
+DmaBufferVirtualAddress
+SubmissionFenceId
+hAdapter
+NodeOrdinal
+hContext
+DmaBufferVirtualAddress
+SubmissionFenceId
+	EventData
+hAdapter
+NodeOrdinal
+SubmissionFenceId
+hAdapter
+NodeOrdinal
+SubmissionFenceId
+	EventData
+hAdapter
+NodeOrdinal
+PreemptionFenceId
+hAdapter
+NodeOrdinal
+PreemptionFenceId
+	EventData
+hAdapter
+NodeOrdinal
+hAdapter
+NodeOrdinal
+	EventData
+hAdapter
+NodeOrdinal
+hAdapter
+NodeOrdinal
+	EventData
+hAdapter
+NodeOrdinal
+hAdapter
+NodeOrdinal
+	EventData
+hAdapter
+NodeOrdinal
+hAdapter
+NodeOrdinal
+	EventData
+hDevice
+NodeOrdinal
+hDevice
+NodeOrdinal
+	EventData
+hContext
+hContext
+	EventData
+hAdapter
+hAdapter
+	EventData
+hDevice
+hDevice
+	EventData
+hAdapter
+NodeOrdinal
+hAdapter
+NodeOrdinal
+	EventData
+hAdapter
+hContext
+Address
+hAdapter
+hContext
+Address
+	EventData
+hAdapter
+	Operation
+hAdapter
+Operation
+	EventData
+hAdapter
+hAdapter
+	EventData
+hAdapter
+hKmdProcess
+hAdapter
+hKmdProcess
+	EventData
+hAdapter
+ComponentIndex
+hAdapter
+ComponentIndex
+	EventData
+hAdapter
+ComponentIndex
+hAdapter
+ComponentIndex
+	EventData
+hAdapter
+InterruptType
+hAdapter
+InterruptType
+	EventData
+hAdapter
+hAdapter
+	EventData
+hDevice
+Offset
+hDevice
+Offset
+	EventData
+hDevice
+Offset
+hDevice
+Offset
+Intel-NPU-Kmd
+win:Start
+win:Stop
+win:Informational
+AddDevice
+StartDevice
+StopDevice
+RemoveDevice
+InterruptRoutine
+DpcRoutine
+Escape
+SetPowerState
+ResetFromTimeout
+RestartFromTimeout
+CollectDbgInfo
+SetPowerComponentFState
+PowerRuntimeControlRequest
+QueryAdapterInfo
+SubmitCommandVirtual
+PreemptCommand
+QueryEngineStatus
+ResetEngine
+QueryDependentEngineGroup
+CalibrateGpuClock
+CreateContext
+DestroyContext
+CreateDevice
+DestroyDevice
+GetNodeMetadata
+SetRootPageTable
+BuildPagingBuffer
+CreateProcess
+DestroyProcess
+SetPowerComponentActive
+SetPowerComponentIdle
+NotifyInterrupt
+NotifyDpc
+ReadDeviceSpace
+WriteDeviceSpace
+SubmitCommand
+AddDevice
+StartDevice
+StopDevice
+RemoveDevice
+InterruptRoutine
+DpcRoutine
+Escape
+SetPowerState
+ResetFromTimeout
+RestartFromTimeout
+CollectDbgInfo
+SetPowerComponentFState
+PowerRuntimeControlRequest
+QueryAdapterInfo
+SubmitCommandVirtual
+PreemptCommand
+QueryEngineStatus
+ResetEngine
+QueryDependentEngineGroup
+CalibrateGpuClock
+CreateContext
+DestroyContext
+CreateDevice
+DestroyDevice
+GetNodeMetadata
+SetRootPageTable
+BuildPagingBuffer
+CreateProcess
+DestroyProcess
+SetPowerComponentActive
+SetPowerComponentIdle
+NotifyInterrupt
+NotifyDpc
+ReadDeviceSpace
+WriteDeviceSpace
+SubmitCommand
+"Intel Corporatio

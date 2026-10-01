@@ -1,0 +1,7 @@
+program: npu_d3d12_umd.dll
+total_functions: 2918
+decompiled_ok: 2915
+decompile_failed: 3
+exports: 2
+imports: 115
+elapsed_sec: 817

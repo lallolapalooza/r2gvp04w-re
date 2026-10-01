@@ -1,0 +1,7 @@
+program: moviAsm64.dll
+total_functions: 8847
+decompiled_ok: 8828
+decompile_failed: 19
+exports: 5
+imports: 93
+elapsed_sec: 1156
