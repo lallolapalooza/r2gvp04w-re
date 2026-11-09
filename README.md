@@ -5,5 +5,4 @@ this driver. I think it's not very useful due to its low power of 50 gflops, and
 
 The agent sessions behind this work are checked in under [`session/`](session/):
 `omp-session-archive.zip` (main export, with viewer) and `omp-npu-chats.zip`
-(earlier archives grouped by topic). They are mirrored as release assets on
-[`omp-session-archive`](https://github.com/lallolapalooza/r2gvp04w-re/releases/tag/omp-session-archive).
+(earlier archives grouped by topic).
